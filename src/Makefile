@@ -17,5 +17,8 @@ all:
 
 run: all
 	git diff
+
+commit:
 	git add --all
-	git commit -m "Added new ../filters"
+	git commit -m "Added new filters"
+	git push origin master
