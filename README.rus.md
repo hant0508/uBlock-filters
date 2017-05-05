@@ -8,10 +8,10 @@ Language: **Русский|[English](/README.md)**
 активной разработки.
 
 **Установка списка фильтров:**
-нажмите **[подписаться](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hant0508/uBlock-fillters/master/filters.txt&title=Filters%20by%20hant0508)** или используйте прямую ссылку:<br>
-`https://raw.githubusercontent.com/hant0508/uBlock-fillters/master/filters.txt`
+нажмите **[подписаться](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hant05080/uBlock-filters/master/filters.txt&title=Filters%20by%20hant0508)** или используйте прямую ссылку:<br>
+`https://raw.githubusercontent.com/hant05080/uBlock-filters/master/filters.txt`
 
-### Рекоммендации
+### Рекомендации
 
 Данный список фильтров совместим с большинством современных блокировщиков, однако для поддержки всех возможностей рекомендуется
 использовать [uBlock Origin](https://github.com/gorhill/uBlock) — он имеет более широкий функционал и потребляет меньше ресурсов в

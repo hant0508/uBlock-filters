@@ -7,8 +7,8 @@ substantially free of intersections with them. The list is made for blocking ad 
 by other filter lists maintainers. It is regularly updated and actively developed for now.
 
 **Filter list installation:**
-click **[subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hant0508/uBlock-fillters/master/filters.txt&title=Filters%20by%20hant0508)** or use direct link:<br>
-`https://raw.githubusercontent.com/hant0508/uBlock-fillters/master/filters.txt`
+click **[subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hant05080/uBlock-filters/master/filters.txt&title=Filters%20by%20hant0508)** or use direct link:<br>
+`https://raw.githubusercontent.com/hant05080/uBlock-filters/master/filters.txt`
 
 ### Recommendations
 This filter list is compatible with most modern ad blockers, however it's recommended to use
