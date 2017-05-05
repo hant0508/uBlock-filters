@@ -1,0 +1,16 @@
+[Adblock Plus 2.0]
+! Title: Filters by hant0508
+! Version: 3.6.0
+! Homepage: https://github.com/hant05080/uBlock-filters
+
+! Recommended to use with:
+! - EasyList
+! - EasyPrivacy
+! - Adblock Warning Removal List
+! - Malware domains
+! - RU AdList
+! - Adguard Russian Filter (https://adguard.com/ru/filter-rules.html?id=1)
+! - uBlock Filters + (https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt)
+! - RU AdList: Counters (https://easylist-downloads.adblockplus.org/cntblock.txt)
+! - I don't care about cookies (http://www.kiboke-studio.hr/i-dont-care-about-cookies/abp)
+! - hpHosts (http://hosts-file.net)

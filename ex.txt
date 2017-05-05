@@ -1,0 +1,20 @@
+@@/adguard.
+@@/pr.php?
+@@||*.*$popup,domain=google.com
+@@||cs.pikabu.ru/files/ad/*.png
+@@||gigatorrent.net^
+@@||google.*/adwords/*$domain=www.google.ru
+@@||mc.yandex.ru/metrika/watch.js$script,domain=nofelet.ru
+@@||mymeizu.ru/bitrix/templates/m2mini/content$image
+@@||relap.io/api$script,domain=adme.ru
+@@||speedtest.net/javascript/speedtest-main.js?*
+@@||u.alicdn.com/??js/6v/lib/arale/widget/widget.js,js/6v/lib/arale/templatable/templatable.js,js/6v/biz/common/click-stat/click-stat.js,mobile/ae/common/hawe/1.0.4/hawe.js$script,domain=sale.aliexpress.com
+@@||u.alicdn.com/js/5v/run/pool/monitor/beacon_async.js$script,domain=sale.aliexpress.com
+@@||videouroki.net/img/*/*.gif
+comss.ru#@#.top + .av
+danieldefo.ru#@#.bannerBlock
+google.com#@#a[href]
+joyreactor.cc#@#div#sidebar
+marketgid.com#@#a[href*="marketgid.com/"]
+megafon.ru#@#div[id^="AdFox_banner_"]
+new.gramota.ru#@##main-sec > .block-side:last-child

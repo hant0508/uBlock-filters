@@ -64,7 +64,6 @@ ovgorskiy.ru##:xpath(/html/body//div[@class="zsnazzy" and div[@class="xboxconten
 pikabu.ru##:xpath(/html/body//div[@class="story" and .//a[@class="story__author" and text()="ads"]])
 pikabu.ru##:xpath(/html/body//span[@id="right_menu"]//table[.//text()="Промо"])
 velocityreviews.com##:xpath(/html/body//li[@class="message" and ./div[@class="messageAdvertising"]])
-vk.com##:xpath(/html/body//div[div[@class="_post_content" and .//div[@class="wall_marked_as_ads"]]])
 yandex.ru##:xpath(/html/body//div/div[a[./text()="Яндекс.Директ"]])
 
 ! Style rules
@@ -143,7 +142,6 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||activeinfo.ru/ai.gif
 ||adminvps.ru/img/buttons/AV468x60.gif
 ||alexlarin.net/970x90*.png
-||alleng.ru/images/coin32/bt-green.png
 ||allforchildren.ru/img/lolo.gif
 ||allsport-news.net/leon.gif
 ||alma-ata.cf/*.html
@@ -180,7 +178,6 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||dinternal.com.ua/wp-content/themes/dinternal/images/s2a-inner.gif
 ||dinternal.com.ua/wp-content/themes/dinternal/images/shop*
 ||dinternal.com.ua/wp-content/themes/dinternal/images/vac.jpg
-||dljatela.ru/wp-content/uploads/2017/05/Banner
 ||e-pay.tv/i/250х250.gif
 ||ecoteco.ru/assets/images/banners/
 ||ege-ok.ru/wp-content/uploads/*/*/*.gif
@@ -191,8 +188,6 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||football-tv.ru/images/banner
 ||funkyimg.com/i/*.jpg
 ||futbik.net/templates/*/*/banner/
-||geobravo.isrageo.com/files/partner/promotion/
-||gervash.ru/wp-content/themes/QuerTheme/images/*banner.jpg
 ||gidonline.club/wp-content/themes/gidonline/js/jsbox1.js
 ||go4convert.com/cmi.png
 ||go4convert.com/cwf.png
@@ -253,7 +248,6 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||red.tingrinter.com/
 ||reklama*.ngs.ru/
 ||reshimvse.com/artadmin/$image
-||robo-host.ru/banner
 ||ru.onlinemschool.com/*/prmo/
 ||ru.onlinemschool.com/pictures/promo
 ||ru.onlinemschool.com/pictures/trq/
@@ -355,7 +349,6 @@ ame-game.com.ua###main-carcas > .content > tbody > tr:nth-of-type(1) > .cont_lef
 anekdot.ru##table > tbody > tr:nth-of-type(4) > .rightcolumn
 anti-malware.ru###popup
 anti-malware.ru###slidebox
-antimarketing.by##.ban
 antonkozlov.ru###sidebar_friends
 articulos.softonic.com###popup-newsletter-article
 articulos.softonic.com##.ov_opened.ov_modal_bkgnd_layer
@@ -401,7 +394,6 @@ deita.ru###stMainRight > .stRightBunner_right.stBunner
 delayreferat.ru##.side-border-left
 delayreferat.ru##.side-border-right
 dfiles.ru###iframe_console
-dljatela.ru###tertiary
 dns-shop.ru##.container > main > .ad-content-banner-under-window
 download.chainfire.eu###bar-left
 download.chainfire.eu###bar-right
@@ -526,7 +518,6 @@ irc.lv###regForm
 irecommend.ru###bigright
 irecommend.ru###sidebar-left-top-content-wrapper
 irecommend.ru###sidebar-left-top-content-wrapper > .brusok-processed.brusok > .left-top-300x250
-isrageo.com##.td-banner-wrap-full
 itelevisor.ru##div > .a-overlay
 izvestia.ru##.wrap > .inner_news.columned.main_container > .center_column > .center_column_content > .text_page > .commercial_block:nth-of-type(9) > .rambler_news
 izvestia.ru##[id^=LentaInform]
@@ -645,7 +636,6 @@ parta.com.ua###block_gr
 parta.com.ua###left_menu > div:nth-of-type(1)
 parta.com.ua###left_menu > div:nth-of-type(7)
 pastebin.com###abrpm
-paustovskiy.niv.ru###tab_scroll_blok > .tmpl_table > tbody
 pcpro100.info###block_r
 pdalife.ru##.horizontalBanner
 petrograd.biz,petroleks.ru##table > tbody > tr > td[width="15%"][valign="top"][align="right"]
@@ -692,7 +682,6 @@ ren.tv###block-block-22
 ren.tv###block-block-24
 reshimvse.com###add
 reshimvse.com###right_block_add
-reshinfo.com###sidebarL
 resolventa.ru###parent_popup
 rg.ru##.banner-240x400
 rmprepusb.com##.sites-cookie-notice-fit
