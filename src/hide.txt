@@ -1,4 +1,6 @@
 100-000-pochemu.info###sidebar-left.sidebar.grid_4.top-margin > ul
+101greatgoals.com###banner-placement-
+101greatgoals.com##.banner-placement
 10minutemail.info###leftover
 10minutemail.info###right
 10minutemail.net###leftover
@@ -64,6 +66,9 @@ articulos.softonic.com##.ov_opened.ov_modal_bkgnd_layer
 ayu.ru##.baner-top
 babla.ru##.ad
 babla.ru##.info-wrapper
+baltimoresun.com##[class*="adBanner"]
+baltimoresun.com##[id*="_ad_"]
+baltimoresun.com##[id*="outfitAd"]
 barcaman.ru###content > .advert
 belta.by##.bans_flash
 bestru.ru##.main_box > .rightColumn
@@ -71,6 +76,7 @@ beznal.cc##.banners
 bicaps.net##.external
 bigpicture.ru##.section-main-project-link200.wrapper
 blinovrus.ru##.setup-bottom-panel
+boston.com##.radio-bdc
 chelyabinsk-info.ga##body > noindex
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(1)
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(3)
@@ -238,6 +244,7 @@ kampc-help.ru###art-main > .art-sheet.art-box > .art-sheet-body.art-box-body > .
 kampc-help.ru##.art-box-body.art-post-body > .art-post-inner > .art-postcontent > .art-article > center
 kampc-help.ru##.art-layout-cell.art-sidebar1 > .art-box.art-block
 kanobu.ru##.fluid-banner
+kingisepp-today.ru##.elite_vp_videoPlayerAD
 kinobaza.tv###fast-feedback-btn
 kinogb.net###fehu-content > .statics > .dwnl-osn > .dwnl-right
 kinogb.net###mcont > a[href="/premium.html"]
@@ -260,6 +267,7 @@ lurkmore.net###banner-left-240x200-0
 lyricsfreak.com##.large_wrapper.wrapper > .floatfix.song-content.content > .w100p.d-table > .d-row > .d-cell.al-t.sidebar > div:nth-of-type(1)
 maketecheasier.com##.ctContainer
 maketecheasier.com##.site-container > .after-header > [class]
+mako.co.il##.ad
 malekal.com##center
 manyahin.ru##footer
 markapon.ru##.side-banner
@@ -355,6 +363,7 @@ photobucket.com###adBlockMessaging
 php-zametki.ru###art-main > .art-sheet > .art-sheet-body > .art-content-layout > .art-content-layout-row > .art-sidebar1.art-layout-cell > .art-block:nth-of-type(7)
 physics.ru##body > noindex:nth-of-type(2)
 physics.ru##body > noindex:nth-of-type(3) > table > tbody > tr:nth-of-type(5)
+pikabu.ru##.ad-reset
 pleer.ru##.mainBlock.pie[style="margin-bottom: 15px; "]
 pleer.ru##noindex > center > .pie.gray_border
 plusworld.ru###container > .wrapper > .left-column > .banner__forum-fixed.ban-180x200:nth-of-type(1)
@@ -516,6 +525,7 @@ yandex.ru##.rows.container > .rows__row_first.rows__row.row > .col > .universal-
 yandex.ru##.search-snippet-view > .search-direct-snippet-view
 yandex.ru##.serp_js_inited.main_js_inited.i-bem.serp.main_right-panel-hidden_yes.main > .main__center > .main__content > .content_js_inited.i-bem.content > .content__left > .footer-stripe_revealed_yes.footer-stripe_js_inited.i-bem.serp.footer-stripe
 zakharenkova.ru##.adsbyfffs
+zam.com##.sticky-container.side-rail
 znak.com##figure
 znak.com##main > .x1.column.flex:nth-of-type(1) > .st
 znanija.com##.brn-ads-box

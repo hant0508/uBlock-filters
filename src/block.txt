@@ -76,10 +76,12 @@
 ||izvygon.ru/*.swf
 ||kampc-help.ru/img/30.gif
 ||keys.edufuture.biz/images/office-reform.jpg
+||kingisepp-today.ru/images/banner/
 ||kotovski.net/wp-content/uploads/*banner*
 ||kotovski.net/wp-content/uploads/CRONUS_Models3-1_600x200.png
 ||kuponlar.ru/res/knopki/kuponlar88x31.gif
 ||last.by/adv/kr.gif
+||liked.ru/s/i/bnr/
 ||magmens.com/wp-content/uploads/20*/*.gif
 ||matburo.ru/Data/banner
 ||matematikalegko.ru/img/260x249handrozdvd.jpg
