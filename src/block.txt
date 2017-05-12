@@ -48,6 +48,7 @@
 ||dinternal.com.ua/wp-content/themes/dinternal/images/shop*
 ||dinternal.com.ua/wp-content/themes/dinternal/images/vac.jpg
 ||dljatela.ru/wp-content/uploads/2017/05/Banner
+||dnevnyk-uspeha.com/*/banners/
 ||e-pay.tv/i/250х250.gif
 ||ecoteco.ru/assets/images/banners/
 ||ege-ok.ru/wp-content/uploads/*/*/*.gif
@@ -143,6 +144,7 @@
 ||technical-server.ru/media/upload/ban/
 ||teplo.guru/wp-content/uploads/banner
 ||theindependent.co.zw/wp-content/uploads/2015/12/13121B-ZB-Home-Improvements_ZimInd-*.jpg
+||tonymolystore.ru/2.2.3.gif
 ||transkart.ru/111/img/TIC_Excursion.gif
 ||transkart.ru/111/img/banner
 ||u.jimdo.com*/std/image.gif

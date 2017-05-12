@@ -111,6 +111,7 @@ delayreferat.ru##.side-border-right
 dfiles.ru###iframe_console
 dljatela.ru###tertiary
 dns-shop.ru##.container > main > .ad-content-banner-under-window
+domashniy.ru##.advert
 download.chainfire.eu###bar-left
 download.chainfire.eu###bar-right
 drivers.mydiv.net##div[style="margin:8px;margin-top:0px;border:1px #c0c0c0 solid; width: 336px;"]
@@ -280,6 +281,8 @@ mebeles-lv.ucoz.lv##p > a[href^="https://vk.com/"]
 mediazavod.ru##[id^="tx_banner"]
 medow.ru###execphp-3.widget.widget_execphp
 medow.ru###execphp-9.widget.widget_execphp
+medzubr.ru##body > div
+medzubr.ru##body>span
 meestekas.net##.textwidget > center
 megamozg.ru###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sidebar_fix.sidebar_right > .sticky-active.wrapper-sticky
 megamozg.ru###layout > .inner > .dont-add-our-site-pls
@@ -376,6 +379,7 @@ popuptest.com##table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > t
 pornolab.cf##body > div:not(#all)
 pornscrape.com##.css2table
 ppl.nnov.ru##a[href="http://www.monolit.nnov.ru/"]
+ppt4web.ru##.kr-banner-text
 pravoved.ru##.prvd-af-banner
 price4all.ru##body > .topreklama
 proficinema.ru###makeAllStatic

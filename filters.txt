@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.6.1
+! Version: 3.6.2
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -71,6 +71,7 @@ yandex.ru##:xpath(/html/body//div/div[a[./text()="Яндекс.Директ"]])
 ! Style rules
 4pda.ru###wrapper > div > div > div:style(background:#e6e7e9!important;)
 ivi.ru##.content-main:style(padding-top:0px!important;)
+medzubr.ru##html:style(margin-top:0px!important)
 proficinema.ru##html > body:style(background:none!important;margin-top:0px!important;)
 radikal.ru##body > .render_body_main:style(padding-top:0px!important;)
 redkassa.ru##html > body:style(background:none!important;)
@@ -88,17 +89,20 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||dle01.freesoftt2cc.name^
 ||dle30.sofftportall9nn.info^
 ||etofirma36.pp.ua^
+||eworkshop.ru^
 ||extrabase.ru^
 ||factor-vesa.net^
 ||fed2.ru^
 ||fiilueportal.dvvarf.pp.ua^
 ||file.freeddns.org^
+||fivalezobadanesokogu.xpg.uol.com.br^
 ||freesoft2scc.pp.ua^
 ||glav4.ru^
 ||gorspravki.ru^
 ||guestapp.ru^
 ||guf2.ru^
 ||hivxffti.oagroup.info^
+||kandibar.ru^
 ||kareliyarsp.ru^
 ||kyrenie.magbraslet.top^
 ||lapala.cl^
@@ -107,6 +111,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||mnn0gofilueus.dvvarf.pp.ua^
 ||mona-vi.ru^
 ||myblogoff.ru^
+||myshisha.ru^
 ||nkokbr.ru^
 ||pdf-knigi.com^
 ||peceqi.meda-21.ru^
@@ -118,9 +123,11 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||smartinf.ru^
 ||softing.draizer.ru^
 ||spenlobubestgas.files.wordpress.com^
+||styleous.ru^
 ||swhpgjkl.kyty.net^
 ||vid.x-casino.net^
 ||vk-com-auth5.com^
+||vsepro-forex.ru^
 ||vstrade.ru^
 ||vtradein.ru^
 ||webalta.ru^
@@ -182,6 +189,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||dinternal.com.ua/wp-content/themes/dinternal/images/shop*
 ||dinternal.com.ua/wp-content/themes/dinternal/images/vac.jpg
 ||dljatela.ru/wp-content/uploads/2017/05/Banner
+||dnevnyk-uspeha.com/*/banners/
 ||e-pay.tv/i/250х250.gif
 ||ecoteco.ru/assets/images/banners/
 ||ege-ok.ru/wp-content/uploads/*/*/*.gif
@@ -277,6 +285,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||technical-server.ru/media/upload/ban/
 ||teplo.guru/wp-content/uploads/banner
 ||theindependent.co.zw/wp-content/uploads/2015/12/13121B-ZB-Home-Improvements_ZimInd-*.jpg
+||tonymolystore.ru/2.2.3.gif
 ||transkart.ru/111/img/TIC_Excursion.gif
 ||transkart.ru/111/img/banner
 ||u.jimdo.com*/std/image.gif
@@ -412,6 +421,7 @@ delayreferat.ru##.side-border-right
 dfiles.ru###iframe_console
 dljatela.ru###tertiary
 dns-shop.ru##.container > main > .ad-content-banner-under-window
+domashniy.ru##.advert
 download.chainfire.eu###bar-left
 download.chainfire.eu###bar-right
 drivers.mydiv.net##div[style="margin:8px;margin-top:0px;border:1px #c0c0c0 solid; width: 336px;"]
@@ -581,6 +591,8 @@ mebeles-lv.ucoz.lv##p > a[href^="https://vk.com/"]
 mediazavod.ru##[id^="tx_banner"]
 medow.ru###execphp-3.widget.widget_execphp
 medow.ru###execphp-9.widget.widget_execphp
+medzubr.ru##body > div
+medzubr.ru##body>span
 meestekas.net##.textwidget > center
 megamozg.ru###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sidebar_fix.sidebar_right > .sticky-active.wrapper-sticky
 megamozg.ru###layout > .inner > .dont-add-our-site-pls
@@ -677,6 +689,7 @@ popuptest.com##table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > t
 pornolab.cf##body > div:not(#all)
 pornscrape.com##.css2table
 ppl.nnov.ru##a[href="http://www.monolit.nnov.ru/"]
+ppt4web.ru##.kr-banner-text
 pravoved.ru##.prvd-af-banner
 price4all.ru##body > .topreklama
 proficinema.ru###makeAllStatic
