@@ -78,6 +78,7 @@
 ||kampc-help.ru/img/30.gif
 ||keys.edufuture.biz/images/office-reform.jpg
 ||kingisepp-today.ru/images/banner/
+||kingisepp.ru/images/banner/
 ||kotovski.net/wp-content/uploads/*banner*
 ||kotovski.net/wp-content/uploads/CRONUS_Models3-1_600x200.png
 ||kuponlar.ru/res/knopki/kuponlar88x31.gif
@@ -134,6 +135,7 @@
 ||savoy.cubecdn.net/*.jpg
 ||server-rotation.ru/media/upload/ban/*
 ||sitehere.ru/inmymoney/pdf-otchet/*.png
+||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
 ||ss.nzbstars.com.xxxnavy.com/advertisement.js
 ||static.1tv.ru/uploads/promo_position/
 ||static.fastpic.ru/js/jquery*.js
@@ -165,3 +167,7 @@
 ||www.proficinema.ru/images/bg_mamy.jpg
 ||yandex.st/uefa16-frontend/1.0.30/i/extra/yabro/
 ||youpk.ru/wp-content/*/banner
+||город-кингисепп.рф/images/*.gif
+||егэша.рф/examen.png
+||кингисепп-сегодня.рф/images/banner/
+||кингисепп-сегодня.рф/userfiles/image/iconki/*.jpg

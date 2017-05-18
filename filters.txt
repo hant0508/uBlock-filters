@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.6.2
+! Version: 3.7.0
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -30,13 +30,12 @@
 @@||u.alicdn.com/??js/6v/lib/arale/widget/widget.js,js/6v/lib/arale/templatable/templatable.js,js/6v/biz/common/click-stat/click-stat.js,mobile/ae/common/hawe/1.0.4/hawe.js$script,domain=sale.aliexpress.com
 @@||u.alicdn.com/js/5v/run/pool/monitor/beacon_async.js$script,domain=sale.aliexpress.com
 @@||videouroki.net/img/*/*.gif
-comss.ru#@#.top + .av
 danieldefo.ru#@#.bannerBlock
 google.com#@#a[href]
 joyreactor.cc#@#div#sidebar
 marketgid.com#@#a[href*="marketgid.com/"]
-megafon.ru#@#div[id^="AdFox_banner_"]
 new.gramota.ru#@##main-sec > .block-side:last-child
+toolslib.net#@#.col-md-6
 
 ! Global rules
 ###WIX_ADS
@@ -219,6 +218,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||kampc-help.ru/img/30.gif
 ||keys.edufuture.biz/images/office-reform.jpg
 ||kingisepp-today.ru/images/banner/
+||kingisepp.ru/images/banner/
 ||kotovski.net/wp-content/uploads/*banner*
 ||kotovski.net/wp-content/uploads/CRONUS_Models3-1_600x200.png
 ||kuponlar.ru/res/knopki/kuponlar88x31.gif
@@ -275,6 +275,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||savoy.cubecdn.net/*.jpg
 ||server-rotation.ru/media/upload/ban/*
 ||sitehere.ru/inmymoney/pdf-otchet/*.png
+||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
 ||ss.nzbstars.com.xxxnavy.com/advertisement.js
 ||static.1tv.ru/uploads/promo_position/
 ||static.fastpic.ru/js/jquery*.js
@@ -306,6 +307,10 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||www.proficinema.ru/images/bg_mamy.jpg
 ||yandex.st/uefa16-frontend/1.0.30/i/extra/yabro/
 ||youpk.ru/wp-content/*/banner
+||город-кингисепп.рф/images/*.gif
+||егэша.рф/examen.png
+||кингисепп-сегодня.рф/images/banner/
+||кингисепп-сегодня.рф/userfiles/image/iconki/*.jpg
 
 ! Hiding rules
 100-000-pochemu.info###sidebar-left.sidebar.grid_4.top-margin > ul
@@ -337,12 +342,6 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 4ege.ru##.size-wrap > .centrovka > tbody > tr > .yip > div > object[width]
 4ege.ru##.size-wrap > .centrovka > tbody > tr > .yip > object
 4ege.ru##.size-wrap > .minbas
-4pda.ru###wrapper > div[class] > div[class] > div[id] > div[class] > section[id] > article[id] > .post > .visual > a[class][href^="http://4pda.ru/20"][target="_blank"][style=""]
-4pda.ru###wrapper > div[class] > div[class] > div[id] > div[class] > section[id] > article[id] > .post > .visual > a[class][href^="http://4pda.ru/20"][target="_blank"][title=""]
-4pda.ru###wrapper > div[class] > div[class] > div[id][class] > a[href]
-4pda.ru###wrapper > div[class] > div[class] > div[id][class] > a[style]
-4pda.ru###wrapper > div[class^="r"] > div[class^="r"] > div[class^="r"] > iframe[height="90"]
-4pda.ru##aside > div[class] > .sidebar_border_content
 5ballov.qip.ru###content > .right_sidebar > .h_block.panel
 720pizle.com##[id^="reklam"]
 8nog.com##.results.error1 > div:nth-of-type(1)
@@ -353,12 +352,7 @@ adme.ru##.js-fixed-like-box.fixed-like-box-blue
 adme.ru##.we-need-more-gold
 adme.ru##[class*="dialog-social"]
 aeroflot.ru##.main-body > .block-right
-afisha.yandex.ru##.b-page__inner > .page-content > .content-event > .main > .content-event__main.smart-grid > .smart-grid__right-column
-afisha.yandex.ru##.b-page__inner > .page-content > .content-events > .main > .smart-grid_adaptive_yes.smart-grid > .smart-grid__right-column
-afisha.yandex.ru##.content-place-other__sidebar.grid__sidebar.smart-grid__right > .i-sticky_js_inited.i-sticky_state_initial.i-bem.i-sticky
-afisha.yandex.ru##.grid_adaptive_yes.grid.b-page__inner > .grid__container > .page-content > .grid__margin-right.grid__margin-left.page-content__inner > .content-events_commercial_yes.content-events > .smart-grid > .content-events__sidebar.grid__sidebar.smart-grid__right > .i-sticky_js_inited.i-sticky_state_initial.i-bem.i-sticky
-afisha.yandex.ru##.popup__wrapper_behaviour_scrollable.popup__wrapper > .popup_visibility_visible.popup_js_inited.i-bem.page-modal__popup.popup_body-scroll_no.popup_wrapped_yes.popup_focusout_no.popup_behaviour_scrollable.popup_has-close_yes.popup_padding_no.popup_type_modal.popup_name_page-modal-uniq256.popup_animate_no.popup_adaptive_no.popup_autoclosable_yes.popup_theme_page-modal.popup > .popup__content > .content-event_js_inited.i-bem.content-event > .grid__margin-right.grid__margin-left.main > .content-event__main.smart-grid > .grid__sidebar.smart-grid__right
-afisha.yandex.ru##.smart-grid__right-column
+afisha.yandex.ru##.yabs_type_banners.yabs
 agar.io###helloContainer > .side-container:nth-of-type(4) > .agario-promo
 agar.io###mainPanel > center
 all-biography.ru###right-sidebar > [class*="ads_banner"]
@@ -399,6 +393,8 @@ compconsult.orgfree.com###block-block-17.block.block-block
 comss.info###header > .toplogo > span
 comss.ru###container > div:nth-of-type(1) > a[href="download/Adguard.html"]
 comss.ru###container > div:nth-of-type(6) > div > a[href="http://www.comss.ru/download/Adguard.html"]
+comss.ru##.container:if(span:has-text(/Реклама/))
+comss.ru##a[href^="https://www.comss.ru/page.php?al=adguard"] > img
 convertio.co##.main-wrapper-for-sticky-footer > .inner-new-page.content > .content-wrapper > .blur-bg-wrap
 cqham.ru##blockquote > p:nth-of-type(62)
 cqham.ru##div > center > table > tbody > tr:nth-of-type(1)
@@ -506,22 +502,16 @@ habrahabr.ru##.html_banner_wrap
 habrahabr.ru##.js-ad_sticky
 habrahabr.ru##.lain_13_what_are_you_doing
 habrahabr.ru##.xyz_wrapper
-hackzone.ru##div:nth-of-type(1) > a[href="/forum/open/id/1908/"]
-hackzone.ru##div:nth-of-type(2) > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td > table:nth-of-type(3) > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > .plashka1:nth-of-type(5)
-hackzone.ru##div:nth-of-type(2) > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td > table:nth-of-type(3) > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > .plashka1:nth-of-type(6)
-hackzone.ru##div:nth-of-type(2) > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td > table:nth-of-type(3) > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > div:nth-of-type(5)
-hackzone.ru##div:nth-of-type(2) > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td > table:nth-of-type(3) > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > div:nth-of-type(6)
-hackzone.ru##div:nth-of-type(2) > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td > table:nth-of-type(3) > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > div:nth-of-type(7)
-hackzone.ru##div:nth-of-type(2) > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > table:nth-of-type(3) > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > div:nth-of-type(8)
-hackzone.ru##div:nth-of-type(2) > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hackzone.ru##td[align="center"]:has(a[href="/adv/"])
+hackzone.ru/img/promo/site-test.gif
 handscrew.ru###abdanner
 hdrezka.me##[id^="bn_"]
 hdrezka.me##div[id^="skin_"][class^="skin-block_"][style^="background-image:"]
+hh.ru##.vacancy-view-banners
+hh.ru##.work-in-company-banner
+hh.ru##[class^="banner-place"]
 hh.ru##body > .columns-wrapper:nth-of-type(5) > .column_container.column_l-16.column_m-12.column_s-8.column > .gap_top.gap > .column_container.column_l-4.column_m-4.column_s-4.column
 hh.ru##body > .columns-wrapper:nth-of-type(6) > .index-main-wrapper > .column_container.column_l-12.column_m-12.column_s-8.column:nth-of-type(1) > .column_container.column_l-12.column_m-12.column_s-8.column:nth-of-type(2)
-hi-tech.mail.ru##.layout > .js-module > .block:nth-of-type(7) > .wrapper > .cols > .cols__column_large_47.cols__column_medium_43.cols__column_small_32.cols__column > .cols__inner > .margin_bottom_30.margin_top_20.box_collapse.box
-hi-tech.mail.ru##.layout > .js-module > .block:nth-of-type(7) > .wrapper > .cols > .cols__column_large_47.cols__column_medium_43.cols__column_small_32.cols__column > .cols__inner > .rb_11634.margin_bottom_30.box_block.box
-hi-tech.mail.ru##.layout > .js-module > .js-module.js-springs__group.block > .wrapper > .cols > .cols__column_sidebar.cols__column_small_14.cols__column
 home.webalta.ru###newsTitles > .out-main-news:nth-of-type(2)
 home.webalta.ru###out-content > .col-2
 howto.mydiv.net##div[style="border:1px #EAEAEA solid; widtH:728px; height:90px; margin-top:5px; margin-bottom:38px;"]
@@ -591,6 +581,8 @@ mebeles-lv.ucoz.lv##p > a[href^="https://vk.com/"]
 mediazavod.ru##[id^="tx_banner"]
 medow.ru###execphp-3.widget.widget_execphp
 medow.ru###execphp-9.widget.widget_execphp
+medsovet.info###leftclck4
+medsovet.info##.ms-brand
 medzubr.ru##body > div
 medzubr.ru##body>span
 meestekas.net##.textwidget > center
@@ -712,6 +704,7 @@ redkassa.ru##.main-wrap.wrap > .mb10.top-line
 redtube.com###contentHolder > .pageVideos.content > .slidePanelMovable.video-top-wrap > div:nth-of-type(1)
 remontka.pro##.rem-container.uk-container-center.uk-container > .uk-grid.tm-middle > .uk-width-medium-1-1.tm-main > .rem-main > .tm-content > .rem-singlearticle.uk-article > .uk-clearfix:nth-of-type(1)
 remontka.pro##.rem-container.uk-container-center.uk-container > .uk-grid.tm-top-a
+remontka.pro##.rem-singlearticle.uk-article > div:not(.SPOSTARBUST-Related-Posts)
 ren.tv###block-block-13
 ren.tv###block-block-22
 ren.tv###block-block-24
@@ -785,6 +778,7 @@ thequestion.ru##.promo
 thg.ru##body > div:nth-of-type(4) > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
 timeout.ru###DIV_BSN_36
 tlgrm.ru##.b-channel-post--ads.b-channel-post
+toolslib.net##.custom
 toolslib.net##.hidden-sm.hidden-xs.text-right.rotate-90 > h3
 toolslib.net##.panel-default.panel
 toolslib.net##body > .container:nth-of-type(3) > .row > .col-sm-9
@@ -832,12 +826,7 @@ wolframalpha.com###sidebar
 wolframalpha.com###spons-bound
 wolframalpha.com###sponsor-ad
 wsturbo.net##.fullstory.base > noindex > center
-yandex.ru##.footer-stripe_revealed_yes.footer-stripe_js_inited.i-bem.footer-stripe
-yandex.ru##.footer_distro_yes.clearfix.footer > .distro_shown_yes.distro_js_inited.scroll-spy_js_inited.i-bem.scroll-spy.distro
-yandex.ru##.footer_js_inited.i-bem.clearfix.footer_distro_yes.footer_layout_serp.footer > .distro_shown_yes.distro_js_inited.i-bem.distro
-yandex.ru##.rows.container > .rows__row_first.rows__row.row > .col > .universal-stripe-wrapper
-yandex.ru##.search-snippet-view > .search-direct-snippet-view
-yandex.ru##.serp_js_inited.main_js_inited.i-bem.serp.main_right-panel-hidden_yes.main > .main__center > .main__content > .content_js_inited.i-bem.content > .content__left > .footer-stripe_revealed_yes.footer-stripe_js_inited.i-bem.serp.footer-stripe
+yandex.ru##.distro_shown_yes
 zakharenkova.ru##.adsbyfffs
 zam.com##.sticky-container.side-rail
 znak.com##figure
