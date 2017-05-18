@@ -22,10 +22,14 @@ Language: **Русский|[English](/README.md)**
 Для достижения наилучшего эффекта я рекомендую использовать следующие списки фильтров:
 * [EasyList](https://subscribe.adblockplus.org/?location=easylist.github.io/easylist/easylist.txt&title=EasyList)
 * [EasyPrivacy](https://subscribe.adblockplus.org/?location=easylist.github.io/easylist/easyprivacy.txt&title=EasyPrivacy)
+* [Fanboy’s Enhanced Tracking List](https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/enhancedstats.txt)
 * [Adblock Warning Removal List](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/antiadblockfilters.txt&title=Adblock%20Warning%20Removal%20List)
 * [RU AdList](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/advblock.txt&title=RU%20AdList)
+* [RU AdList: Counters](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/cntblock.txt)
+* [I don't care about cookies](https://subscribe.adblockplus.org/?location=https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/)
 * [Peter Lowe’s Ad server list](https://subscribe.adblockplus.org/?location=&title=)*
 * [Adguard Russian Filter](https://subscribe.adblockplus.org/?location=https://adguard.com/en/filter-rules.html?id=1&title=Adguard%20Russian%20Filter)*
+* [Adguard English Filter](https://subscribe.adblockplus.org/?location=https://adguard.com/en/filter-rules.html?id=2&title=Adguard%20English%20Filter)*
 * [uBlock Filters +](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt&title=uBlock%20Filters%20%2B)* <br>
 *совместимы только с uBlock Origin
 
@@ -36,4 +40,4 @@ Language: **Русский|[English](/README.md)**
 
 Если у вас возникли проблемы с фильтрами, сообщите о них на [GitHub](https://github.com/hant0508/uBlock-fillters/issues/new) или [Вконтакте](https://vk.com/im?sel=116615188).
 Если у вас возникли трудности при блокировке рекламы на каком-либо сайте, вы так же можете
-[написать об этом](https://github.com/hant0508/uBlock-fillters/issues/new). Пишите мне [по электронной почте](mailto:hant0508@gmail.com?subject=GitHub issue | Filters), если у вас нет аккаунта на GitHub.
+[написать об этом](https://github.com/hant0508/uBlock-fillters/issues/new). Пишите мне [по электронной почте](mailto:hant0508@gmail.com?subject=GitHub%20issue%20|%20Filters), если у вас нет аккаунта на GitHub.
