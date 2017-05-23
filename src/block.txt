@@ -112,6 +112,7 @@
 ||neznaika.pro/itog/images/$image
 ||neznaika.pro/templates/neznaika/_img/god*.png
 ||nic.liolu.site$third-party
+||no-viruses.ru/frt.jpg
 ||ntv.ru/smi.html
 ||payad.me/images/payadme
 ||pbs.twimg.com/profile_banners/

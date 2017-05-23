@@ -65,6 +65,7 @@ beznal.cc##.banners
 bicaps.net##.external
 bigpicture.ru##.section-main-project-link200.wrapper
 blinovrus.ru##.setup-bottom-panel
+borda.ru##.element:if-not(a)
 boston.com##.radio-bdc
 chelyabinsk-info.ga##body > noindex
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(1)
@@ -72,6 +73,7 @@ chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shado
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(3) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(2)
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(3) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(4)
 citilink.ru##.toggling_banners
+cnet.com##[class^="ad-incontent"]
 colorfest.ru##.middle > .rightside
 compconsult.orgfree.com###block-block-11.block.block-block
 compconsult.orgfree.com###block-block-17.block.block-block
@@ -195,8 +197,6 @@ hdrezka.me##div[id^="skin_"][class^="skin-block_"][style^="background-image:"]
 hh.ru##.vacancy-view-banners
 hh.ru##.work-in-company-banner
 hh.ru##[class^="banner-place"]
-hh.ru##body > .columns-wrapper:nth-of-type(5) > .column_container.column_l-16.column_m-12.column_s-8.column > .gap_top.gap > .column_container.column_l-4.column_m-4.column_s-4.column
-hh.ru##body > .columns-wrapper:nth-of-type(6) > .index-main-wrapper > .column_container.column_l-12.column_m-12.column_s-8.column:nth-of-type(1) > .column_container.column_l-12.column_m-12.column_s-8.column:nth-of-type(2)
 home.webalta.ru###newsTitles > .out-main-news:nth-of-type(2)
 home.webalta.ru###out-content > .col-2
 howto.mydiv.net##div[style="border:1px #EAEAEA solid; widtH:728px; height:90px; margin-top:5px; margin-bottom:38px;"]
@@ -211,6 +211,7 @@ inforuss.ru##body > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1) > tabl
 inforuss.ru##noindex > div:nth-of-type(2)
 infourok.ru###dr-push-global-wrap2
 infourok.ru##.dr-side-banner
+infourok.ru##.kr-banner-block
 instagram.com##.-cx-PRIVATE-Photo__clickShield
 instagram.com##._ovg3g
 instme.com##.adv1
@@ -239,6 +240,7 @@ kizi.com###game_header
 kostyor.ru##[class*="reclama"]
 kp.ru###ok-popup
 kp.ru###top-link-social.all_top-link-social > .left
+kritika24.ru###right-column1
 kritika24.ru###right-column1 > center > a[href^="http://play.google.com/store/apps/details"]
 kritika24.ru##.netv
 ksenia.8m.com###sideFrame
@@ -246,7 +248,9 @@ kv.by###block-block-116
 laptop-info.ru###page > .container-inner > div > .banners
 leeet.net###teaser_223
 lifehacker.ru##article[id^="post"] > .clearfix.entry-content > .relap-wrapper
+lifeinbooks.net##.vce-sticky
 lit.1september.ru###menu
+literarus.ru##.component-htmlcode.component:if-not(input)
 litmir.co##tbody > tr > td > div[style="height:180px; overflow:hidden;"]
 livelib.ru###column-fixed
 lurkmore.net###banner-left-240x200-0
@@ -492,6 +496,7 @@ vokrugsveta.ru###sape_links
 vporn.com###video-banner
 vsekratko.ru###content > .add
 vsekratko.ru###pright
+web2.0calc.com###rseda
 webalta.ru###newsTitles > .out-main-news:nth-of-type(2)
 webalta.ru###out-content > .col-2
 webalta.ru##.wrapper > .header2.header > .header2 > .head-row-logo2.o-h.head-row-logo > .f-l.search > .search-form2.search-form > .b-s.f-l.head2-setting
@@ -517,6 +522,7 @@ zam.com##.sticky-container.side-rail
 znak.com##figure
 znak.com##main > .x1.column.flex:nth-of-type(1) > .st
 znanija.com##.brn-ads-box
+znanija.com##.js-toplayer-remove-on-close
 zona.media##.mz-adv-image
 zonazakona.ru##[id^="yandex_ad"]
 zoon.ru##.service-box-white > .box-padding
