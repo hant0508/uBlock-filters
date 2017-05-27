@@ -42,6 +42,7 @@ agar.io###helloContainer > .side-container:nth-of-type(4) > .agario-promo
 agar.io###mainPanel > center
 all-biography.ru###right-sidebar > [class*="ads_banner"]
 allbesta.ru###center > noindex
+alleng.ru##a[href="http://www.alleng.ru/am1.php"]
 altyazilifilmizle.org###pageskin > .bannergroup-pageskin
 alvinalexander.com##.ads-large.ads
 ame-game.com.ua###main-carcas > .content > tbody > tr:nth-of-type(1) > .cont_left > .div_rek
@@ -278,6 +279,7 @@ meestekas.net##.textwidget > center
 megamozg.ru###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sidebar_fix.sidebar_right > .sticky-active.wrapper-sticky
 megamozg.ru###layout > .inner > .dont-add-our-site-pls
 megamozg.ru##.html_banner_wrap
+memepedia.ru##.aggads-inner
 memesmix.net###footer_wrapper > p
 memesmix.net###menu-module > .module-body-i
 mignews.com###rightc > h5:nth-of-type(1)
@@ -415,6 +417,7 @@ ru.onlinemschool.com##div[style="cursor: pointer;display:block!important;visibil
 ru.stackoverflow.com###beta-ad-container
 ru.tsn.ua##.advert.item
 ru.wikihow.com##[class^="ad_label"]
+rus-ege.sdamgia.ru##.content > div:has(a[href*="blockadblock"])
 rusfolder.com##div[id*="widget"]
 russian.rt.com###content > .widget-mediametrics
 russian.rt.com###sidebar > .shown.widget-mediametrics
@@ -464,6 +467,8 @@ textnow.com###banner
 the-village.ru###fixed-sidebar
 the-village.ru##.app-content.page-content > .row-adblock-message.row
 thequestion.ru##.promo
+thesimsresource.com###eucookie
+thesimsresource.com##.sticky_bottom
 thg.ru##body > div:nth-of-type(4) > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
 timeout.ru###DIV_BSN_36
 tlgrm.ru##.b-channel-post--ads.b-channel-post
