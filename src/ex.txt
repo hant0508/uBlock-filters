@@ -13,6 +13,7 @@
 @@||videouroki.net/img/*/*.gif
 danieldefo.ru#@#.bannerBlock
 google.com#@#a[href]
+imagesbase.ru#@#.adsbygoogle
 joyreactor.cc#@#div#sidebar
 marketgid.com#@#a[href*="marketgid.com/"]
 new.gramota.ru#@##main-sec > .block-side:last-child
