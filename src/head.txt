@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.7.3
+! Version: 3.7.4
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:

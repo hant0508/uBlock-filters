@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.7.3
+! Version: 3.7.4
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -85,9 +85,11 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||bestload.me^
 ||blogport.ru^
 ||bromigo.pw^
+||chersbaringli1978.tumblr.com^
 ||delta-search.com^
 ||dle01.freesoftt2cc.name^
 ||dle30.sofftportall9nn.info^
+||download-amigo.com^
 ||etofirma36.pp.ua^
 ||eworkshop.ru^
 ||extrabase.ru^
@@ -102,6 +104,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||gorspravki.ru^
 ||guestapp.ru^
 ||guf2.ru^
+||highletohor1980.tumblr.com^
 ||hivxffti.oagroup.info^
 ||kandibar.ru^
 ||kareliyarsp.ru^
@@ -154,6 +157,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||activeinfo.ru/ai.gif
 ||adminvps.ru/img/buttons/AV468x60.gif
 ||alexlarin.net/970x90*.png
+||allbesta.cc/uploads/am*.png
 ||alleng.ru/images/coin32/bt-green.png
 ||allforchildren.ru/img/lolo.gif
 ||allsport-news.net/leon.gif
@@ -172,6 +176,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||c.mql4.com/images/*/*.gif
 ||cardingboard.net/imgs/*.gif$third-party
 ||cdn*.grattis.ru/publicdata/widget/
+||cdn-s-static.arzamas.academy/storage/banner/
 ||cdn.comss.net/action/internet*.png
 ||cdn.comss.net/action/ya-antiphishing.jpg
 ||cdn.comss.net/img/adguard_down*.png
@@ -216,6 +221,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||htmlweb.ru/pic/pic.php*.gif$image
 ||i.qtymi.com/s/*/*.html
 ||idatz.twirpx.com/swf/*
+||igrigo.net/uploads/mg-2.png
 ||imagebam.com/files/_b*.php$image
 ||img1.fanfics.me/images/banner/
 ||izvygon.ru/*.swf
@@ -266,6 +272,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||prankota.com/images/*.gif
 ||programmersforum.ru/anim*.gif
 ||prostolinux.ru/wp-content/bn/ihor.gif
+||real-game.net/cooper/splitter.php
 ||red.tingrinter.com/
 ||reklama*.ngs.ru/
 ||reshimvse.com/artadmin/$image
@@ -282,6 +289,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||sitehere.ru/inmymoney/pdf-otchet/*.png
 ||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
 ||ss.nzbstars.com.xxxnavy.com/advertisement.js
+||static-cdn.karaoke.ru/karaoke-site/img/button-friends.png
 ||static.1tv.ru/uploads/promo_position/
 ||static.fastpic.ru/js/jquery*.js
 ||static.ngs.ru/reklama/$image
@@ -361,6 +369,8 @@ afisha.yandex.ru##.yabs_type_banners.yabs
 agar.io###helloContainer > .side-container:nth-of-type(4) > .agario-promo
 agar.io###mainPanel > center
 all-biography.ru###right-sidebar > [class*="ads_banner"]
+allbesta.cc###tsr_etrg
+allbesta.cc##.tsrs
 allbesta.ru###center > noindex
 alleng.ru##a[href="http://www.alleng.ru/am1.php"]
 altyazilifilmizle.org###pageskin > .bannergroup-pageskin
@@ -389,6 +399,8 @@ bigpicture.ru##.section-main-project-link200.wrapper
 blinovrus.ru##.setup-bottom-panel
 borda.ru##.element:if-not(a)
 boston.com##.radio-bdc
+briefly.ru###audiobook
+briefly.ru###in_article
 chelyabinsk-info.ga##body > noindex
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(1)
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(3)
@@ -445,6 +457,7 @@ ecosystema.ru##table > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > noindex
 ecosystema.ru##table > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > noindex:nth-of-type(1)
 ecosystema.ru##table > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > table > tbody > tr > td > noindex:nth-of-type(4) > form > div > center > p:nth-of-type(3)
 ecosystema.ru##table > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > table > tbody > tr > td > noindex:nth-of-type(4) > form > div > center > p:nth-of-type(4)
+ege.sdamgia.ru,rus-ege.sdamgia.ru##.content > div:has(a[href*="blockadblock"])
 ege.yandex.ru##.partner-link
 ege.yandex.ru##.result-panel__banner
 egesdam.ru###rcolumn
@@ -529,6 +542,8 @@ howto.mydiv.net##div[style="margin-top:120px;width:160px; height:600px;  bordeR:
 i-vd.org.ru##table > tbody > tr > td > table > tbody > tr > td > .mainfooter
 ib.mazurok.com###secondary
 ibm.com###dw-regbar
+igrigo.net##.branding
+igrigo.net##.rig_con
 ilibrary.ru##.r
 info.sibnet.ru##.td.main-content-right > div > a[href] > img
 infocity.az###text-6-sticky-wrapper
@@ -560,6 +575,7 @@ kingisepp-today.ru##.elite_vp_videoPlayerAD
 kinobaza.tv###fast-feedback-btn
 kinogb.net###fehu-content > .statics > .dwnl-osn > .dwnl-right
 kinogb.net###mcont > a[href="/premium.html"]
+kinopoisk.ru##html > body:style(background: #d5d5d5 !important)
 kizi.com###ad_title
 kizi.com###game_header
 kostyor.ru##[class*="reclama"]
@@ -572,6 +588,7 @@ ksenia.8m.com###sideFrame
 kv.by###block-block-116
 laptop-info.ru###page > .container-inner > div > .banners
 leeet.net###teaser_223
+lentach.media##.banner__content
 lifehacker.ru##article[id^="post"] > .clearfix.entry-content > .relap-wrapper
 lifeinbooks.net##.vce-sticky
 lit.1september.ru###menu
@@ -677,6 +694,7 @@ parta.com.ua###left_menu > div:nth-of-type(1)
 parta.com.ua###left_menu > div:nth-of-type(7)
 pastebin.com###abrpm
 paustovskiy.niv.ru###tab_scroll_blok > .tmpl_table > tbody
+paustovskiy.niv.ru##[id*="_ban_"]
 pcpro100.info###block_r
 pdalife.ru##.horizontalBanner
 petrograd.biz,petroleks.ru##table > tbody > tr > td[width="15%"][valign="top"][align="right"]
@@ -729,6 +747,7 @@ reshimvse.com###add
 reshimvse.com###right_block_add
 reshinfo.com###sidebarL
 resolventa.ru###parent_popup
+rg-mechanics.org##center:has-text(/Реклама/)
 rg.ru##.banner-240x400
 rmprepusb.com##.sites-cookie-notice-fit
 royallib.com##.container > .container-in > .nuclear.center > .left-bar > .banner-box
@@ -743,7 +762,6 @@ ru.onlinemschool.com##div[style="cursor: pointer;display:block!important;visibil
 ru.stackoverflow.com###beta-ad-container
 ru.tsn.ua##.advert.item
 ru.wikihow.com##[class^="ad_label"]
-rus-ege.sdamgia.ru##.content > div:has(a[href*="blockadblock"])
 rusfolder.com##div[id*="widget"]
 russian.rt.com###content > .widget-mediametrics
 russian.rt.com###sidebar > .shown.widget-mediametrics
@@ -811,6 +829,8 @@ trashbox.ru###div_page_right > aside > .table_center > div > .adnobg.center
 tvgid.ua##table > tbody > tr > td > table > tbody > tr > .head > table:nth-of-type(2) > tbody > .copyright > td:nth-of-type(2)
 tvgid.ua##table > tbody > tr > td > table > tbody > tr > .head > table:nth-of-type(2) > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
 tvgid.ua##table > tbody > tr > td > table > tbody > tr > .head > table:nth-of-type(2) > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+tvk6.ru##.adv_partners
+tvrain.ru##.current.blocker.jquery-modal
 tyurem.net###sidebar
 ubuntovod.ru###contentwrap > .sidecont > div:nth-of-type(4)
 ucheba-otziv.ru##object[id^="baner"]

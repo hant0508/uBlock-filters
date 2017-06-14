@@ -10,6 +10,7 @@
 ||activeinfo.ru/ai.gif
 ||adminvps.ru/img/buttons/AV468x60.gif
 ||alexlarin.net/970x90*.png
+||allbesta.cc/uploads/am*.png
 ||alleng.ru/images/coin32/bt-green.png
 ||allforchildren.ru/img/lolo.gif
 ||allsport-news.net/leon.gif
@@ -28,6 +29,7 @@
 ||c.mql4.com/images/*/*.gif
 ||cardingboard.net/imgs/*.gif$third-party
 ||cdn*.grattis.ru/publicdata/widget/
+||cdn-s-static.arzamas.academy/storage/banner/
 ||cdn.comss.net/action/internet*.png
 ||cdn.comss.net/action/ya-antiphishing.jpg
 ||cdn.comss.net/img/adguard_down*.png
@@ -72,6 +74,7 @@
 ||htmlweb.ru/pic/pic.php*.gif$image
 ||i.qtymi.com/s/*/*.html
 ||idatz.twirpx.com/swf/*
+||igrigo.net/uploads/mg-2.png
 ||imagebam.com/files/_b*.php$image
 ||img1.fanfics.me/images/banner/
 ||izvygon.ru/*.swf
@@ -122,6 +125,7 @@
 ||prankota.com/images/*.gif
 ||programmersforum.ru/anim*.gif
 ||prostolinux.ru/wp-content/bn/ihor.gif
+||real-game.net/cooper/splitter.php
 ||red.tingrinter.com/
 ||reklama*.ngs.ru/
 ||reshimvse.com/artadmin/$image
@@ -138,6 +142,7 @@
 ||sitehere.ru/inmymoney/pdf-otchet/*.png
 ||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
 ||ss.nzbstars.com.xxxnavy.com/advertisement.js
+||static-cdn.karaoke.ru/karaoke-site/img/button-friends.png
 ||static.1tv.ru/uploads/promo_position/
 ||static.fastpic.ru/js/jquery*.js
 ||static.ngs.ru/reklama/$image
