@@ -120,6 +120,7 @@
 ||payad.me/images/payadme
 ||pbs.twimg.com/profile_banners/
 ||pcpro100.info/wp-content/themes/pcpro
+||php-zametki.ru/images/banner
 ||php-zametki.ru/images/banner*.gif
 ||pornhub.com^$third-party
 ||prankota.com/images/*.gif
@@ -130,6 +131,8 @@
 ||reklama*.ngs.ru/
 ||reshimvse.com/artadmin/$image
 ||robo-host.ru/banner
+||rsload.net/images*/downasd*.png
+||rsload.net/images*/premssf.png
 ||ru.onlinemschool.com/*/prmo/
 ||ru.onlinemschool.com/pictures/promo
 ||ru.onlinemschool.com/pictures/trq/
@@ -158,6 +161,7 @@
 ||u.jimdo.com*/std/image.gif
 ||uchiyaziki.ru/adblock
 ||ug.ru/images/kittens/$image
+||umatrix.org/images/banners/
 ||utropot.ru/*.swf$third-party
 ||v-olymp.ru/upload/rk/$image
 ||velo-stokcenter.ru/images/vst_720x100.swf

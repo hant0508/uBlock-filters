@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.7.4
+! Version: 3.7.5
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -64,6 +64,7 @@ go.mail.ru##:xpath(/html/body//div[@id="layout"]//div[@class="responses__wrapper
 ovgorskiy.ru##:xpath(/html/body//div[@class="zsnazzy" and div[@class="xboxcontent" and .//text()="Блок рекламы"]])
 pikabu.ru##:xpath(/html/body//div[@class="story" and .//a[@class="story__author" and text()="ads"]])
 pikabu.ru##:xpath(/html/body//span[@id="right_menu"]//table[.//text()="Промо"])
+pornhub.com##:xpath(/html/body//div[a[contains(@class, "adlink")]])
 velocityreviews.com##:xpath(/html/body//li[@class="message" and ./div[@class="messageAdvertising"]])
 vk.com##:xpath(/html/body//div[div[@class="_post_content" and .//div[@class="wall_marked_as_ads"]]])
 yandex.ru##:xpath(/html/body//div/div[a[./text()="Яндекс.Директ"]])
@@ -267,6 +268,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||payad.me/images/payadme
 ||pbs.twimg.com/profile_banners/
 ||pcpro100.info/wp-content/themes/pcpro
+||php-zametki.ru/images/banner
 ||php-zametki.ru/images/banner*.gif
 ||pornhub.com^$third-party
 ||prankota.com/images/*.gif
@@ -277,6 +279,8 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||reklama*.ngs.ru/
 ||reshimvse.com/artadmin/$image
 ||robo-host.ru/banner
+||rsload.net/images*/downasd*.png
+||rsload.net/images*/premssf.png
 ||ru.onlinemschool.com/*/prmo/
 ||ru.onlinemschool.com/pictures/promo
 ||ru.onlinemschool.com/pictures/trq/
@@ -305,6 +309,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||u.jimdo.com*/std/image.gif
 ||uchiyaziki.ru/adblock
 ||ug.ru/images/kittens/$image
+||umatrix.org/images/banners/
 ||utropot.ru/*.swf$third-party
 ||v-olymp.ru/upload/rk/$image
 ||velo-stokcenter.ru/images/vst_720x100.swf
@@ -539,6 +544,7 @@ home.webalta.ru###newsTitles > .out-main-news:nth-of-type(2)
 home.webalta.ru###out-content > .col-2
 howto.mydiv.net##div[style="border:1px #EAEAEA solid; widtH:728px; height:90px; margin-top:5px; margin-bottom:38px;"]
 howto.mydiv.net##div[style="margin-top:120px;width:160px; height:600px;  bordeR:1px #eeeeee solid;"]
+howto.mydiv.net##div[style="margin-top:120px;width:160px; padding:2px; height:600px;  bordeR:1px #eeeeee solid;"]
 i-vd.org.ru##table > tbody > tr > td > table > tbody > tr > td > .mainfooter
 ib.mazurok.com###secondary
 ibm.com###dw-regbar
@@ -618,9 +624,7 @@ medzubr.ru##body > div
 medzubr.ru##body>span
 meestekas.net##.textwidget > center
 megalyrics.ru##.js-banner
-megamozg.ru###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sidebar_fix.sidebar_right > .sticky-active.wrapper-sticky
-megamozg.ru###layout > .inner > .dont-add-our-site-pls
-megamozg.ru##.html_banner_wrap
+mel.fm##[class*="advertising"]
 memepedia.ru##.aggads-inner
 memesmix.net###footer_wrapper > p
 memesmix.net###menu-module > .module-body-i
@@ -630,6 +634,8 @@ mintlinux.ru###left > .module:nth-of-type(1)
 mir24.net###bn_953c68279c
 mirurokov.ru###r_col
 mk.ru##.right > aside > a[href="http://www.mk.ru/stories/akcii-plyus-podpiska-mk-vsegda-vmeste-s-chitatelyami/"]
+mk.ru##[class^="banner"]
+mk.ru##a[href="http://www.stanislavskyfestival.ru/"]
 mngz.ru###side > .dslinks-block
 mngz.ru###side > .yodofix
 mngz.ru###side > a[href^="http://"]
@@ -645,8 +651,6 @@ mp3.cc##div[id*="Banner"]
 mp3.shmidt.net###mainbox > .rightbox
 mrko.mos.ru###swiffycontainer
 myddns.ru###rightcolumn
-mydiv.net##div[style="MARGIN-TOP:150PX;width:160px; height:600px; padding:3px; bordeR:1px #EAEAEA solid;"]
-mydiv.net##div[style="border:1px #EAEAEA solid; widtH:728px; height:90px; margin-bottom:28px;"]
 mymodo.ru###header > .region-bottom-header.region
 myzuka.fm##.all > .header > .aside > .button-a.v2[href="/GetVipAccount"]
 nagitaru.ru###text-24
@@ -663,7 +667,7 @@ newkaliningrad.ru##.modal, .fade, .in
 news-kmv.ru##img[alt="реклама"]
 news.sportbox.ru##[class*="advertis"]
 news.vse42.ru##div[data-adplace-inited="true"]
-newslab.ru##.page > .container-fluid:nth-of-type(3) > .di2-skeleton > .di2-skeleton__aside > .hidden-sm.hidden-xs.b-banner_center.b-banner-wrapper
+newslab.ru##.yandex-ad-wrapper
 newsru.com###stakan
 nixp.ru###nixp > .trueoffice_cpg.trueoffice
 nnov.petovod.ru##.google_cont
@@ -699,7 +703,6 @@ pcpro100.info###block_r
 pdalife.ru##.horizontalBanner
 petrograd.biz,petroleks.ru##table > tbody > tr > td[width="15%"][valign="top"][align="right"]
 photobucket.com###adBlockMessaging
-php-zametki.ru###art-main > .art-sheet > .art-sheet-body > .art-content-layout > .art-content-layout-row > .art-sidebar1.art-layout-cell > .art-block:nth-of-type(7)
 physics.ru##body > noindex:nth-of-type(2)
 physics.ru##body > noindex:nth-of-type(3) > table > tbody > tr:nth-of-type(5)
 pikabu.ru##.ad-reset
@@ -712,7 +715,8 @@ pogoda.mail.ru##a.forecast-branding-link
 popmech.ru###_sim_popup
 popuptest.com##table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
 popuptest.com##table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
-pornolab.cf##body > div:not(#all)
+pornhub.com##.nonesuch
+pornhub.com##.playlistSectionWrapper.container > div > div
 pornscrape.com##.css2table
 ppl.nnov.ru##a[href="http://www.monolit.nnov.ru/"]
 ppt4web.ru##.kr-banner-text
@@ -737,7 +741,6 @@ redkassa.ru##.brandingLinksWrapper
 redkassa.ru##.main-wrap.wrap > .cf.content-box.layout-two-columns > .layout-right-column
 redkassa.ru##.main-wrap.wrap > .mb10.top-line
 redtube.com###contentHolder > .pageVideos.content > .slidePanelMovable.video-top-wrap > div:nth-of-type(1)
-remontka.pro##.rem-container.uk-container-center.uk-container > .uk-grid.tm-middle > .uk-width-medium-1-1.tm-main > .rem-main > .tm-content > .rem-singlearticle.uk-article > .uk-clearfix:nth-of-type(1)
 remontka.pro##.rem-container.uk-container-center.uk-container > .uk-grid.tm-top-a
 remontka.pro##.rem-singlearticle.uk-article > div:not(.SPOSTARBUST-Related-Posts)
 ren.tv###block-block-13
@@ -752,7 +755,6 @@ rg.ru##.banner-240x400
 rmprepusb.com##.sites-cookie-notice-fit
 royallib.com##.container > .container-in > .nuclear.center > .left-bar > .banner-box
 royallib.com##.container > .container-in > .nuclear.center > .wrapper > .content > table:nth-of-type(2)
-rsload.net###dle-content > .full > .short > .clearfix.video-box.full-text.short-text > center > a[href="/tutvce.html"]
 ru.aliexpress.com##.ui-mask
 ru.aliexpress.com##.ui-newuser-floating-layer
 ru.onlinemschool.com###G_M
@@ -767,8 +769,6 @@ russian.rt.com###content > .widget-mediametrics
 russian.rt.com###sidebar > .shown.widget-mediametrics
 russian.rt.com###smi2-aside_single
 russian7.ru###bannerCT-2
-rustorka.com###logo > table > tbody > tr > td:nth-of-type(2) > div > * > * > *
-rustorka.com###sidebar1-wrap > div > * > * > *
 school.xvatit.com###slider1
 school.xvatit.com##div[style="float: left;width: 340px; height:305px;/*border: 1px dashed #95d4e2;*/ background-color: #fff;"]
 search.disconnect.me###premium-protection
@@ -783,16 +783,12 @@ smallpdf.com##.result-message > .ad
 smiles.spb.su###sidebar2 > .for > div > noindex
 sobralio.net###sidebar-right
 sochinenie11.ru##.wrapper > .middle > .left-sidebar > object
-soft.mydiv.net##.leftcon2
-soft.mydiv.net##div[style*="width:728px; height: 90px;"][style*="border:1px #eaeaea solid;"]
-soft.mydiv.net##div[style="border:#eeeeee 1px solid; margin-bottom:20px;padding:5px;"]
-soft.mydiv.net##div[style="border:#eeeeee 1px solid; margin-bottom:5px;margin-top:15px;padding:5px;"]
-soft.mydiv.net##div[style="margin-top:10px; margin-bottom:10px; border:1px #dddddd solid; padding:5px;"]
-soft.mydiv.net##div[style="margin-top:5px; border-right:1px #a0a0a0 dotted; padding-right: 10px;  width: 338px;"]
+soft.mydiv.net###softtopad
 softpedia.com###wrapper > .main > .container_48 > .fr.sepbrd4.prefix_2.grid_31 > .legible.storybox1 > .fr.ad-336
 softrew.ru##.main-center-block > .content-block > .shad > .shad-top > .shad-bottom > .right-col > .right-block:nth-of-type(5)
 softrew.ru##.main-center-block > .content-block > .shad > .shad-top > .shad-bottom > .right-col > .right-block:nth-of-type(6)
 song-pad.ru##[id^="teaser"]
+sospc.name##.vce_adsense_widget
 sozdaiblog.ru###scrollable
 space.utema.ru###main-content > .main-content-padding > noindex:nth-of-type(1)
 speakrus.ru##body > .ssill
@@ -800,7 +796,7 @@ spoj.com## .c300x600
 spynet.ru##iframe[src^="http://spynet.ru/1.html"]
 sredalinux.blogspot.com###HTML9 > .widget-content
 staforceteam.ru##body > div:nth-of-type(1)
-stoplinux.org.ru##div[id][style="position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; overflow: visible; background: rgba(255, 255, 255, 0.6) none repeat scroll 0% 0%; z-index: 2147483647; text-align: center;"]
+stoplinux.org.ru##.ins > .block:if(.m1:has-text(/Ads/))
 studfiles.ru##.banner_bottom_preview
 tass.ru##a[href="http://smi2.ru/"]
 tatar-inform.ru##.banner
@@ -811,6 +807,7 @@ testi.ru##[id^="DIV_DA_"]
 textnow.com###banner
 the-village.ru###fixed-sidebar
 the-village.ru##.app-content.page-content > .row-adblock-message.row
+thequestion.ru##.dfp-answers-horizontal-banner-wrapper
 thequestion.ru##.promo
 thesimsresource.com###eucookie
 thesimsresource.com##.sticky_bottom
@@ -826,9 +823,6 @@ torrent-baza.net##div[style="width: 600px; height: 300px; margin: 0px auto;"][ o
 tproger.ru###main_columns > .between_posts_ad
 tproger.ru##[id^="bl_google_ads"]
 trashbox.ru###div_page_right > aside > .table_center > div > .adnobg.center
-tvgid.ua##table > tbody > tr > td > table > tbody > tr > .head > table:nth-of-type(2) > tbody > .copyright > td:nth-of-type(2)
-tvgid.ua##table > tbody > tr > td > table > tbody > tr > .head > table:nth-of-type(2) > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
-tvgid.ua##table > tbody > tr > td > table > tbody > tr > .head > table:nth-of-type(2) > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
 tvk6.ru##.adv_partners
 tvrain.ru##.current.blocker.jquery-modal
 tyurem.net###sidebar
@@ -839,6 +833,7 @@ ufa-room.ru,neva-room.ru,ekb-room.ru,saratov-room.ru,novosib-room.ru,tlt-room.ru
 ufa-room.ru,neva-room.ru,ekb-room.ru,saratov-room.ru,novosib-room.ru,tlt-room.ru,cheb-room.ru,kaliningrad-room.ruvoronezh-room.ru,vladi-room.ru,yaroslavl-room.ru###right_side_fixed_ad
 unionpron.org##body > div:not(#body_container)
 ural.kp.ru###article-page\  > .boxPage > .boxCols
+v3.co.uk##.ad-slot-full
 velofun.ru###content > span
 velonews.ru###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap > .container-fluid > .row-fluid > .td-post-sidebar.column_container.span4 > .widget_text.widget
 veryicon.com###content > .right_content_728
