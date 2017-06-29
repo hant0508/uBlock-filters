@@ -146,7 +146,6 @@
 ||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
 ||ss.nzbstars.com.xxxnavy.com/advertisement.js
 ||static-cdn.karaoke.ru/karaoke-site/img/button-friends.png
-||static.1tv.ru/uploads/promo_position/
 ||static.fastpic.ru/js/jquery*.js
 ||static.ngs.ru/reklama/$image
 ||storeb2b.com/images/banners/*

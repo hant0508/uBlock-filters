@@ -1,8 +1,8 @@
+1tv.ru#@#.promo-place
 @@/adguard.
 @@/pr.php?
 @@||*.*$popup,domain=google.com
 @@||cs.pikabu.ru/files/ad/*.png
-@@||gigatorrent.net^
 @@||google.*/adwords/*$domain=www.google.ru
 @@||mc.yandex.ru/metrika/watch.js$script,domain=nofelet.ru
 @@||mymeizu.ru/bitrix/templates/m2mini/content$image

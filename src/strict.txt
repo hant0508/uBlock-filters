@@ -1,5 +1,6 @@
 ||appvk.ru^
 ||askfm.im^
+||assume.fritjurnica.com^
 ||base2.ru^
 ||beryblog.ru^
 ||bestload.me^
@@ -12,13 +13,16 @@
 ||download-amigo.com^
 ||etofirma36.pp.ua^
 ||eworkshop.ru^
+||ex1rs.com^
 ||extrabase.ru^
 ||factor-vesa.net^
 ||fed2.ru^
 ||fiilueportal.dvvarf.pp.ua^
 ||file.freeddns.org^
+||filleportall21cc.name^
 ||fivalezobadanesokogu.xpg.uol.com.br^
 ||forumka1ll.ru^
+||foxford.ru/uploads/materials/banners/
 ||freesoft2scc.pp.ua^
 ||glav4.ru^
 ||gorspravki.ru^
@@ -31,6 +35,9 @@
 ||kyrenie.magbraslet.top^
 ||lapala.cl^
 ||lexclub.ru^
+||litmirs.pp.ru^
+||loadinng2cc.name^
+||megahead.ru/images/146.png
 ||misterjoy.ru^
 ||mnn0gofilueus.dvvarf.pp.ua^
 ||mona-vi.ru^
@@ -38,9 +45,11 @@
 ||myshisha.ru^
 ||nkokbr.ru^
 ||pdf-knigi.com^
+||pdf.pp.ru^
 ||peceqi.meda-21.ru^
 ||phone8.ru^
 ||pilabu.ru^
+||rustasik.ru^
 ||rxjqqt.joyreactor.cc^
 ||rybalka-profi.ru^
 ||sellings.ru^
@@ -51,6 +60,7 @@
 ||styleous.ru^
 ||swhpgjkl.kyty.net^
 ||vid.x-casino.net^
+||viniki.ru^
 ||vk-com-auth5.com^
 ||vkupon.ru^
 ||vsepro-forex.ru^
@@ -62,4 +72,5 @@
 ||x002xx.ru^
 ||xiby.ru^
 ||yamdex.net^
+||yaponkas3.ru^
 ||znaniytutpiahocost.weebly.com^

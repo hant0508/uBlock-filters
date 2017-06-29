@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.7.5
+! Version: 3.7.6
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -17,11 +17,11 @@
 ! - I don't care about cookies (http://www.kiboke-studio.hr/i-dont-care-about-cookies/abp)
 
 ! Exclusions
+1tv.ru#@#.promo-place
 @@/adguard.
 @@/pr.php?
 @@||*.*$popup,domain=google.com
 @@||cs.pikabu.ru/files/ad/*.png
-@@||gigatorrent.net^
 @@||google.*/adwords/*$domain=www.google.ru
 @@||mc.yandex.ru/metrika/watch.js$script,domain=nofelet.ru
 @@||mymeizu.ru/bitrix/templates/m2mini/content$image
@@ -81,6 +81,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ! Strict blocking rules
 ||appvk.ru^
 ||askfm.im^
+||assume.fritjurnica.com^
 ||base2.ru^
 ||beryblog.ru^
 ||bestload.me^
@@ -93,13 +94,16 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||download-amigo.com^
 ||etofirma36.pp.ua^
 ||eworkshop.ru^
+||ex1rs.com^
 ||extrabase.ru^
 ||factor-vesa.net^
 ||fed2.ru^
 ||fiilueportal.dvvarf.pp.ua^
 ||file.freeddns.org^
+||filleportall21cc.name^
 ||fivalezobadanesokogu.xpg.uol.com.br^
 ||forumka1ll.ru^
+||foxford.ru/uploads/materials/banners/
 ||freesoft2scc.pp.ua^
 ||glav4.ru^
 ||gorspravki.ru^
@@ -112,6 +116,9 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||kyrenie.magbraslet.top^
 ||lapala.cl^
 ||lexclub.ru^
+||litmirs.pp.ru^
+||loadinng2cc.name^
+||megahead.ru/images/146.png
 ||misterjoy.ru^
 ||mnn0gofilueus.dvvarf.pp.ua^
 ||mona-vi.ru^
@@ -119,9 +126,11 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||myshisha.ru^
 ||nkokbr.ru^
 ||pdf-knigi.com^
+||pdf.pp.ru^
 ||peceqi.meda-21.ru^
 ||phone8.ru^
 ||pilabu.ru^
+||rustasik.ru^
 ||rxjqqt.joyreactor.cc^
 ||rybalka-profi.ru^
 ||sellings.ru^
@@ -132,6 +141,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||styleous.ru^
 ||swhpgjkl.kyty.net^
 ||vid.x-casino.net^
+||viniki.ru^
 ||vk-com-auth5.com^
 ||vkupon.ru^
 ||vsepro-forex.ru^
@@ -143,6 +153,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||x002xx.ru^
 ||xiby.ru^
 ||yamdex.net^
+||yaponkas3.ru^
 ||znaniytutpiahocost.weebly.com^
 
 ! Blocking rules
@@ -294,7 +305,6 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
 ||ss.nzbstars.com.xxxnavy.com/advertisement.js
 ||static-cdn.karaoke.ru/karaoke-site/img/button-friends.png
-||static.1tv.ru/uploads/promo_position/
 ||static.fastpic.ru/js/jquery*.js
 ||static.ngs.ru/reklama/$image
 ||storeb2b.com/images/banners/*
@@ -349,6 +359,8 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 1cov-edu.ru###g_300x600
 1tv.ru##.footer-promo-place
 1tv.ru##.header-promo-place
+1tv.ru##.itv-index-card-promo
+1tv.ru##.side-promo-place-right
 1tv.ru##.theme-main > .live > .player-wrapper > .branding_promo_place
 2016.footboom.com###rb-inner
 256bit.ru##body > div:nth-of-type(1)
@@ -514,6 +526,7 @@ geektimes.ru##.js-ad_sticky
 geektimes.ru##.sticky_init.sidebar_content-area.sidebar_right > .is_visible.xyz_wrapper
 generatorlinkpremium.com##.thirdsky
 getemoji.com##.container > div > .text-center:nth-of-type(2)
+gigatorrent.org##img[alt^="Браузер A"]
 gismeteo.ru##.ru.side__i
 gitem.ru##.container > table > tbody > tr > td > .addon
 gitem.ru##.container > table > tbody > tr > td > .block-box > .box-cont > .cssmenu > li > .vkpr[href="http://spishy-gdz.ru/"]
@@ -699,6 +712,7 @@ parta.com.ua###left_menu > div:nth-of-type(7)
 pastebin.com###abrpm
 paustovskiy.niv.ru###tab_scroll_blok > .tmpl_table > tbody
 paustovskiy.niv.ru##[id*="_ban_"]
+pc-torrents.net##.full-bac.rkl-box
 pcpro100.info###block_r
 pdalife.ru##.horizontalBanner
 petrograd.biz,petroleks.ru##table > tbody > tr > td[width="15%"][valign="top"][align="right"]
@@ -718,8 +732,10 @@ popuptest.com##table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > t
 pornhub.com##.nonesuch
 pornhub.com##.playlistSectionWrapper.container > div > div
 pornscrape.com##.css2table
+postyplenie.ru###TopBN996 > a[href^="/bn/"]
 ppl.nnov.ru##a[href="http://www.monolit.nnov.ru/"]
 ppt4web.ru##.kr-banner-text
+pravorub.ru###banner_side
 pravoved.ru##.prvd-af-banner
 price4all.ru##body > .topreklama
 proficinema.ru###makeAllStatic
@@ -840,6 +856,8 @@ veryicon.com###content > .right_content_728
 veryicon.com###content > .right_content_728:nth-of-type(3)
 vesti.ru##.page-wrap > .main-content > .content > .adv-list_inner.adv-list
 vokrugsveta.ru###sape_links
+vokrugsveta.ru##.aside
+vokrugsveta.ru##.tgb-box
 vporn.com###video-banner
 vsekratko.ru###content > .add
 vsekratko.ru###pright
