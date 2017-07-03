@@ -58,6 +58,7 @@
 ||fanfics.me/images/*banner*
 ||ffin.ru/images/banner.html
 ||fightforthefuture.github.io/countdown-widget/iframe/banner.html
+||files.mastersland.com/pic/*banner*
 ||football-tv.ru/images/banner
 ||funkyimg.com/i/*.jpg
 ||futbik.net/templates/*/*/banner/
@@ -87,6 +88,7 @@
 ||kuponlar.ru/res/knopki/kuponlar88x31.gif
 ||last.by/adv/kr.gif
 ||liked.ru/s/i/bnr/
+||lostfilmonline.ru/info-reklam1.png
 ||magmens.com/wp-content/uploads/20*/*.gif
 ||matburo.ru/Data/banner
 ||matematikalegko.ru/img/260x249handrozdvd.jpg
@@ -97,6 +99,7 @@
 ||mathprofi.ru/images/matburo.gif
 ||mathprofi.ru/images/zaochnik*.gif
 ||mathwarehouse.com/images/icons/penjee/*.gif
+||megahead.ru/images/146.png
 ||megarand.ru/images/banner.png
 ||mirtochtonado.ru/seo.html
 ||mngz.ru/templates/Mangazeya/images/60pl-280px.gif
@@ -157,6 +160,8 @@
 ||tonymolystore.ru/2.2.3.gif
 ||transkart.ru/111/img/TIC_Excursion.gif
 ||transkart.ru/111/img/banner
+||tv-torrent.club/123.png
+||tv-torrent.club/amigo.png
 ||u.jimdo.com*/std/image.gif
 ||uchiyaziki.ru/adblock
 ||ug.ru/images/kittens/$image

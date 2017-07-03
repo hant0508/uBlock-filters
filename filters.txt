@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.7.6
+! Version: 3.7.7
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -118,7 +118,6 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||lexclub.ru^
 ||litmirs.pp.ru^
 ||loadinng2cc.name^
-||megahead.ru/images/146.png
 ||misterjoy.ru^
 ||mnn0gofilueus.dvvarf.pp.ua^
 ||mona-vi.ru^
@@ -217,6 +216,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||fanfics.me/images/*banner*
 ||ffin.ru/images/banner.html
 ||fightforthefuture.github.io/countdown-widget/iframe/banner.html
+||files.mastersland.com/pic/*banner*
 ||football-tv.ru/images/banner
 ||funkyimg.com/i/*.jpg
 ||futbik.net/templates/*/*/banner/
@@ -246,6 +246,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||kuponlar.ru/res/knopki/kuponlar88x31.gif
 ||last.by/adv/kr.gif
 ||liked.ru/s/i/bnr/
+||lostfilmonline.ru/info-reklam1.png
 ||magmens.com/wp-content/uploads/20*/*.gif
 ||matburo.ru/Data/banner
 ||matematikalegko.ru/img/260x249handrozdvd.jpg
@@ -256,6 +257,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||mathprofi.ru/images/matburo.gif
 ||mathprofi.ru/images/zaochnik*.gif
 ||mathwarehouse.com/images/icons/penjee/*.gif
+||megahead.ru/images/146.png
 ||megarand.ru/images/banner.png
 ||mirtochtonado.ru/seo.html
 ||mngz.ru/templates/Mangazeya/images/60pl-280px.gif
@@ -316,6 +318,8 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||tonymolystore.ru/2.2.3.gif
 ||transkart.ru/111/img/TIC_Excursion.gif
 ||transkart.ru/111/img/banner
+||tv-torrent.club/123.png
+||tv-torrent.club/amigo.png
 ||u.jimdo.com*/std/image.gif
 ||uchiyaziki.ru/adblock
 ||ug.ru/images/kittens/$image
@@ -497,6 +501,7 @@ finmarket.ru###pl45_ban72
 finmarket.ru###pl46_ban45
 fiz.1september.ru###menu
 fizika.advandcash.biz##.textwidget
+fn-volga.ru##.banner
 football-tv.ru##.wrapper > .header > .topreclama > .reclama-in-header
 football-tv.ru##.wrapper > .middle > .right-sidebar > .banner-ping-media
 forum.antichat.ru###content > .pageWidth > .noBorderRadiusBottom.pageContent > .funbox.section:nth-of-type(2) > .funboxWrapper > .samBannerUnit
@@ -614,6 +619,8 @@ lit.1september.ru###menu
 literarus.ru##.component-htmlcode.component:if-not(input)
 litmir.co##tbody > tr > td > div[style="height:180px; overflow:hidden;"]
 livelib.ru###column-fixed
+lostfilm.hdkino.biz###dle-content > .new-album:nth-of-type(1)
+lostfilm.hdkino.biz##.left-col > .new-album:nth-of-type(1)
 lurkmore.net###banner-left-240x200-0
 lyricsfreak.com##.large_wrapper.wrapper > .floatfix.song-content.content > .w100p.d-table > .d-row > .d-cell.al-t.sidebar > div:nth-of-type(1)
 maketecheasier.com##.ctContainer
@@ -669,6 +676,8 @@ myzuka.fm##.all > .header > .aside > .button-a.v2[href="/GetVipAccount"]
 nagitaru.ru###text-24
 nagitaru.ru###text-35
 naked-science.ru##.naked-banner
+naked-science.ru##.some-banner
+naked-science.ru##.view-advertising-sidebar
 nashe.ru##.main > .content > .wrapper > .right-sidebar
 nat-geo.ru###_sim_popup
 nat-geo.ru###widget-collection-overlay
@@ -839,6 +848,8 @@ torrent-baza.net##div[style="width: 600px; height: 300px; margin: 0px auto;"][ o
 tproger.ru###main_columns > .between_posts_ad
 tproger.ru##[id^="bl_google_ads"]
 trashbox.ru###div_page_right > aside > .table_center > div > .adnobg.center
+tv-torrent.club###b_bn_331
+tv-torrent.club##[id^="bn_"]
 tvk6.ru##.adv_partners
 tvrain.ru##.current.blocker.jquery-modal
 tyurem.net###sidebar
@@ -855,6 +866,7 @@ velonews.ru###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-w
 veryicon.com###content > .right_content_728
 veryicon.com###content > .right_content_728:nth-of-type(3)
 vesti.ru##.page-wrap > .main-content > .content > .adv-list_inner.adv-list
+vk.com###apps_after > .page_block:nth-of-type(1)
 vokrugsveta.ru###sape_links
 vokrugsveta.ru##.aside
 vokrugsveta.ru##.tgb-box
@@ -884,6 +896,7 @@ wsturbo.net##.fullstory.base > noindex > center
 yandex.ru##.distro_shown_yes
 zakharenkova.ru##.adsbyfffs
 zam.com##.sticky-container.side-rail
+zerocoolpro.biz##.funbox
 znak.com##figure
 znak.com##main > .x1.column.flex:nth-of-type(1) > .st
 znanija.com##.brn-ads-box
