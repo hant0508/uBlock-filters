@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.7.7
+! Version: 3.8.0
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -10,11 +10,10 @@
 ! - Adblock Warning Removal List
 ! - Malware domains (long-lived)
 ! - RU AdList
-! - Adguard Russian Filter (https://adguard.com/ru/filter-rules.html?id=1)
-! - Adguard English Filter (https://adguard.com/ru/filter-rules.html?id=2)
-! - uBlock Filters + (https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt)
+! - Adguard Russian Filter (https://filters.adtidy.org/extension/ublock/filters/1.txt)
+! - Adguard English Filter (https://filters.adtidy.org/extension/ublock/filters/2.txt)
+! - Adguard Spyware Filter (https://filters.adtidy.org/extension/ublock/filters/3.txt)
 ! - RU AdList: Counters (https://easylist-downloads.adblockplus.org/cntblock.txt)
-! - I don't care about cookies (http://www.kiboke-studio.hr/i-dont-care-about-cookies/abp)
 
 ! Exclusions
 1tv.ru#@#.promo-place
@@ -456,6 +455,7 @@ deita.ru###stMainCenter > .stBunner.stInNewsListBunner
 deita.ru###stMainRight > .stRightBunner_right.stBunner
 delayreferat.ru##.side-border-left
 delayreferat.ru##.side-border-right
+demobilization.ru##a[href="https://printonator.ru/token/"]
 dfiles.ru###iframe_console
 dljatela.ru###tertiary
 dns-shop.ru##.container > main > .ad-content-banner-under-window
@@ -619,6 +619,7 @@ lit.1september.ru###menu
 literarus.ru##.component-htmlcode.component:if-not(input)
 litmir.co##tbody > tr > td > div[style="height:180px; overflow:hidden;"]
 livelib.ru###column-fixed
+logyka.net###popup_bg
 lostfilm.hdkino.biz###dle-content > .new-album:nth-of-type(1)
 lostfilm.hdkino.biz##.left-col > .new-album:nth-of-type(1)
 lurkmore.net###banner-left-240x200-0

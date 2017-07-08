@@ -109,6 +109,7 @@ deita.ru###stMainCenter > .stBunner.stInNewsListBunner
 deita.ru###stMainRight > .stRightBunner_right.stBunner
 delayreferat.ru##.side-border-left
 delayreferat.ru##.side-border-right
+demobilization.ru##a[href="https://printonator.ru/token/"]
 dfiles.ru###iframe_console
 dljatela.ru###tertiary
 dns-shop.ru##.container > main > .ad-content-banner-under-window
@@ -272,6 +273,7 @@ lit.1september.ru###menu
 literarus.ru##.component-htmlcode.component:if-not(input)
 litmir.co##tbody > tr > td > div[style="height:180px; overflow:hidden;"]
 livelib.ru###column-fixed
+logyka.net###popup_bg
 lostfilm.hdkino.biz###dle-content > .new-album:nth-of-type(1)
 lostfilm.hdkino.biz##.left-col > .new-album:nth-of-type(1)
 lurkmore.net###banner-left-240x200-0
