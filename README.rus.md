@@ -8,14 +8,14 @@ Language: **Русский|[English](/README.md)**
 активной разработки.
 
 **Установка списка фильтров:**
-нажмите **[подписаться](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hant05080/uBlock-filters/master/filters.txt&title=Filters%20by%20hant0508)** или используйте прямую ссылку:<br>
+нажмите **[ПОДПИСАТЬСЯ](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hant05080/uBlock-filters/master/filters.txt&title=Filters%20by%20hant0508)** или используйте прямую ссылку:<br>
 `https://raw.githubusercontent.com/hant05080/uBlock-filters/master/filters.txt`
 
 ### Рекомендации
 
 Данный список фильтров совместим с большинством современных блокировщиков, однако для поддержки всех возможностей рекомендуется
 использовать [uBlock Origin](https://github.com/gorhill/uBlock) — он имеет более широкий функционал и потребляет меньше ресурсов в
-сравнении с Adblock.
+сравнении с Adblock/ABP.
 
 **Установка uBlock Origin**: [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Opera](https://addons.opera.com/en-gb/extensions/details/ublock/), [дополнительные варианты установки](https://github.com/gorhill/uBlock#installation)
 
@@ -26,10 +26,9 @@ Language: **Русский|[English](/README.md)**
 * [Adblock Warning Removal List](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/antiadblockfilters.txt&title=Adblock%20Warning%20Removal%20List)
 * [RU AdList](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/advblock.txt&title=RU%20AdList)
 * [RU AdList: Counters](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/cntblock.txt)
-* [I don't care about cookies](https://subscribe.adblockplus.org/?location=https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/&title=I%20don't%20care%20about%20cookies)
-* [Adguard Russian Filter](https://subscribe.adblockplus.org/?location=https://adguard.com/en/filter-rules.html?id=1&title=Adguard%20Russian%20Filter)*
-* [Adguard English Filter](https://subscribe.adblockplus.org/?location=https://adguard.com/en/filter-rules.html?id=2&title=Adguard%20English%20Filter)*
-* [uBlock Filters +](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt&title=uBlock%20Filters%20%2B)* <br>
+* [Adguard Russian Filter](https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/1.txt)*
+* [Adguard English Filter](https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/2.txt)*
+* [Adguard Spyware Filter](https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/3.txt)* <br>
 *совместимы только с uBlock Origin
 
 Я также рекомендую посмотреть репозитории **[userscripts](https://github.com/hant0508/usescripts)** и **[userstyles](https://github.com/hant0508/userstyles)**. Там вы можете найти скрипты и стили,
