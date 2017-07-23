@@ -151,11 +151,14 @@
 ||static-cdn.karaoke.ru/karaoke-site/img/button-friends.png
 ||static.fastpic.ru/js/jquery*.js
 ||static.ngs.ru/reklama/$image
+||static.textnow.com/web_sales/
 ||storeb2b.com/images/banners/*
 ||studme.org/images/*adv*.gif
 ||tampermonkey.net/bnir/*
 ||technical-server.ru/media/upload/ban/
 ||teplo.guru/wp-content/uploads/banner
+||tetkam.net/images/fb/close.png
+||tetkam.net/images/fb/subscribe.png
 ||theindependent.co.zw/wp-content/uploads/2015/12/13121B-ZB-Home-Improvements_ZimInd-*.jpg
 ||tonymolystore.ru/2.2.3.gif
 ||transkart.ru/111/img/TIC_Excursion.gif

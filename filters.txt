@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.0
+! Version: 3.8.1
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -308,11 +308,14 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||static-cdn.karaoke.ru/karaoke-site/img/button-friends.png
 ||static.fastpic.ru/js/jquery*.js
 ||static.ngs.ru/reklama/$image
+||static.textnow.com/web_sales/
 ||storeb2b.com/images/banners/*
 ||studme.org/images/*adv*.gif
 ||tampermonkey.net/bnir/*
 ||technical-server.ru/media/upload/ban/
 ||teplo.guru/wp-content/uploads/banner
+||tetkam.net/images/fb/close.png
+||tetkam.net/images/fb/subscribe.png
 ||theindependent.co.zw/wp-content/uploads/2015/12/13121B-ZB-Home-Improvements_ZimInd-*.jpg
 ||tonymolystore.ru/2.2.3.gif
 ||transkart.ru/111/img/TIC_Excursion.gif
@@ -416,6 +419,7 @@ bestru.ru##.main_box > .rightColumn
 beznal.cc##.banners
 bicaps.net##.external
 bigpicture.ru##.section-main-project-link200.wrapper
+bitcointalk.org###quickModForm > table > tbody > tr:if(span:has-text(/Advertised sites are not endorsed by the Bitcoin Forum./))
 blinovrus.ru##.setup-bottom-panel
 borda.ru##.element:if-not(a)
 boston.com##.radio-bdc
@@ -434,6 +438,7 @@ compconsult.orgfree.com###block-block-17.block.block-block
 comss.info###header > .toplogo > span
 comss.ru###container > div:nth-of-type(1) > a[href="download/Adguard.html"]
 comss.ru###container > div:nth-of-type(6) > div > a[href="http://www.comss.ru/download/Adguard.html"]
+comss.ru##.addthis_sharing_toolbox
 comss.ru##.container:if(span:has-text(/Реклама/))
 comss.ru##a[href^="https://www.comss.ru/page.php?al=adguard"] > img
 convertio.co##.main-wrapper-for-sticky-footer > .inner-new-page.content > .content-wrapper > .blur-bg-wrap
@@ -591,6 +596,7 @@ izvestia.ru##.wrap > .inner_news.columned.main_container > .center_column > .cen
 izvestia.ru##[id^=LentaInform]
 izvestia.ru##[id^=unit_]
 jenyay.net###wikitext > .ad
+journaldev.com##.kd845e-hide
 kampc-help.ru###art-main > .art-sheet.art-box > .art-sheet-body.art-box-body > .art-layout-wrapper > .art-content-layout > .art-content-layout-row > .art-sidebar2.art-layout-cell > .art-block.art-box:nth-of-type(6) > .art-block-body.art-box-body
 kampc-help.ru##.art-box-body.art-post-body > .art-post-inner > .art-postcontent > .art-article > center
 kampc-help.ru##.art-layout-cell.art-sidebar1 > .art-box.art-block
@@ -830,6 +836,7 @@ telegraf.by##.promo-240_400.promo-box
 testi.ru###main > .menu.normb
 testi.ru##[class^="bborder"][class*="upad"]
 testi.ru##[id^="DIV_DA_"]
+tetkam.net###blanket
 textnow.com###banner
 the-village.ru###fixed-sidebar
 the-village.ru##.app-content.page-content > .row-adblock-message.row
