@@ -330,6 +330,10 @@ mp3.shmidt.net###mainbox > .rightbox
 mrko.mos.ru###swiffycontainer
 myddns.ru###rightcolumn
 mymodo.ru###header > .region-bottom-header.region
+myshared.ru###gallery > div[class=" "]
+myshared.ru##.top-wrapper.uk-width-1-1 > div:not([style]):not(.playerWrapper)
+myshared.ru##.uk-article > .uk-text-center
+myshared.ru##.uk-margin-right.uk-margin-bottom.uk-text-center
 myzuka.fm##.all > .header > .aside > .button-a.v2[href="/GetVipAccount"]
 nagitaru.ru###text-24
 nagitaru.ru###text-35
@@ -396,6 +400,8 @@ pogoda.mail.ru##a.forecast-branding-link
 popmech.ru###_sim_popup
 popuptest.com##table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
 popuptest.com##table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+pornhub.com###age-verification-container
+pornhub.com###age-verification-wrapper
 pornhub.com##.nonesuch
 pornhub.com##.playlistSectionWrapper.container > div > div
 pornscrape.com##.css2table
@@ -415,6 +421,7 @@ pron.tv##.resblockx.lextra.resblock
 proshkolu.ru##a[href^="click"]
 prostolinux.ru###colLeft > .blogItem > center > .spanlink
 prostolinux.ru##.spanlink > img[class^="aligncenter wp-image-"]
+ptzgovorit.ru###banner-a1
 pythonworld.ru###ytb > .pythonworld-contributor.alert
 rbc.ru##.js-checkad-warning
 rbc.ua##.hidemobo.rdblock
@@ -452,6 +459,7 @@ russian.rt.com###content > .widget-mediametrics
 russian.rt.com###sidebar > .shown.widget-mediametrics
 russian.rt.com###smi2-aside_single
 russian7.ru###bannerCT-2
+samorob.com.ua##.mgbox
 school.xvatit.com###slider1
 school.xvatit.com##div[style="float: left;width: 340px; height:305px;/*border: 1px dashed #95d4e2;*/ background-color: #fff;"]
 search.disconnect.me###premium-protection

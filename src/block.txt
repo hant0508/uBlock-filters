@@ -51,6 +51,7 @@
 ||dinternal.com.ua/wp-content/themes/dinternal/images/vac.jpg
 ||dljatela.ru/wp-content/uploads/2017/05/Banner
 ||dnevnyk-uspeha.com/*/banners/
+||downz.ru/images/loveJusta1.jpg
 ||e-pay.tv/i/250х250.gif
 ||ecoteco.ru/assets/images/banners/
 ||ege-ok.ru/wp-content/uploads/*/*/*.gif
@@ -60,6 +61,7 @@
 ||fightforthefuture.github.io/countdown-widget/iframe/banner.html
 ||files.mastersland.com/pic/*banner*
 ||football-tv.ru/images/banner
+||foxford.ru/uploads/materials/banners/
 ||funkyimg.com/i/*.jpg
 ||futbik.net/templates/*/*/banner/
 ||geobravo.isrageo.com/files/partner/promotion/

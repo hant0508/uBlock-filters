@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.1
+! Version: 3.8.2
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -102,7 +102,6 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||filleportall21cc.name^
 ||fivalezobadanesokogu.xpg.uol.com.br^
 ||forumka1ll.ru^
-||foxford.ru/uploads/materials/banners/
 ||freesoft2scc.pp.ua^
 ||glav4.ru^
 ||gorspravki.ru^
@@ -114,6 +113,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||kareliyarsp.ru^
 ||kyrenie.magbraslet.top^
 ||lapala.cl^
+||lbvxzfut.cba.pl^
 ||lexclub.ru^
 ||litmirs.pp.ru^
 ||loadinng2cc.name^
@@ -208,6 +208,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||dinternal.com.ua/wp-content/themes/dinternal/images/vac.jpg
 ||dljatela.ru/wp-content/uploads/2017/05/Banner
 ||dnevnyk-uspeha.com/*/banners/
+||downz.ru/images/loveJusta1.jpg
 ||e-pay.tv/i/250х250.gif
 ||ecoteco.ru/assets/images/banners/
 ||ege-ok.ru/wp-content/uploads/*/*/*.gif
@@ -217,6 +218,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||fightforthefuture.github.io/countdown-widget/iframe/banner.html
 ||files.mastersland.com/pic/*banner*
 ||football-tv.ru/images/banner
+||foxford.ru/uploads/materials/banners/
 ||funkyimg.com/i/*.jpg
 ||futbik.net/templates/*/*/banner/
 ||geobravo.isrageo.com/files/partner/promotion/
@@ -679,6 +681,10 @@ mp3.shmidt.net###mainbox > .rightbox
 mrko.mos.ru###swiffycontainer
 myddns.ru###rightcolumn
 mymodo.ru###header > .region-bottom-header.region
+myshared.ru###gallery > div[class=" "]
+myshared.ru##.top-wrapper.uk-width-1-1 > div:not([style]):not(.playerWrapper)
+myshared.ru##.uk-article > .uk-text-center
+myshared.ru##.uk-margin-right.uk-margin-bottom.uk-text-center
 myzuka.fm##.all > .header > .aside > .button-a.v2[href="/GetVipAccount"]
 nagitaru.ru###text-24
 nagitaru.ru###text-35
@@ -745,6 +751,8 @@ pogoda.mail.ru##a.forecast-branding-link
 popmech.ru###_sim_popup
 popuptest.com##table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
 popuptest.com##table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+pornhub.com###age-verification-container
+pornhub.com###age-verification-wrapper
 pornhub.com##.nonesuch
 pornhub.com##.playlistSectionWrapper.container > div > div
 pornscrape.com##.css2table
@@ -764,6 +772,7 @@ pron.tv##.resblockx.lextra.resblock
 proshkolu.ru##a[href^="click"]
 prostolinux.ru###colLeft > .blogItem > center > .spanlink
 prostolinux.ru##.spanlink > img[class^="aligncenter wp-image-"]
+ptzgovorit.ru###banner-a1
 pythonworld.ru###ytb > .pythonworld-contributor.alert
 rbc.ru##.js-checkad-warning
 rbc.ua##.hidemobo.rdblock
@@ -801,6 +810,7 @@ russian.rt.com###content > .widget-mediametrics
 russian.rt.com###sidebar > .shown.widget-mediametrics
 russian.rt.com###smi2-aside_single
 russian7.ru###bannerCT-2
+samorob.com.ua##.mgbox
 school.xvatit.com###slider1
 school.xvatit.com##div[style="float: left;width: 340px; height:305px;/*border: 1px dashed #95d4e2;*/ background-color: #fff;"]
 search.disconnect.me###premium-protection
