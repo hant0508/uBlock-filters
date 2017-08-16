@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.2
+! Version: 3.8.3
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -107,6 +107,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||gorspravki.ru^
 ||guestapp.ru^
 ||guf2.ru^
+||handonu.pp.ua^
 ||highletohor1980.tumblr.com^
 ||hivxffti.oagroup.info^
 ||kandibar.ru^
@@ -138,6 +139,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||spenlobubestgas.files.wordpress.com^
 ||styleous.ru^
 ||swhpgjkl.kyty.net^
+||tyrellno.net63.net^
 ||vid.x-casino.net^
 ||viniki.ru^
 ||vk-com-auth5.com^
@@ -181,6 +183,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||biblemenus.com/adframe
 ||bicaps.net/bicaps-bg*.jpg
 ||biord.ru/wp-content/uploads/2016/01/iherb.swf
+||bitjournal.media/ads/
 ||black.beauty-mask.biz^$popup
 ||botan.cc/kursy.gif
 ||c.mql4.com/images/*/*.gif
@@ -190,6 +193,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||cdn.comss.net/action/internet*.png
 ||cdn.comss.net/action/ya-antiphishing.jpg
 ||cdn.comss.net/img/adguard_down*.png
+||cdn.hashflare.eu/banners/
 ||cdn.livetvcdn.net/html/$subdocument
 ||cdn8.grattis.ru/publicdata/widget/
 ||chudobilet.ru/content/images/дыши.gif
@@ -278,6 +282,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||neznaika.pro/templates/neznaika/_img/god*.png
 ||nic.liolu.site$third-party
 ||no-viruses.ru/frt.jpg
+||nsportal.com.ua/555.png
 ||ntv.ru/smi.html
 ||payad.me/images/payadme
 ||pbs.twimg.com/profile_banners/
@@ -416,6 +421,7 @@ baltimoresun.com##[class*="adBanner"]
 baltimoresun.com##[id*="_ad_"]
 baltimoresun.com##[id*="outfitAd"]
 barcaman.ru###content > .advert
+basketbuild.com##.panel-default.panel:if(.panel-heading:has-text(/Advertisement/))
 belta.by##.bans_flash
 bestru.ru##.main_box > .rightColumn
 beznal.cc##.banners
@@ -446,6 +452,7 @@ comss.ru##a[href^="https://www.comss.ru/page.php?al=adguard"] > img
 convertio.co##.main-wrapper-for-sticky-footer > .inner-new-page.content > .content-wrapper > .blur-bg-wrap
 cqham.ru##blockquote > p:nth-of-type(62)
 cqham.ru##div > center > table > tbody > tr:nth-of-type(1)
+crypto.hut2.ru###AW121
 cxz.to##.b-section-menu + *
 cxz.to##.b-tab-item__description + * + *
 cxz.to##.l-content > .b-scroll-top + .b-nowviewed + *
@@ -594,8 +601,6 @@ irecommend.ru###sidebar-left-top-content-wrapper
 irecommend.ru###sidebar-left-top-content-wrapper > .brusok-processed.brusok > .left-top-300x250
 isrageo.com##.td-banner-wrap-full
 itelevisor.ru##div > .a-overlay
-izvestia.ru##.wrap > .inner_news.columned.main_container > .center_column > .center_column_content > .text_page > .commercial_block:nth-of-type(9) > .rambler_news
-izvestia.ru##[id^=LentaInform]
 izvestia.ru##[id^=unit_]
 jenyay.net###wikitext > .ad
 journaldev.com##.kd845e-hide
@@ -631,7 +636,6 @@ logyka.net###popup_bg
 lostfilm.hdkino.biz###dle-content > .new-album:nth-of-type(1)
 lostfilm.hdkino.biz##.left-col > .new-album:nth-of-type(1)
 lurkmore.net###banner-left-240x200-0
-lyricsfreak.com##.large_wrapper.wrapper > .floatfix.song-content.content > .w100p.d-table > .d-row > .d-cell.al-t.sidebar > div:nth-of-type(1)
 maketecheasier.com##.ctContainer
 maketecheasier.com##.site-container > .after-header > [class]
 mako.co.il##.ad
@@ -639,6 +643,7 @@ malekal.com##center
 manyahin.ru##footer
 markapon.ru##.side-banner
 master-skills.ru###column_right > .moduletable:nth-of-type(3)
+masterok.livejournal.com##.block__sv
 matematikalegko.ru##[class*="Banner"]
 math-prosto.ru###advTopLine
 math-prosto.ru##[id^="ambn"]
@@ -825,6 +830,8 @@ smallpdf.com##.result-message > .ad
 smiles.spb.su###sidebar2 > .for > div > noindex
 sobralio.net###sidebar-right
 sochinenie11.ru##.wrapper > .middle > .left-sidebar > object
+socratify.net##.h-mb-15.h-mq-800-or-more
+socratify.net##[class^="b-adsense"]
 soft.mydiv.net###softtopad
 softpedia.com###wrapper > .main > .container_48 > .fr.sepbrd4.prefix_2.grid_31 > .legible.storybox1 > .fr.ad-336
 softrew.ru##.main-center-block > .content-block > .shad > .shad-top > .shad-bottom > .right-col > .right-block:nth-of-type(5)

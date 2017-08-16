@@ -24,6 +24,7 @@
 ||biblemenus.com/adframe
 ||bicaps.net/bicaps-bg*.jpg
 ||biord.ru/wp-content/uploads/2016/01/iherb.swf
+||bitjournal.media/ads/
 ||black.beauty-mask.biz^$popup
 ||botan.cc/kursy.gif
 ||c.mql4.com/images/*/*.gif
@@ -33,6 +34,7 @@
 ||cdn.comss.net/action/internet*.png
 ||cdn.comss.net/action/ya-antiphishing.jpg
 ||cdn.comss.net/img/adguard_down*.png
+||cdn.hashflare.eu/banners/
 ||cdn.livetvcdn.net/html/$subdocument
 ||cdn8.grattis.ru/publicdata/widget/
 ||chudobilet.ru/content/images/дыши.gif
@@ -121,6 +123,7 @@
 ||neznaika.pro/templates/neznaika/_img/god*.png
 ||nic.liolu.site$third-party
 ||no-viruses.ru/frt.jpg
+||nsportal.com.ua/555.png
 ||ntv.ru/smi.html
 ||payad.me/images/payadme
 ||pbs.twimg.com/profile_banners/

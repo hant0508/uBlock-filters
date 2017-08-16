@@ -65,6 +65,7 @@ baltimoresun.com##[class*="adBanner"]
 baltimoresun.com##[id*="_ad_"]
 baltimoresun.com##[id*="outfitAd"]
 barcaman.ru###content > .advert
+basketbuild.com##.panel-default.panel:if(.panel-heading:has-text(/Advertisement/))
 belta.by##.bans_flash
 bestru.ru##.main_box > .rightColumn
 beznal.cc##.banners
@@ -95,6 +96,7 @@ comss.ru##a[href^="https://www.comss.ru/page.php?al=adguard"] > img
 convertio.co##.main-wrapper-for-sticky-footer > .inner-new-page.content > .content-wrapper > .blur-bg-wrap
 cqham.ru##blockquote > p:nth-of-type(62)
 cqham.ru##div > center > table > tbody > tr:nth-of-type(1)
+crypto.hut2.ru###AW121
 cxz.to##.b-section-menu + *
 cxz.to##.b-tab-item__description + * + *
 cxz.to##.l-content > .b-scroll-top + .b-nowviewed + *
@@ -243,8 +245,6 @@ irecommend.ru###sidebar-left-top-content-wrapper
 irecommend.ru###sidebar-left-top-content-wrapper > .brusok-processed.brusok > .left-top-300x250
 isrageo.com##.td-banner-wrap-full
 itelevisor.ru##div > .a-overlay
-izvestia.ru##.wrap > .inner_news.columned.main_container > .center_column > .center_column_content > .text_page > .commercial_block:nth-of-type(9) > .rambler_news
-izvestia.ru##[id^=LentaInform]
 izvestia.ru##[id^=unit_]
 jenyay.net###wikitext > .ad
 journaldev.com##.kd845e-hide
@@ -280,7 +280,6 @@ logyka.net###popup_bg
 lostfilm.hdkino.biz###dle-content > .new-album:nth-of-type(1)
 lostfilm.hdkino.biz##.left-col > .new-album:nth-of-type(1)
 lurkmore.net###banner-left-240x200-0
-lyricsfreak.com##.large_wrapper.wrapper > .floatfix.song-content.content > .w100p.d-table > .d-row > .d-cell.al-t.sidebar > div:nth-of-type(1)
 maketecheasier.com##.ctContainer
 maketecheasier.com##.site-container > .after-header > [class]
 mako.co.il##.ad
@@ -288,6 +287,7 @@ malekal.com##center
 manyahin.ru##footer
 markapon.ru##.side-banner
 master-skills.ru###column_right > .moduletable:nth-of-type(3)
+masterok.livejournal.com##.block__sv
 matematikalegko.ru##[class*="Banner"]
 math-prosto.ru###advTopLine
 math-prosto.ru##[id^="ambn"]
@@ -474,6 +474,8 @@ smallpdf.com##.result-message > .ad
 smiles.spb.su###sidebar2 > .for > div > noindex
 sobralio.net###sidebar-right
 sochinenie11.ru##.wrapper > .middle > .left-sidebar > object
+socratify.net##.h-mb-15.h-mq-800-or-more
+socratify.net##[class^="b-adsense"]
 soft.mydiv.net###softtopad
 softpedia.com###wrapper > .main > .container_48 > .fr.sepbrd4.prefix_2.grid_31 > .legible.storybox1 > .fr.ad-336
 softrew.ru##.main-center-block > .content-block > .shad > .shad-top > .shad-bottom > .right-col > .right-block:nth-of-type(5)
