@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.3
+! Version: 3.8.4
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -81,16 +81,21 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||appvk.ru^
 ||askfm.im^
 ||assume.fritjurnica.com^
+||ayymoqixesitelewyfi.j.pl^
 ||base2.ru^
 ||beryblog.ru^
 ||bestload.me^
 ||blogport.ru^
 ||bromigo.pw^
+||browser17.trade^
 ||chersbaringli1978.tumblr.com^
+||clickpays24.net^
 ||delta-search.com^
 ||dle01.freesoftt2cc.name^
 ||dle30.sofftportall9nn.info^
 ||download-amigo.com^
+||e-pay.club^
+||e-pay.tv^
 ||etofirma36.pp.ua^
 ||eworkshop.ru^
 ||ex1rs.com^
@@ -104,12 +109,16 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||forumka1ll.ru^
 ||freesoft2scc.pp.ua^
 ||glav4.ru^
+||glopart.ru^
 ||gorspravki.ru^
 ||guestapp.ru^
 ||guf2.ru^
+||h.hatena.ne.jp^
+||hamilton17.trade^
 ||handonu.pp.ua^
 ||highletohor1980.tumblr.com^
 ||hivxffti.oagroup.info^
+||infinityscalper.ru.com^
 ||kandibar.ru^
 ||kareliyarsp.ru^
 ||kyrenie.magbraslet.top^
@@ -123,6 +132,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||mona-vi.ru^
 ||myblogoff.ru^
 ||myshisha.ru^
+||new-method.ga^
 ||nkokbr.ru^
 ||pdf-knigi.com^
 ||pdf.pp.ru^
@@ -195,6 +205,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||cdn.comss.net/img/adguard_down*.png
 ||cdn.hashflare.eu/banners/
 ||cdn.livetvcdn.net/html/$subdocument
+||cdn.miped.ru/uploads/csgoc/
 ||cdn8.grattis.ru/publicdata/widget/
 ||chudobilet.ru/content/images/дыши.gif
 ||compua.com.ua/wp-content/uploads/2010/07/Kupit-computer.gif
@@ -297,6 +308,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||red.tingrinter.com/
 ||reklama*.ngs.ru/
 ||reshimvse.com/artadmin/$image
+||roadtomoney.ru/wp-content/uploads/*.gif
 ||robo-host.ru/banner
 ||rsload.net/images*/downasd*.png
 ||rsload.net/images*/premssf.png
@@ -480,6 +492,7 @@ drivers.mydiv.net##div[style="margin:8px;margin-top:0px;border:1px #c0c0c0 solid
 drivers.mydiv.net##div[style="width:160px; height:600px;  bordeR:1px #eeeeee solid;"]
 drivers.mydiv.net##div[style="width:160px; height:600px; margin-left:15px; margin-right:5px; bordeR:1px #eeeeee solid;"]
 drivers.mydiv.net##div[style="width:728px; height: 90px; border:#eeeeee 1px solid; margin-bottom:35px;margin-top:10px;"]
+e-reading.club##body > div:has-text(/реклама - advertisement/)
 e-reading.life##[id$="Ads"]
 e-reading.life##body > div:nth-of-type(7) > table > tbody > tr > td > hr
 echo.msk.ru##.pagecontent > .mainbanner_box
@@ -710,6 +723,7 @@ news.vse42.ru##div[data-adplace-inited="true"]
 newslab.ru##.yandex-ad-wrapper
 newsru.com###stakan
 nixp.ru###nixp > .trueoffice_cpg.trueoffice
+nnm-club.name##body > .request
 nnov.petovod.ru##.google_cont
 ntv.ru###banner240x400
 ntv.ru###pa_header

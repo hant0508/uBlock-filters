@@ -36,6 +36,7 @@
 ||cdn.comss.net/img/adguard_down*.png
 ||cdn.hashflare.eu/banners/
 ||cdn.livetvcdn.net/html/$subdocument
+||cdn.miped.ru/uploads/csgoc/
 ||cdn8.grattis.ru/publicdata/widget/
 ||chudobilet.ru/content/images/дыши.gif
 ||compua.com.ua/wp-content/uploads/2010/07/Kupit-computer.gif
@@ -138,6 +139,7 @@
 ||red.tingrinter.com/
 ||reklama*.ngs.ru/
 ||reshimvse.com/artadmin/$image
+||roadtomoney.ru/wp-content/uploads/*.gif
 ||robo-host.ru/banner
 ||rsload.net/images*/downasd*.png
 ||rsload.net/images*/premssf.png

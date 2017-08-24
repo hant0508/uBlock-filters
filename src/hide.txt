@@ -124,6 +124,7 @@ drivers.mydiv.net##div[style="margin:8px;margin-top:0px;border:1px #c0c0c0 solid
 drivers.mydiv.net##div[style="width:160px; height:600px;  bordeR:1px #eeeeee solid;"]
 drivers.mydiv.net##div[style="width:160px; height:600px; margin-left:15px; margin-right:5px; bordeR:1px #eeeeee solid;"]
 drivers.mydiv.net##div[style="width:728px; height: 90px; border:#eeeeee 1px solid; margin-bottom:35px;margin-top:10px;"]
+e-reading.club##body > div:has-text(/реклама - advertisement/)
 e-reading.life##[id$="Ads"]
 e-reading.life##body > div:nth-of-type(7) > table > tbody > tr > td > hr
 echo.msk.ru##.pagecontent > .mainbanner_box
@@ -354,6 +355,7 @@ news.vse42.ru##div[data-adplace-inited="true"]
 newslab.ru##.yandex-ad-wrapper
 newsru.com###stakan
 nixp.ru###nixp > .trueoffice_cpg.trueoffice
+nnm-club.name##body > .request
 nnov.petovod.ru##.google_cont
 ntv.ru###banner240x400
 ntv.ru###pa_header
