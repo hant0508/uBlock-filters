@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.4
+! Version: 3.8.5
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -761,6 +761,7 @@ photobucket.com###adBlockMessaging
 physics.ru##body > noindex:nth-of-type(2)
 physics.ru##body > noindex:nth-of-type(3) > table > tbody > tr:nth-of-type(5)
 pikabu.ru##.ad-reset
+pikabu.ru##.b-page-header-v2 > span > a > div
 pleer.ru##.mainBlock.pie[style="margin-bottom: 15px; "]
 pleer.ru##noindex > center > .pie.gray_border
 plusworld.ru###container > .wrapper > .left-column > .banner__forum-fixed.ban-180x200:nth-of-type(1)
