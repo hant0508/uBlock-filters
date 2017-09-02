@@ -73,6 +73,7 @@ bicaps.net##.external
 bigpicture.ru##.section-main-project-link200.wrapper
 bitcointalk.org###quickModForm > table > tbody > tr:if(span:has-text(/Advertised sites are not endorsed by the Bitcoin Forum./))
 blinovrus.ru##.setup-bottom-panel
+bookin.ucoz.ru##.contanier > span
 borda.ru##.element:if-not(a)
 boston.com##.radio-bdc
 briefly.ru###audiobook
@@ -176,6 +177,7 @@ furfur.me##.app-content.page-content > .main-row.row > .row-cont > .app-content.
 futbik.net##table > tbody > tr > td[onclick^="window.open('http"][style]
 game01.ru##.branding > .content > .inner:nth-of-type(2) > .gamePage > .gameTop > .rightBanner
 game01.ru##[class$="BannerWrap"]
+gamebomb.ru##.container-content.container-light
 gamefaqs.com###content > .row.pre_content > .span12 > .board_wrap.pod > .body > .msg.message.board > tbody > .msg.forum_promo
 games.mydiv.net##div[style="width:728px; height: 90px; border:#dddddd 1px solid; margin-bottom:40px;margin-top:10px;"]
 garant.ru###page > .content > .inner > .row-grid > .popup-social
@@ -253,6 +255,8 @@ kampc-help.ru###art-main > .art-sheet.art-box > .art-sheet-body.art-box-body > .
 kampc-help.ru##.art-box-body.art-post-body > .art-post-inner > .art-postcontent > .art-article > center
 kampc-help.ru##.art-layout-cell.art-sidebar1 > .art-box.art-block
 kanobu.ru##.fluid-banner
+kingisepp-today.ru###framemaster
+kingisepp-today.ru###top-master-wrapper
 kingisepp-today.ru##.elite_vp_videoPlayerAD
 kinobaza.tv###fast-feedback-btn
 kinogb.net###fehu-content > .statics > .dwnl-osn > .dwnl-right
@@ -269,6 +273,9 @@ kritika24.ru##.netv
 ksenia.8m.com###sideFrame
 kv.by###block-block-116
 laptop-info.ru###page > .container-inner > div > .banners
+learnersdictionary.com##.abl-m0-t160-d160
+learnersdictionary.com##.abl-m0-t300-d300
+learnersdictionary.com##.abl-m0-t728-d728
 leeet.net###teaser_223
 lentach.media##.banner__content
 lifehacker.ru##article[id^="post"] > .clearfix.entry-content > .relap-wrapper
@@ -505,6 +512,7 @@ textnow.com###banner
 the-village.ru###fixed-sidebar
 the-village.ru##.app-content.page-content > .row-adblock-message.row
 thequestion.ru##.dfp-answers-horizontal-banner-wrapper
+thequestion.ru##.informer
 thequestion.ru##.promo
 thesimsresource.com###eucookie
 thesimsresource.com##.sticky_bottom
@@ -576,3 +584,15 @@ znanija.com##.js-toplayer-remove-on-close
 zona.media##.mz-adv-image
 zonazakona.ru##[id^="yandex_ad"]
 zoon.ru##.service-box-white > .box-padding
+кингисепп-сегодня.рф###framemaster
+кингисепп-сегодня.рф###resource_banner
+кингисепп-сегодня.рф###top-master-wrapper
+кингисепп-сегодня.рф###wrgsv
+кингисепп-сегодня.рф##.b-side-col-vip-ks
+кингисепп-сегодня.рф##.ks-middle-content-sub-grid-1__col-2-i
+кингисепп-сегодня.рф##.padleft > table > tbody > tr:has-text(/Реклама на портале/)
+кингисепп-сегодня.рф##.padright > table > tbody > tr:has-text(/Реклама на портале/)
+кингисепп-сегодня.рф##.row-fluid
+кингисепп-сегодня.рф##[class*="banner-news"]
+кингисепп-сегодня.рф/images/banner/
+кингисепп-сегодня.рф/userfiles/image/banner/

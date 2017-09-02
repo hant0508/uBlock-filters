@@ -26,6 +26,7 @@
 ||biord.ru/wp-content/uploads/2016/01/iherb.swf
 ||bitjournal.media/ads/
 ||black.beauty-mask.biz^$popup
+||bookin.ucoz.ru/tcs.png
 ||botan.cc/kursy.gif
 ||c.mql4.com/images/*/*.gif
 ||cardingboard.net/imgs/*.gif$third-party
@@ -94,6 +95,7 @@
 ||last.by/adv/kr.gif
 ||liked.ru/s/i/bnr/
 ||lostfilmonline.ru/info-reklam1.png
+||magilol.twirpx.com/abpsucks/
 ||magmens.com/wp-content/uploads/20*/*.gif
 ||matburo.ru/Data/banner
 ||matematikalegko.ru/img/260x249handrozdvd.jpg
@@ -193,5 +195,7 @@
 ||youpk.ru/wp-content/*/banner
 ||город-кингисепп.рф/images/*.gif
 ||егэша.рф/examen.png
+||егэша.рф/repetit.gif
 ||кингисепп-сегодня.рф/images/banner/
 ||кингисепп-сегодня.рф/userfiles/image/iconki/*.jpg
+||кингисепп-сегодня.рф^$domain=embed.kingisepp-today.ru
