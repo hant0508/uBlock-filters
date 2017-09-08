@@ -46,6 +46,7 @@ all-biography.ru###right-sidebar > [class*="ads_banner"]
 allbesta.cc###tsr_etrg
 allbesta.cc##.tsrs
 allbesta.ru###center > noindex
+alleng.ru##a[href="http://www.alleng.ru/ab3.php"]
 alleng.ru##a[href="http://www.alleng.ru/am1.php"]
 altyazilifilmizle.org###pageskin > .bannergroup-pageskin
 alvinalexander.com##.ads-large.ads
@@ -86,6 +87,7 @@ chistiulia.ru###content > .row-fluid > .span3:nth-of-type(3) > .clearfix.b-shado
 citilink.ru##.toggling_banners
 cnet.com##[class^="ad-incontent"]
 colorfest.ru##.middle > .rightside
+comandir.com##.pos-1 > .gaspan
 compconsult.orgfree.com###block-block-11.block.block-block
 compconsult.orgfree.com###block-block-17.block.block-block
 comss.info###header > .toplogo > span
@@ -584,6 +586,7 @@ znanija.com##.js-toplayer-remove-on-close
 zona.media##.mz-adv-image
 zonazakona.ru##[id^="yandex_ad"]
 zoon.ru##.service-box-white > .box-padding
+город-кингисепп.рф##.art-blockcontent-body > .custom > p > a:not([href^="/"]) > img
 кингисепп-сегодня.рф###framemaster
 кингисепп-сегодня.рф###resource_banner
 кингисепп-сегодня.рф###top-master-wrapper

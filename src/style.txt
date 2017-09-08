@@ -1,4 +1,5 @@
 4pda.ru###wrapper > div > div > div:style(background:#e6e7e9!important;)
+en.oxforddictionaries.com###sidebar:style(margin-top:0!important;)
 ivi.ru##.content-main:style(padding-top:0px!important;)
 medzubr.ru##html:style(margin-top:0px!important)
 proficinema.ru##html > body:style(background:none!important;margin-top:0px!important;)
