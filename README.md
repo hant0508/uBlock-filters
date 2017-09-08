@@ -32,6 +32,6 @@ I recommend using the following filter lists for the best result:
 I also recommend to see **[userscripts](https://github.com/hant0508/usescripts)** and **[userstyles](https://github.com/hant0508/userstyles)** repositories. There you can find scripts and styles removing "complicated" ads.
 
 ### Feedback
-If you have any problems with the filters, [open an issue](https://github.com/hant0508/uBlock-fillters/issues/new). If you have any
+If you have any problems with the filters, [open an issue](https://github.com/hant05080/uBlock-fillters/issues/new). If you have any
 difficulties in blocking ads on any site, you can also
-[write about it](https://github.com/hant0508/uBlock-fillters/issues/new). If you have no GitHub account, [email me](mailto:hant0508@gmail.com?subject=GitHub%20issue%20|%20Filters).
+[write about it](https://github.com/hant05080/uBlock-fillters/issues/new). If you have no GitHub account, [email me](mailto:hant0508@gmail.com?subject=GitHub%20issue%20|%20Filters).

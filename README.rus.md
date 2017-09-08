@@ -36,6 +36,6 @@ Language: **Русский|[English](/README.md)**
 
 ### Обратная связь
 
-Если у вас возникли проблемы с фильтрами, сообщите о них на [GitHub](https://github.com/hant0508/uBlock-fillters/issues/new) или [Вконтакте](https://vk.com/im?sel=116615188).
+Если у вас возникли проблемы с фильтрами, сообщите о них на [GitHub](https://github.com/hant05080/uBlock-fillters/issues/new) или [Вконтакте](https://vk.com/im?sel=116615188).
 Если у вас возникли трудности при блокировке рекламы на каком-либо сайте, вы так же можете
-[написать об этом](https://github.com/hant0508/uBlock-fillters/issues/new). Пишите мне [по электронной почте](mailto:hant0508@gmail.com?subject=GitHub%20issue%20|%20Filters), если у вас нет аккаунта на GitHub.
+[написать об этом](https://github.com/hant05080/uBlock-fillters/issues/new). Пишите мне [по электронной почте](mailto:hant0508@gmail.com?subject=GitHub%20issue%20|%20Filters), если у вас нет аккаунта на GitHub.
