@@ -64,6 +64,7 @@
 ||ffin.ru/images/banner.html
 ||fightforthefuture.github.io/countdown-widget/iframe/banner.html
 ||files.mastersland.com/pic/*banner*
+||fileskachat.com/img/bal_1.jpg
 ||football-tv.ru/images/banner
 ||foxford.ru/uploads/materials/banners/
 ||funkyimg.com/i/*.jpg
@@ -153,6 +154,7 @@
 ||rustorka.com/forum/images/avatars/
 ||s3.amazonaws.com/disconnect-images/images/search/*Premium*.png
 ||savoy.cubecdn.net/*.jpg
+||semestr.ru/images/foxford/
 ||server-rotation.ru/media/upload/ban/*
 ||sitehere.ru/inmymoney/pdf-otchet/*.png
 ||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image

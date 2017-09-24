@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.7.1
+! Version: 3.7.2
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -72,6 +72,8 @@ yandex.ru##:xpath(/html/body//div/div[a[./text()="Яндекс.Директ"]])
 4pda.ru###wrapper > div > div > div:style(background:#e6e7e9!important;)
 en.oxforddictionaries.com###sidebar:style(margin-top:0!important;)
 ivi.ru##.content-main:style(padding-top:0px!important;)
+mail.yandex.ru##.ns-view-folders > a:style(cursor:pointer!important;)
+mail.yandex.ru##.ns-view-folders:style(background-image:none!important; cursor:auto!important;)
 medzubr.ru##html:style(margin-top:0px!important)
 proficinema.ru##html > body:style(background:none!important;margin-top:0px!important;)
 radikal.ru##body > .render_body_main:style(padding-top:0px!important;)
@@ -161,6 +163,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||webalta.ru^
 ||webindicator.ru^
 ||well-men.ru^
+||wokjh.c23f3gte.radisol.org^
 ||x002xx.ru^
 ||xiby.ru^
 ||yamdex.net^
@@ -234,6 +237,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||ffin.ru/images/banner.html
 ||fightforthefuture.github.io/countdown-widget/iframe/banner.html
 ||files.mastersland.com/pic/*banner*
+||fileskachat.com/img/bal_1.jpg
 ||football-tv.ru/images/banner
 ||foxford.ru/uploads/materials/banners/
 ||funkyimg.com/i/*.jpg
@@ -323,6 +327,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||rustorka.com/forum/images/avatars/
 ||s3.amazonaws.com/disconnect-images/images/search/*Premium*.png
 ||savoy.cubecdn.net/*.jpg
+||semestr.ru/images/foxford/
 ||server-rotation.ru/media/upload/ban/*
 ||sitehere.ru/inmymoney/pdf-otchet/*.png
 ||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
@@ -539,6 +544,7 @@ fizika.advandcash.biz##.textwidget
 fn-volga.ru##.banner
 football-tv.ru##.wrapper > .header > .topreclama > .reclama-in-header
 football-tv.ru##.wrapper > .middle > .right-sidebar > .banner-ping-media
+forbes.com##.top-ad-container
 forum.antichat.ru###content > .pageWidth > .noBorderRadiusBottom.pageContent > .funbox.section:nth-of-type(2) > .funboxWrapper > .samBannerUnit
 forum.beznal.cc###categories > .banner_800
 forum.beznal.cc###categories > .cat_banner
@@ -663,6 +669,7 @@ logyka.net###popup_bg
 lostfilm.hdkino.biz###dle-content > .new-album:nth-of-type(1)
 lostfilm.hdkino.biz##.left-col > .new-album:nth-of-type(1)
 lurkmore.net###banner-left-240x200-0
+mail.yandex.ru##.ns-view-messages-item-wrap:if-not(.js-messages-item-checkbox)
 maketecheasier.com##.ctContainer
 maketecheasier.com##.site-container > .after-header > [class]
 mako.co.il##.ad
@@ -672,8 +679,11 @@ markapon.ru##.side-banner
 master-skills.ru###column_right > .moduletable:nth-of-type(3)
 masterok.livejournal.com##.block__sv
 matematikalegko.ru##[class*="Banner"]
+matematikam.ru###bl_reklama_btn
 math-prosto.ru###advTopLine
 math-prosto.ru##[id^="ambn"]
+math.semestr.ru###s400
+math.semestr.ru##.adsbygoogle
 math.semestr.ru##.adsbygoogle
 mebeles-lv.ucoz.lv##p > a[href^="https://vk.com/"]
 mediazavod.ru##[id^="tx_banner"]
@@ -718,6 +728,7 @@ myshared.ru##.top-wrapper.uk-width-1-1 > div:not([style]):not(.playerWrapper)
 myshared.ru##.uk-article > .uk-text-center
 myshared.ru##.uk-margin-right.uk-margin-bottom.uk-text-center
 myzuka.fm##.all > .header > .aside > .button-a.v2[href="/GetVipAccount"]
+myzuka.me##.v2.button-a
 nagitaru.ru###text-24
 nagitaru.ru###text-35
 naked-science.ru##.naked-banner
@@ -839,6 +850,7 @@ ru.onlinemschool.com##div[style="cursor: pointer;display:block!important;visibil
 ru.stackoverflow.com###beta-ad-container
 ru.tsn.ua##.advert.item
 ru.wikihow.com##[class^="ad_label"]
+ruclip.com##.in-bg-pop
 rusfolder.com##div[id*="widget"]
 russian.rt.com###content > .widget-mediametrics
 russian.rt.com###sidebar > .shown.widget-mediametrics
@@ -928,6 +940,8 @@ vokrugsveta.ru##.tgb-box
 vporn.com###video-banner
 vsekratko.ru###content > .add
 vsekratko.ru###pright
+warriorforum.com##.AdzerkBanner
+warriorforum.com##.AdzerkSideBanner
 web2.0calc.com###rseda
 webalta.ru###newsTitles > .out-main-news:nth-of-type(2)
 webalta.ru###out-content > .col-2
