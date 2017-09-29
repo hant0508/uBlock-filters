@@ -22,6 +22,7 @@
 2016.footboom.com###rb-inner
 256bit.ru##body > div:nth-of-type(1)
 256bit.ru##body > table:nth-of-type(1)
+2gis.ru##.promoEvent
 2ip.ru##.bla_bla_car
 320kbit.net###sl
 320kbit.net##.bg > .tpi.ProfileCanopy--large.ProfileCanopy--withNav.ProfileCanopy
@@ -240,6 +241,7 @@ inforuss.ru##noindex > div:nth-of-type(2)
 infourok.ru###dr-push-global-wrap2
 infourok.ru##.dr-side-banner
 infourok.ru##.kr-banner-block
+innoarchitech.com##.banner-top-wrapper
 instagram.com##.-cx-PRIVATE-Photo__clickShield
 instagram.com##._ovg3g
 instme.com##.adv1
@@ -262,8 +264,12 @@ kingisepp-today.ru###framemaster
 kingisepp-today.ru###top-master-wrapper
 kingisepp-today.ru##.elite_vp_videoPlayerAD
 kinobaza.tv###fast-feedback-btn
+kinogb.me##.bilet-premium
+kinogb.me##.plz-norec
 kinogb.net###fehu-content > .statics > .dwnl-osn > .dwnl-right
 kinogb.net###mcont > a[href="/premium.html"]
+kinokot.me##.airlinke
+kinokot.me##.carousel-inner
 kinopoisk.ru##html > body:style(background: #d5d5d5 !important)
 kizi.com###ad_title
 kizi.com###game_header
@@ -305,7 +311,6 @@ matematikam.ru###bl_reklama_btn
 math-prosto.ru###advTopLine
 math-prosto.ru##[id^="ambn"]
 math.semestr.ru###s400
-math.semestr.ru##.adsbygoogle
 math.semestr.ru##.adsbygoogle
 mebeles-lv.ucoz.lv##p > a[href^="https://vk.com/"]
 mediazavod.ru##[id^="tx_banner"]
@@ -504,6 +509,14 @@ sospc.name##.vce_adsense_widget
 sozdaiblog.ru###scrollable
 space.utema.ru###main-content > .main-content-padding > noindex:nth-of-type(1)
 speakrus.ru##body > .ssill
+spellcheck.net###bio_ep
+spellcheck.net###bio_ep_bg
+spellcheck.net###grmrl_one
+spellcheck.net/public_resources/images/Popup*
+spellweb.com###bio_ep
+spellweb.com###bio_ep_bg
+spellweb.com###grmrl_one
+spellweb.com/public_resources/images/Popup*
 spoj.com## .c300x600
 spynet.ru##iframe[src^="http://spynet.ru/1.html"]
 sredalinux.blogspot.com###HTML9 > .widget-content
@@ -533,6 +546,7 @@ toolslib.net##.hidden-sm.hidden-xs.text-right.rotate-90 > h3
 toolslib.net##.panel-default.panel
 toolslib.net##body > .container:nth-of-type(3) > .row > .col-sm-9
 top1000-ru.hotlog.ru##table > tbody > tr:nth-of-type(2) > td:nth-of-type(3) > div:nth-of-type(3)
+torrent-baza.com##.descr-left
 torrent-baza.net##div[style="width: 600px; height: 300px; margin: 0px auto;"][ onclick][onmouseup][onmousedown]
 tproger.ru###main_columns > .between_posts_ad
 tproger.ru##[id^="bl_google_ads"]

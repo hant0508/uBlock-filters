@@ -44,6 +44,7 @@
 ||cs.ppvlj.com/s/*/*.html
 ||cs.wmwyq.xyz^$third-party
 ||ctege.info/temp/*.gif
+||d2rhlq203cnmhw.cloudfront.net/img/300600.gif
 ||deita.ru/*/*/*.gif
 ||delayreferat.ru/images/polosa.swf
 ||delo-press.ru/upload/rk/*/*.gif
@@ -90,6 +91,7 @@
 ||keys.edufuture.biz/images/office-reform.jpg
 ||kingisepp-today.ru/images/banner/
 ||kingisepp.ru/images/banner/
+||kinogb.me/uploads/zzz/premium_kinogb.png
 ||kotovski.net/wp-content/uploads/*banner*
 ||kotovski.net/wp-content/uploads/CRONUS_Models3-1_600x200.png
 ||kuponlar.ru/res/knopki/kuponlar88x31.gif
@@ -172,6 +174,7 @@
 ||tetkam.net/images/fb/subscribe.png
 ||theindependent.co.zw/wp-content/uploads/2015/12/13121B-ZB-Home-Improvements_ZimInd-*.jpg
 ||tonymolystore.ru/2.2.3.gif
+||torentor.co/templates/torentor/images/bublessss.png
 ||transkart.ru/111/img/TIC_Excursion.gif
 ||transkart.ru/111/img/banner
 ||tv-torrent.club/123.png

@@ -8,6 +8,8 @@ all:
 	cat xpath.txt >> ../filters.txt
 	echo "\n! Style rules" >> ../filters.txt
 	cat style.txt >> ../filters.txt
+	echo "\n! CSP rules" >> ../filters.txt
+	cat csp.txt >> ../filters.txt
 	echo "\n! Strict blocking rules" >> ../filters.txt
 	cat strict.txt >> ../filters.txt
 	echo "\n! Blocking rules" >> ../filters.txt

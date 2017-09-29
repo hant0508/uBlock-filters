@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.7.2
+! Version: 3.8.0
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -72,6 +72,7 @@ yandex.ru##:xpath(/html/body//div/div[a[./text()="Яндекс.Директ"]])
 4pda.ru###wrapper > div > div > div:style(background:#e6e7e9!important;)
 en.oxforddictionaries.com###sidebar:style(margin-top:0!important;)
 ivi.ru##.content-main:style(padding-top:0px!important;)
+kinokot.me##body > .wrapeos > .heade:style(height:60px!important;)
 mail.yandex.ru##.ns-view-folders > a:style(cursor:pointer!important;)
 mail.yandex.ru##.ns-view-folders:style(background-image:none!important; cursor:auto!important;)
 medzubr.ru##html:style(margin-top:0px!important)
@@ -79,6 +80,10 @@ proficinema.ru##html > body:style(background:none!important;margin-top:0px!impor
 radikal.ru##body > .render_body_main:style(padding-top:0px!important;)
 redkassa.ru##html > body:style(background:none!important;)
 yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
+
+! CSP rules
+||spellcheck.net^$csp=script-src 'self' * 'unsafe-inline'
+||spellweb.com^$csp=script-src 'self' * 'unsafe-inline'
 
 ! Strict blocking rules
 ||appvk.ru^
@@ -217,6 +222,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||cs.ppvlj.com/s/*/*.html
 ||cs.wmwyq.xyz^$third-party
 ||ctege.info/temp/*.gif
+||d2rhlq203cnmhw.cloudfront.net/img/300600.gif
 ||deita.ru/*/*/*.gif
 ||delayreferat.ru/images/polosa.swf
 ||delo-press.ru/upload/rk/*/*.gif
@@ -263,6 +269,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||keys.edufuture.biz/images/office-reform.jpg
 ||kingisepp-today.ru/images/banner/
 ||kingisepp.ru/images/banner/
+||kinogb.me/uploads/zzz/premium_kinogb.png
 ||kotovski.net/wp-content/uploads/*banner*
 ||kotovski.net/wp-content/uploads/CRONUS_Models3-1_600x200.png
 ||kuponlar.ru/res/knopki/kuponlar88x31.gif
@@ -345,6 +352,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||tetkam.net/images/fb/subscribe.png
 ||theindependent.co.zw/wp-content/uploads/2015/12/13121B-ZB-Home-Improvements_ZimInd-*.jpg
 ||tonymolystore.ru/2.2.3.gif
+||torentor.co/templates/torentor/images/bublessss.png
 ||transkart.ru/111/img/TIC_Excursion.gif
 ||transkart.ru/111/img/banner
 ||tv-torrent.club/123.png
@@ -400,6 +408,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 2016.footboom.com###rb-inner
 256bit.ru##body > div:nth-of-type(1)
 256bit.ru##body > table:nth-of-type(1)
+2gis.ru##.promoEvent
 2ip.ru##.bla_bla_car
 320kbit.net###sl
 320kbit.net##.bg > .tpi.ProfileCanopy--large.ProfileCanopy--withNav.ProfileCanopy
@@ -618,6 +627,7 @@ inforuss.ru##noindex > div:nth-of-type(2)
 infourok.ru###dr-push-global-wrap2
 infourok.ru##.dr-side-banner
 infourok.ru##.kr-banner-block
+innoarchitech.com##.banner-top-wrapper
 instagram.com##.-cx-PRIVATE-Photo__clickShield
 instagram.com##._ovg3g
 instme.com##.adv1
@@ -640,8 +650,12 @@ kingisepp-today.ru###framemaster
 kingisepp-today.ru###top-master-wrapper
 kingisepp-today.ru##.elite_vp_videoPlayerAD
 kinobaza.tv###fast-feedback-btn
+kinogb.me##.bilet-premium
+kinogb.me##.plz-norec
 kinogb.net###fehu-content > .statics > .dwnl-osn > .dwnl-right
 kinogb.net###mcont > a[href="/premium.html"]
+kinokot.me##.airlinke
+kinokot.me##.carousel-inner
 kinopoisk.ru##html > body:style(background: #d5d5d5 !important)
 kizi.com###ad_title
 kizi.com###game_header
@@ -683,7 +697,6 @@ matematikam.ru###bl_reklama_btn
 math-prosto.ru###advTopLine
 math-prosto.ru##[id^="ambn"]
 math.semestr.ru###s400
-math.semestr.ru##.adsbygoogle
 math.semestr.ru##.adsbygoogle
 mebeles-lv.ucoz.lv##p > a[href^="https://vk.com/"]
 mediazavod.ru##[id^="tx_banner"]
@@ -882,6 +895,14 @@ sospc.name##.vce_adsense_widget
 sozdaiblog.ru###scrollable
 space.utema.ru###main-content > .main-content-padding > noindex:nth-of-type(1)
 speakrus.ru##body > .ssill
+spellcheck.net###bio_ep
+spellcheck.net###bio_ep_bg
+spellcheck.net###grmrl_one
+spellcheck.net/public_resources/images/Popup*
+spellweb.com###bio_ep
+spellweb.com###bio_ep_bg
+spellweb.com###grmrl_one
+spellweb.com/public_resources/images/Popup*
 spoj.com## .c300x600
 spynet.ru##iframe[src^="http://spynet.ru/1.html"]
 sredalinux.blogspot.com###HTML9 > .widget-content
@@ -911,6 +932,7 @@ toolslib.net##.hidden-sm.hidden-xs.text-right.rotate-90 > h3
 toolslib.net##.panel-default.panel
 toolslib.net##body > .container:nth-of-type(3) > .row > .col-sm-9
 top1000-ru.hotlog.ru##table > tbody > tr:nth-of-type(2) > td:nth-of-type(3) > div:nth-of-type(3)
+torrent-baza.com##.descr-left
 torrent-baza.net##div[style="width: 600px; height: 300px; margin: 0px auto;"][ onclick][onmouseup][onmousedown]
 tproger.ru###main_columns > .between_posts_ad
 tproger.ru##[id^="bl_google_ads"]
