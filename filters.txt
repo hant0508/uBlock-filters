@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.0
+! Version: 3.8.1
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -118,12 +118,14 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||freesoft2scc.pp.ua^
 ||glav4.ru^
 ||glopart.ru^
+||goldkeyklin.ru^
 ||gorspravki.ru^
 ||guestapp.ru^
 ||guf2.ru^
 ||h.hatena.ne.jp^
 ||hamilton17.trade^
 ||handonu.pp.ua^
+||hellraisers.ru^
 ||highletohor1980.tumblr.com^
 ||hivxffti.oagroup.info^
 ||infinityscalper.ru.com^
@@ -144,9 +146,11 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||nkokbr.ru^
 ||pdf-knigi.com^
 ||pdf.pp.ru^
+||pdflookgdhy.files.wordpress.com^
 ||peceqi.meda-21.ru^
 ||phone8.ru^
 ||pilabu.ru^
+||rehanj.pp.ua^
 ||rustasik.ru^
 ||rxjqqt.joyreactor.cc^
 ||rybalka-profi.ru^
@@ -426,6 +430,7 @@ adme.ru##.js-fixed-like-box.fixed-like-box-blue
 adme.ru##.we-need-more-gold
 adme.ru##[class*="dialog-social"]
 aeroflot.ru##.main-body > .block-right
+afisha.tut.by##.branding_bottom_links
 afisha.yandex.ru##.yabs_type_banners.yabs
 agar.io###helloContainer > .side-container:nth-of-type(4) > .agario-promo
 agar.io###mainPanel > center
@@ -504,6 +509,7 @@ deita.ru###stMainRight > .stRightBunner_right.stBunner
 delayreferat.ru##.side-border-left
 delayreferat.ru##.side-border-right
 demobilization.ru##a[href="https://printonator.ru/token/"]
+deskgram.org##.ads
 dfiles.ru###iframe_console
 dljatela.ru###tertiary
 dns-shop.ru##.container > main > .ad-content-banner-under-window
@@ -568,6 +574,7 @@ futbik.net##table > tbody > tr > td[onclick^="window.open('http"][style]
 game01.ru##.branding > .content > .inner:nth-of-type(2) > .gamePage > .gameTop > .rightBanner
 game01.ru##[class$="BannerWrap"]
 gamebomb.ru##.container-content.container-light
+gamedev.ru###ad
 gamefaqs.com###content > .row.pre_content > .span12 > .board_wrap.pod > .body > .msg.message.board > tbody > .msg.forum_promo
 games.mydiv.net##div[style="width:728px; height: 90px; border:#dddddd 1px solid; margin-bottom:40px;margin-top:10px;"]
 garant.ru###page > .content > .inner > .row-grid > .popup-social
@@ -683,6 +690,8 @@ logyka.net###popup_bg
 lostfilm.hdkino.biz###dle-content > .new-album:nth-of-type(1)
 lostfilm.hdkino.biz##.left-col > .new-album:nth-of-type(1)
 lurkmore.net###banner-left-240x200-0
+m24.ru##.b-content > .g-clearfix.g-columns > .g-columns-right
+m24.ru##.b-home-videos > .g-clearfix.g-columns > .g-columns-right
 mail.yandex.ru##.ns-view-messages-item-wrap:if-not(.js-messages-item-checkbox)
 maketecheasier.com##.ctContainer
 maketecheasier.com##.site-container > .after-header > [class]
@@ -690,6 +699,7 @@ mako.co.il##.ad
 malekal.com##center
 manyahin.ru##footer
 markapon.ru##.side-banner
+market.yandex.ru##.head-banner
 master-skills.ru###column_right > .moduletable:nth-of-type(3)
 masterok.livejournal.com##.block__sv
 matematikalegko.ru##[class*="Banner"]
@@ -917,6 +927,7 @@ testi.ru##[class^="bborder"][class*="upad"]
 testi.ru##[id^="DIV_DA_"]
 tetkam.net###blanket
 textnow.com###banner
+the-rutor.org###up
 the-village.ru###fixed-sidebar
 the-village.ru##.app-content.page-content > .row-adblock-message.row
 thequestion.ru##.dfp-answers-horizontal-banner-wrapper
@@ -970,6 +981,7 @@ webalta.ru###out-content > .col-2
 webalta.ru##.wrapper > .header2.header > .header2 > .head-row-logo2.o-h.head-row-logo > .f-l.search > .search-form2.search-form > .b-s.f-l.head2-setting
 webbazar.eu###fblikebg
 webbazar.eu###fblikepop
+webmath.ru##.block-container:has-text(/заказ/)
 webmath.ru##.popupCreateOrderWindow
 whatsonsukhumvit.com##.floatBottom.nc_wrapper
 whatsonsukhumvit.com##[class*="pushcrew"][class*="notification"]
