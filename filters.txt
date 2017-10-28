@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.1
+! Version: 3.8.2
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -189,7 +189,9 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||4ege.ru/up/a1/fox17f.png
 ||5ballov.qip.ru/iframe/
 ||abcege.easytrack.pro/b$subdocument
+||ablbook.com/images/*.gif
 ||activeinfo.ru/ai.gif
+||adminvps.ru/img/banners/
 ||adminvps.ru/img/buttons/AV468x60.gif
 ||alexlarin.net/970x90*.png
 ||allbesta.cc/uploads/am*.png
@@ -207,6 +209,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||bicaps.net/bicaps-bg*.jpg
 ||biord.ru/wp-content/uploads/2016/01/iherb.swf
 ||bitjournal.media/ads/
+||bits.media/images/yobit.gif
 ||black.beauty-mask.biz^$popup
 ||bookin.ucoz.ru/tcs.png
 ||botan.cc/kursy.gif
@@ -243,6 +246,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||ecoteco.ru/assets/images/banners/
 ||ege-ok.ru/wp-content/uploads/*/*/*.gif
 ||etalon-bt.ru/upload/resize_cache/iblock/*
+||exelab.ru/images/r_.png
 ||fanfics.me/images/*banner*
 ||ffin.ru/images/banner.html
 ||fightforthefuture.github.io/countdown-widget/iframe/banner.html
@@ -293,6 +297,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||mathwarehouse.com/images/icons/penjee/*.gif
 ||megahead.ru/images/146.png
 ||megarand.ru/images/banner.png
+||mirknig.su/module.php
 ||mirtochtonado.ru/seo.html
 ||mngz.ru/templates/Mangazeya/images/60pl-280px.gif
 ||mngz.ru/templates/Mangazeya/images/md.jpg
@@ -322,6 +327,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||prankota.com/images/*.gif
 ||programmersforum.ru/anim*.gif
 ||prostolinux.ru/wp-content/bn/ihor.gif
+||proxy6.net/static/img/b/
 ||real-game.net/cooper/splitter.php
 ||red.tingrinter.com/
 ||reklama*.ngs.ru/
@@ -339,8 +345,11 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||s3.amazonaws.com/disconnect-images/images/search/*Premium*.png
 ||savoy.cubecdn.net/*.jpg
 ||semestr.ru/images/foxford/
+||seoxa.club/banners/
+||seoxa.club/img/social.gif
 ||server-rotation.ru/media/upload/ban/*
 ||sitehere.ru/inmymoney/pdf-otchet/*.png
+||socialkit.ru/sk.gif
 ||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
 ||ss.nzbstars.com.xxxnavy.com/advertisement.js
 ||static-cdn.karaoke.ru/karaoke-site/img/button-friends.png
@@ -379,6 +388,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||wsturbo.net/*.gif
 ||www.proficinema.ru/images/bg_mamy.jpg
 ||yandex.st/uefa16-frontend/1.0.30/i/extra/yabro/
+||yobit.net/imgban/
 ||youpk.ru/wp-content/*/banner
 ||город-кингисепп.рф/images/*.gif
 ||егэша.рф/examen.png
@@ -450,6 +460,7 @@ antimarketing.by##.ban
 antonkozlov.ru###sidebar_friends
 articulos.softonic.com###popup-newsletter-article
 articulos.softonic.com##.ov_opened.ov_modal_bkgnd_layer
+asciichars.com##.src\=.async.content-dynamic-ga-ad-responsive\>\<script
 author24.ru##.m-popup
 ayu.ru##.baner-top
 babla.ru##.ad
@@ -467,6 +478,7 @@ bigpicture.ru##.section-main-project-link200.wrapper
 bitcointalk.org###quickModForm > table > tbody > tr:if(span:has-text(/Advertised sites are not endorsed by the Bitcoin Forum./))
 blinovrus.ru##.setup-bottom-panel
 bookin.ucoz.ru##.contanier > span
+booksgid.com/loadgid/buttons/001/button.png
 borda.ru##.element:if-not(a)
 boston.com##.radio-bdc
 briefly.ru###audiobook
@@ -546,6 +558,9 @@ etalon-bt.ru##.container.main > .clearfix > .catalog > .catalog_block_left > .cl
 etalon-bt.ru##.container.main > .clearfix > .layout-column-single > .clearfix.bs-slider
 euroki.net##.bg_main > .main > .one_page.content > .clearfix > .send_error
 euroki.net##.bg_main > .main > div:nth-of-type(9)
+exelab.ru###bnr0
+exelab.ru###bnr1
+exelab.ru##body > table > tbody > tr:nth-of-type(1) > td[nowrap][align]
 fanfics.me###site-content-right > table
 fastpic.ru##body > .center > a[href]
 fb.ru##.rollup.fsb
@@ -563,6 +578,7 @@ forbes.com##.top-ad-container
 forum.antichat.ru###content > .pageWidth > .noBorderRadiusBottom.pageContent > .funbox.section:nth-of-type(2) > .funboxWrapper > .samBannerUnit
 forum.beznal.cc###categories > .banner_800
 forum.beznal.cc###categories > .cat_banner
+forum.bits.media##.ipsAdvertisementHeaderLimit
 fotolink.su###banner
 freedownloadtorrent.org##.bg_link
 fromblog.ru###page > footer > .container > .suf
@@ -790,6 +806,9 @@ ololo.fm##.content > .col_1 > .block2:nth-of-type(34)
 oniksfly.md8.ru##body > div:nth-of-type(1)
 onlineguru.ru###ban240x400
 onlineguru.ru###jointNew
+openssource.biz##.banner_after_comment
+openssource.biz##.block_left
+openssource.biz##.block_right
 orthographia.ru##.footer > tbody > tr:nth-of-type(4) > td
 otvet.mail.ru###portal-menu > .nt--position
 ozhegov.textologia.ru###bot > table > tbody > tr > .bot_right
@@ -866,6 +885,7 @@ royallib.com##.container > .container-in > .nuclear.center > .left-bar > .banner
 royallib.com##.container > .container-in > .nuclear.center > .wrapper > .content > table:nth-of-type(2)
 ru.aliexpress.com##.ui-mask
 ru.aliexpress.com##.ui-newuser-floating-layer
+ru.investing.com###PromoteSignUpPopUp
 ru.onlinemschool.com###G_M
 ru.onlinemschool.com###G_r1
 ru.onlinemschool.com##.table_main > tbody > tr:nth-of-type(3) > .td_main_left
@@ -883,12 +903,16 @@ samorob.com.ua##.mgbox
 school.xvatit.com###slider1
 school.xvatit.com##div[style="float: left;width: 340px; height:305px;/*border: 1px dashed #95d4e2;*/ background-color: #fff;"]
 search.disconnect.me###premium-protection
+seoxa.club###rotator
+seoxa.club##.funbox.sectionMain
+seoxa.club##.theshit_top
 sg-team.net##.wrapper > .wrapmid > .container > .leftcol > .rightside > .bfilms.bminpad.block
 sibnet.ru##.b-banner-under-search
 singularlabs.com###text-18.widget.widget_text
 sitehere.ru###ehu-bar
 sitehere.ru##.bn360anim-pagespeed
 sitehere.ru##.in > .cf.single-content.post-content.content-wrapper > .sidebar > .widget > .bn360anim-pagespeed
+sitepoint.com###main-outlet > .container
 siteslike.com###pageWrapper > .rightContent
 smallpdf.com##.result-message > .ad
 smiles.spb.su###sidebar2 > .for > div > noindex
@@ -919,6 +943,7 @@ sredalinux.blogspot.com###HTML9 > .widget-content
 staforceteam.ru##body > div:nth-of-type(1)
 stoplinux.org.ru##.ins > .block:if(.m1:has-text(/Ads/))
 studfiles.ru##.banner_bottom_preview
+studopedia.su##.centerfon > table > tbody > tr > td:has(.adsbygoogle)
 tass.ru##a[href="http://smi2.ru/"]
 tatar-inform.ru##.banner
 telegraf.by##.promo-240_400.promo-box

@@ -7,7 +7,9 @@
 ||4ege.ru/up/a1/fox17f.png
 ||5ballov.qip.ru/iframe/
 ||abcege.easytrack.pro/b$subdocument
+||ablbook.com/images/*.gif
 ||activeinfo.ru/ai.gif
+||adminvps.ru/img/banners/
 ||adminvps.ru/img/buttons/AV468x60.gif
 ||alexlarin.net/970x90*.png
 ||allbesta.cc/uploads/am*.png
@@ -25,6 +27,7 @@
 ||bicaps.net/bicaps-bg*.jpg
 ||biord.ru/wp-content/uploads/2016/01/iherb.swf
 ||bitjournal.media/ads/
+||bits.media/images/yobit.gif
 ||black.beauty-mask.biz^$popup
 ||bookin.ucoz.ru/tcs.png
 ||botan.cc/kursy.gif
@@ -61,6 +64,7 @@
 ||ecoteco.ru/assets/images/banners/
 ||ege-ok.ru/wp-content/uploads/*/*/*.gif
 ||etalon-bt.ru/upload/resize_cache/iblock/*
+||exelab.ru/images/r_.png
 ||fanfics.me/images/*banner*
 ||ffin.ru/images/banner.html
 ||fightforthefuture.github.io/countdown-widget/iframe/banner.html
@@ -111,6 +115,7 @@
 ||mathwarehouse.com/images/icons/penjee/*.gif
 ||megahead.ru/images/146.png
 ||megarand.ru/images/banner.png
+||mirknig.su/module.php
 ||mirtochtonado.ru/seo.html
 ||mngz.ru/templates/Mangazeya/images/60pl-280px.gif
 ||mngz.ru/templates/Mangazeya/images/md.jpg
@@ -140,6 +145,7 @@
 ||prankota.com/images/*.gif
 ||programmersforum.ru/anim*.gif
 ||prostolinux.ru/wp-content/bn/ihor.gif
+||proxy6.net/static/img/b/
 ||real-game.net/cooper/splitter.php
 ||red.tingrinter.com/
 ||reklama*.ngs.ru/
@@ -157,8 +163,11 @@
 ||s3.amazonaws.com/disconnect-images/images/search/*Premium*.png
 ||savoy.cubecdn.net/*.jpg
 ||semestr.ru/images/foxford/
+||seoxa.club/banners/
+||seoxa.club/img/social.gif
 ||server-rotation.ru/media/upload/ban/*
 ||sitehere.ru/inmymoney/pdf-otchet/*.png
+||socialkit.ru/sk.gif
 ||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
 ||ss.nzbstars.com.xxxnavy.com/advertisement.js
 ||static-cdn.karaoke.ru/karaoke-site/img/button-friends.png
@@ -197,6 +206,7 @@
 ||wsturbo.net/*.gif
 ||www.proficinema.ru/images/bg_mamy.jpg
 ||yandex.st/uefa16-frontend/1.0.30/i/extra/yabro/
+||yobit.net/imgban/
 ||youpk.ru/wp-content/*/banner
 ||город-кингисепп.рф/images/*.gif
 ||егэша.рф/examen.png
