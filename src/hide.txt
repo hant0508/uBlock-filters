@@ -70,6 +70,7 @@ baltimoresun.com##[id*="_ad_"]
 baltimoresun.com##[id*="outfitAd"]
 barcaman.ru###content > .advert
 basketbuild.com##.panel-default.panel:if(.panel-heading:has-text(/Advertisement/))
+baumanki.net##.adsbygoogle
 belta.by##.bans_flash
 bestru.ru##.main_box > .rightColumn
 beznal.cc##.banners
@@ -89,6 +90,7 @@ chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shado
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(3) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(2)
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(3) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(4)
 citilink.ru##.toggling_banners
+cleverstudents.ru##.content_bottom
 cnet.com##[class^="ad-incontent"]
 colorfest.ru##.middle > .rightside
 comandir.com##.pos-1 > .gaspan
@@ -282,6 +284,7 @@ kinokot.me##.carousel-inner
 kinopoisk.ru##html > body:style(background: #d5d5d5 !important)
 kizi.com###ad_title
 kizi.com###game_header
+kontromat.ru##.textwidget
 kostyor.ru##[class*="reclama"]
 kp.ru###ok-popup
 kp.ru###top-link-social.all_top-link-social > .left
@@ -321,6 +324,10 @@ masterok.livejournal.com##.block__sv
 matematikalegko.ru##[class*="Banner"]
 matematikam.ru###bl_reklama_btn
 math-prosto.ru###advTopLine
+math-prosto.ru###requestShutOfBlocker
+math-prosto.ru###tutorChoiceBottom
+math-prosto.ru###tutorChoiceLeft
+math-prosto.ru###tutorChoiceTop
 math-prosto.ru##[id^="ambn"]
 math.semestr.ru###s400
 math.semestr.ru##.adsbygoogle
@@ -608,6 +615,7 @@ webbazar.eu###fblikebg
 webbazar.eu###fblikepop
 webmath.ru##.block-container:has-text(/заказ/)
 webmath.ru##.popupCreateOrderWindow
+webmath.ru/images/ban.swf$object
 whatsonsukhumvit.com##.floatBottom.nc_wrapper
 whatsonsukhumvit.com##[class*="pushcrew"][class*="notification"]
 wiki.eduvdom.com##.dokuwiki > .page > .level1 > .table.sectionedit2

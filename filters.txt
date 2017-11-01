@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.2
+! Version: 3.8.3
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -278,6 +278,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||kingisepp-today.ru/images/banner/
 ||kingisepp.ru/images/banner/
 ||kinogb.me/uploads/zzz/premium_kinogb.png
+||kontromat.ru/imag/150-100-vsesdal.gif
 ||kotovski.net/wp-content/uploads/*banner*
 ||kotovski.net/wp-content/uploads/CRONUS_Models3-1_600x200.png
 ||kuponlar.ru/res/knopki/kuponlar88x31.gif
@@ -290,6 +291,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||matematikalegko.ru/img/260x249handrozdvd.jpg
 ||matematikalegko.ru/img/egestudia258x360.jpg
 ||matematikalegko.ru/wp-content/themes/zeesynergie/images/258x400foxvord.jpg
+||math-prosto.ru/images/tutor/profi_ru/
 ||mathprofi.com/images/promo/
 ||mathprofi.ru/images/matburo*.gif
 ||mathprofi.ru/images/matburo.gif
@@ -470,6 +472,7 @@ baltimoresun.com##[id*="_ad_"]
 baltimoresun.com##[id*="outfitAd"]
 barcaman.ru###content > .advert
 basketbuild.com##.panel-default.panel:if(.panel-heading:has-text(/Advertisement/))
+baumanki.net##.adsbygoogle
 belta.by##.bans_flash
 bestru.ru##.main_box > .rightColumn
 beznal.cc##.banners
@@ -489,6 +492,7 @@ chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shado
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(3) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(2)
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(3) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(4)
 citilink.ru##.toggling_banners
+cleverstudents.ru##.content_bottom
 cnet.com##[class^="ad-incontent"]
 colorfest.ru##.middle > .rightside
 comandir.com##.pos-1 > .gaspan
@@ -682,6 +686,7 @@ kinokot.me##.carousel-inner
 kinopoisk.ru##html > body:style(background: #d5d5d5 !important)
 kizi.com###ad_title
 kizi.com###game_header
+kontromat.ru##.textwidget
 kostyor.ru##[class*="reclama"]
 kp.ru###ok-popup
 kp.ru###top-link-social.all_top-link-social > .left
@@ -721,6 +726,10 @@ masterok.livejournal.com##.block__sv
 matematikalegko.ru##[class*="Banner"]
 matematikam.ru###bl_reklama_btn
 math-prosto.ru###advTopLine
+math-prosto.ru###requestShutOfBlocker
+math-prosto.ru###tutorChoiceBottom
+math-prosto.ru###tutorChoiceLeft
+math-prosto.ru###tutorChoiceTop
 math-prosto.ru##[id^="ambn"]
 math.semestr.ru###s400
 math.semestr.ru##.adsbygoogle
@@ -1008,6 +1017,7 @@ webbazar.eu###fblikebg
 webbazar.eu###fblikepop
 webmath.ru##.block-container:has-text(/заказ/)
 webmath.ru##.popupCreateOrderWindow
+webmath.ru/images/ban.swf$object
 whatsonsukhumvit.com##.floatBottom.nc_wrapper
 whatsonsukhumvit.com##[class*="pushcrew"][class*="notification"]
 wiki.eduvdom.com##.dokuwiki > .page > .level1 > .table.sectionedit2
