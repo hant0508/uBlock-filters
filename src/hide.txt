@@ -615,7 +615,6 @@ webbazar.eu###fblikebg
 webbazar.eu###fblikepop
 webmath.ru##.block-container:has-text(/заказ/)
 webmath.ru##.popupCreateOrderWindow
-webmath.ru/images/ban.swf$object
 whatsonsukhumvit.com##.floatBottom.nc_wrapper
 whatsonsukhumvit.com##[class*="pushcrew"][class*="notification"]
 wiki.eduvdom.com##.dokuwiki > .page > .level1 > .table.sectionedit2

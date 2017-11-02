@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.3
+! Version: 3.8.4
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -385,6 +385,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||videouroki.net/*banner
 ||videouroki.net/img/look/bestforteacherstop.jpg
 ||vladmaxi.net/uploads/*/*/banner*.gif
+||webmath.ru/images/ban.swf
 ||webmath.ru/images/webmath_240_400_homework.jpg
 ||whoer.net/images/*.gif
 ||wsturbo.net/*.gif
@@ -1017,7 +1018,6 @@ webbazar.eu###fblikebg
 webbazar.eu###fblikepop
 webmath.ru##.block-container:has-text(/заказ/)
 webmath.ru##.popupCreateOrderWindow
-webmath.ru/images/ban.swf$object
 whatsonsukhumvit.com##.floatBottom.nc_wrapper
 whatsonsukhumvit.com##[class*="pushcrew"][class*="notification"]
 wiki.eduvdom.com##.dokuwiki > .page > .level1 > .table.sectionedit2
