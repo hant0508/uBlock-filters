@@ -4,7 +4,6 @@ beznal.cc##:xpath(/html/body//div[@class="_sbcollapsable"]//div[span[text()="Р�
 forum.beznal.cc##:xpath(/html/body//div[@class="_sbcollapsable"]//div[span[text()="Реклама"]])
 go.mail.ru##:xpath(/html/body//div[@id="layout"]//div[@class="responses__wrapper"]/div/div[.//text()="Реклама"])
 ovgorskiy.ru##:xpath(/html/body//div[@class="zsnazzy" and div[@class="xboxcontent" and .//text()="Блок рекламы"]])
-pikabu.ru##:xpath(/html/body//div[@class="story" and .//a[@class="story__author" and text()="ads"]])
 pikabu.ru##:xpath(/html/body//span[@id="right_menu"]//table[.//text()="Промо"])
 pornhub.com##:xpath(/html/body//div[a[contains(@class, "adlink")]])
 velocityreviews.com##:xpath(/html/body//li[@class="message" and ./div[@class="messageAdvertising"]])

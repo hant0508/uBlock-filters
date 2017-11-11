@@ -1,4 +1,6 @@
+/data\d*.i.gallery.ru/albums/gallery/.*.jpg/$domain=kremllin.ru,image
 ||003apteka.ru/uploads/banner*.gif
+||1.denschikov.com/pozdr/
 ||1000ideas.ru/upload/rk/9c6/nash.png
 ||198.58.122.116/ads
 ||2.cdn.echo.msk.ru/files/1338208.jpg
@@ -64,6 +66,7 @@
 ||ecoteco.ru/assets/images/banners/
 ||ege-ok.ru/wp-content/uploads/*/*/*.gif
 ||etalon-bt.ru/upload/resize_cache/iblock/*
+||ex-fs.com/knopka1.png
 ||exelab.ru/images/r_.png
 ||fanfics.me/images/*banner*
 ||ffin.ru/images/banner.html

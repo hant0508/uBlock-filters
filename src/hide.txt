@@ -126,6 +126,7 @@ demobilization.ru##a[href="https://printonator.ru/token/"]
 deskgram.org##.ads
 dfiles.ru###iframe_console
 dljatela.ru###tertiary
+dnpmag.com##.banner
 dns-shop.ru##.container > main > .ad-content-banner-under-window
 domashniy.ru##.advert
 download.chainfire.eu###bar-left
@@ -160,6 +161,7 @@ etalon-bt.ru##.container.main > .clearfix > .catalog > .catalog_block_left > .cl
 etalon-bt.ru##.container.main > .clearfix > .layout-column-single > .clearfix.bs-slider
 euroki.net##.bg_main > .main > .one_page.content > .clearfix > .send_error
 euroki.net##.bg_main > .main > div:nth-of-type(9)
+ex-fs.com##.counters
 exelab.ru###bnr0
 exelab.ru###bnr1
 exelab.ru##body > table > tbody > tr:nth-of-type(1) > td[nowrap][align]
@@ -168,6 +170,7 @@ fastpic.ru##body > .center > a[href]
 fb.ru##.rollup.fsb
 fcbarcelona.cat###site-header__ads
 festival.1september.ru###body-side-right
+file.liga.net##.site-block.news_from_partners_block
 filyanin.ru###art-main > .art-sheet > .art-sheet-body > .art-content-layout > .art-content-layout-row > .art-sidebar1.art-layout-cell > .art-block
 finmarket.ru###pl45_ban72
 finmarket.ru###pl46_ban45
@@ -183,6 +186,7 @@ forum.beznal.cc###categories > .cat_banner
 forum.bits.media##.ipsAdvertisementHeaderLimit
 fotolink.su###banner
 freedownloadtorrent.org##.bg_link
+frenglish.ru##a[href="javascript:window.location.reload()"]
 fromblog.ru###page > footer > .container > .suf
 fun.rufex.net###toTop > noindex > .gglhp.abl.mead
 funpic.us##.banner
@@ -263,6 +267,8 @@ irecommend.ru###bigright
 irecommend.ru###sidebar-left-top-content-wrapper
 irecommend.ru###sidebar-left-top-content-wrapper > .brusok-processed.brusok > .left-top-300x250
 isrageo.com##.td-banner-wrap-full
+issuu.com##[class^="Ads_"]
+issuu.com##[class^="Reader__readerOverlay"]
 itelevisor.ru##div > .a-overlay
 izvestia.ru##[id^=unit_]
 jenyay.net###wikitext > .ad
@@ -288,6 +294,7 @@ kontromat.ru##.textwidget
 kostyor.ru##[class*="reclama"]
 kp.ru###ok-popup
 kp.ru###top-link-social.all_top-link-social > .left
+kremllin.ru##.widget_ad_with_out_border
 kritika24.ru###right-column1
 kritika24.ru###right-column1 > center > a[href^="http://play.google.com/store/apps/details"]
 kritika24.ru##.netv
@@ -331,6 +338,7 @@ math-prosto.ru###tutorChoiceTop
 math-prosto.ru##[id^="ambn"]
 math.semestr.ru###s400
 math.semestr.ru##.adsbygoogle
+math1.ru##.onlytext
 mebeles-lv.ucoz.lv##p > a[href^="https://vk.com/"]
 mediazavod.ru##[id^="tx_banner"]
 medow.ru###execphp-3.widget.widget_execphp
@@ -343,6 +351,7 @@ meestekas.net##.textwidget > center
 megalyrics.ru##.js-banner
 mel.fm##[class*="advertising"]
 memepedia.ru##.aggads-inner
+memepedia.ru##[id^="agg-flex-ads"]
 memesmix.net###footer_wrapper > p
 memesmix.net###menu-module > .module-body-i
 mignews.com###rightc > h5:nth-of-type(1)
@@ -385,10 +394,12 @@ nat-geo.ru###_sim_popup
 nat-geo.ru###widget-collection-overlay
 nat-geo.ru##.grid-cell--shadow.grid-cell--3banner.grid-cell--3.grid-cell.js-banner-stretch
 nat-geo.ru##[class*="js-banner-tgb-article"]
+newinform.com##[id^="smi_teaser"]
 newkaliningrad.ru###page-buffer > .container > .row > .col-main > .pr-600
 newkaliningrad.ru###page-buffer > .container > .row > .col-side
 newkaliningrad.ru##.modal, .fade, .in
 news-kmv.ru##img[alt="реклама"]
+news.rambler.ru##.top-main__banner
 news.sportbox.ru##[class*="advertis"]
 news.vse42.ru##div[data-adplace-inited="true"]
 newslab.ru##.yandex-ad-wrapper
@@ -417,6 +428,7 @@ openssource.biz##.banner_after_comment
 openssource.biz##.block_left
 openssource.biz##.block_right
 orthographia.ru##.footer > tbody > tr:nth-of-type(4) > td
+otr-online.ru##.bannerbottom
 otvet.mail.ru###portal-menu > .nt--position
 ozhegov.textologia.ru###bot > table > tbody > tr > .bot_right
 padaread.com###page_content > .sidebar > .partners2
@@ -436,6 +448,7 @@ physics.ru##body > noindex:nth-of-type(2)
 physics.ru##body > noindex:nth-of-type(3) > table > tbody > tr:nth-of-type(5)
 pikabu.ru##.ad-reset
 pikabu.ru##.b-page-header-v2 > span > a > div
+pikabu.ru##.story:if(a[class="story__author"]:has-text(/^ads$/))
 pleer.ru##.mainBlock.pie[style="margin-bottom: 15px; "]
 pleer.ru##noindex > center > .pie.gray_border
 plusworld.ru###container > .wrapper > .left-column > .banner__forum-fixed.ban-180x200:nth-of-type(1)
@@ -462,12 +475,14 @@ proficinema.ru##.top_link
 progimp.ru###iCN > .left > .ad-rle
 progimp.ru###iCN > .right > .spp
 programmersclub.ru##img[alt="330x300 banner"]
+prokazan.ru##.actionBanner
 pron.tv##.resblockx.lextra.resblock
 proshkolu.ru##a[href^="click"]
 prostolinux.ru###colLeft > .blogItem > center > .spanlink
 prostolinux.ru##.spanlink > img[class^="aligncenter wp-image-"]
 ptzgovorit.ru###banner-a1
 pythonworld.ru###ytb > .pythonworld-contributor.alert
+rambler.ru##div:has( > #adfox-240x400)
 rbc.ru##.js-checkad-warning
 rbc.ua##.hidemobo.rdblock
 read.ru##.banner_subscribe
@@ -551,6 +566,7 @@ staforceteam.ru##body > div:nth-of-type(1)
 stoplinux.org.ru##.ins > .block:if(.m1:has-text(/Ads/))
 studfiles.ru##.banner_bottom_preview
 studopedia.su##.centerfon > table > tbody > tr > td:has(.adsbygoogle)
+tass.ru##.dubleBannerPlace
 tass.ru##a[href="http://smi2.ru/"]
 tatar-inform.ru##.banner
 telegraf.by##.promo-240_400.promo-box
@@ -580,6 +596,8 @@ torrent-baza.net##div[style="width: 600px; height: 300px; margin: 0px auto;"][ o
 tproger.ru###main_columns > .between_posts_ad
 tproger.ru##[id^="bl_google_ads"]
 trashbox.ru###div_page_right > aside > .table_center > div > .adnobg.center
+trendymen.ru##.ban300x600
+trendymen.ru##.head-banner-wrapper
 tv-torrent.club###b_bn_331
 tv-torrent.club##[id^="bn_"]
 tvk6.ru##.adv_partners
@@ -613,6 +631,7 @@ webalta.ru###out-content > .col-2
 webalta.ru##.wrapper > .header2.header > .header2 > .head-row-logo2.o-h.head-row-logo > .f-l.search > .search-form2.search-form > .b-s.f-l.head2-setting
 webbazar.eu###fblikebg
 webbazar.eu###fblikepop
+webmath.ru##.banner
 webmath.ru##.block-container:has-text(/заказ/)
 webmath.ru##.popupCreateOrderWindow
 whatsonsukhumvit.com##.floatBottom.nc_wrapper
