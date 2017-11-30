@@ -50,6 +50,7 @@
 ||cs.wmwyq.xyz^$third-party
 ||ctege.info/temp/*.gif
 ||d2rhlq203cnmhw.cloudfront.net/img/300600.gif
+||decodeit.ru/assets/images/*.gif
 ||deita.ru/*/*/*.gif
 ||delayreferat.ru/images/polosa.swf
 ||delo-press.ru/upload/rk/*/*.gif
@@ -108,12 +109,16 @@
 ||lostfilmonline.ru/info-reklam1.png
 ||magilol.twirpx.com/abpsucks/
 ||magmens.com/wp-content/uploads/20*/*.gif
+||magspace.ru/uploads/_flowers/
+||magspace.ru/uploads/_maglan/
+||magspace.ru/uploads/_olympia/
 ||matburo.ru/Data/banner
 ||matematikalegko.ru/img/260x249handrozdvd.jpg
 ||matematikalegko.ru/img/egestudia258x360.jpg
 ||matematikalegko.ru/wp-content/themes/zeesynergie/images/258x400foxvord.jpg
 ||math-prosto.ru/images/tutor/profi_ru/
 ||mathprofi.com/images/promo/
+||mathprofi.ru/images/ez.png
 ||mathprofi.ru/images/matburo*.gif
 ||mathprofi.ru/images/matburo.gif
 ||mathprofi.ru/images/zaochnik*.gif

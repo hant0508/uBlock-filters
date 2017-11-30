@@ -33,6 +33,7 @@
 5ballov.qip.ru###content > .right_sidebar > .h_block.panel
 720pizle.com##[id^="reklam"]
 8nog.com##.results.error1 > div:nth-of-type(1)
+actualcomment.ru##.b_top__banner
 adme.ru###beeline-result-overlay > .inner > [class^="beeline-overlay"]
 adme.ru##.dialog-bg
 adme.ru##.js-fixed-like-box-new.js-fixed-like-box.fixed-like-box-blue
@@ -75,6 +76,8 @@ belta.by##.bans_flash
 bestru.ru##.main_box > .rightColumn
 beznal.cc##.banners
 bicaps.net##.external
+bigpicture.ru##.arcticmodal-container
+bigpicture.ru##.arcticmodal-overlay
 bigpicture.ru##.section-main-project-link200.wrapper
 bitcointalk.org###quickModForm > table > tbody > tr:if(span:has-text(/Advertised sites are not endorsed by the Bitcoin Forum./))
 blinovrus.ru##.setup-bottom-panel
@@ -102,6 +105,7 @@ comss.ru###container > div:nth-of-type(6) > div > a[href="http://www.comss.ru/do
 comss.ru##.addthis_sharing_toolbox
 comss.ru##.container:if(span:has-text(/Реклама/))
 comss.ru##a[href^="https://www.comss.ru/page.php?al=adguard"] > img
+contest.solutions##.table-hover.table-condensed.table > tbody > tr:nth-of-type(9):style(font-weight:bold;)
 convertio.co##.main-wrapper-for-sticky-footer > .inner-new-page.content > .content-wrapper > .blur-bg-wrap
 cqham.ru##blockquote > p:nth-of-type(62)
 cqham.ru##div > center > table > tbody > tr:nth-of-type(1)
@@ -184,6 +188,8 @@ forum.antichat.ru###content > .pageWidth > .noBorderRadiusBottom.pageContent > .
 forum.beznal.cc###categories > .banner_800
 forum.beznal.cc###categories > .cat_banner
 forum.bits.media##.ipsAdvertisementHeaderLimit
+fossmint.com##.vce-ad-container
+fossmint.com/wp-content/uploads/2017/02/RedHat-Certification-Guide.png
 fotolink.su###banner
 freedownloadtorrent.org##.bg_link
 frenglish.ru##a[href="javascript:window.location.reload()"]
@@ -246,8 +252,10 @@ howto.mydiv.net##div[style="margin-top:120px;width:160px; padding:2px; height:60
 i-vd.org.ru##table > tbody > tr > td > table > tbody > tr > td > .mainfooter
 ib.mazurok.com###secondary
 ibm.com###dw-regbar
+ieeexplore.ieee.org##.Ads-leaderboard
 igrigo.net##.branding
 igrigo.net##.rig_con
+iknigi.net##.fullnews-body > div:has-text(/Реклама:/)
 ilibrary.ru##.r
 info.sibnet.ru##.td.main-content-right > div > a[href] > img
 infocity.az###text-6-sticky-wrapper
@@ -306,8 +314,10 @@ learnersdictionary.com##.abl-m0-t300-d300
 learnersdictionary.com##.abl-m0-t728-d728
 leeet.net###teaser_223
 lentach.media##.banner__content
+lentachel.ru##.ads
 lifehacker.ru##article[id^="post"] > .clearfix.entry-content > .relap-wrapper
 lifeinbooks.net##.vce-sticky
+linuxbabe.com###media_image-3 > .widget_wrap
 lit.1september.ru###menu
 literarus.ru##.component-htmlcode.component:if-not(input)
 litmir.co##tbody > tr > td > div[style="height:180px; overflow:hidden;"]
@@ -337,9 +347,13 @@ math-prosto.ru###tutorChoiceLeft
 math-prosto.ru###tutorChoiceTop
 math-prosto.ru##[id^="ambn"]
 math.semestr.ru###s400
+math.semestr.ru###soloway240
 math.semestr.ru##.adsbygoogle
 math1.ru##.onlytext
+mathportal.net###footer-inner
+mathprofi.ru##noindex > table[cellspacing="5"]
 mebeles-lv.ucoz.lv##p > a[href^="https://vk.com/"]
+medialeaks.ru##.bottom-banner
 mediazavod.ru##[id^="tx_banner"]
 medow.ru###execphp-3.widget.widget_execphp
 medow.ru###execphp-9.widget.widget_execphp
@@ -354,6 +368,7 @@ memepedia.ru##.aggads-inner
 memepedia.ru##[id^="agg-flex-ads"]
 memesmix.net###footer_wrapper > p
 memesmix.net###menu-module > .module-body-i
+memeus.ru##.ad
 mignews.com###rightc > h5:nth-of-type(1)
 mignews.com###rightc > noindex
 mintlinux.ru###left > .module:nth-of-type(1)
@@ -382,8 +397,8 @@ myshared.ru###gallery > div[class=" "]
 myshared.ru##.top-wrapper.uk-width-1-1 > div:not([style]):not(.playerWrapper)
 myshared.ru##.uk-article > .uk-text-center
 myshared.ru##.uk-margin-right.uk-margin-bottom.uk-text-center
-myzuka.fm##.all > .header > .aside > .button-a.v2[href="/GetVipAccount"]
-myzuka.me##.v2.button-a
+myzuka.club##.all > .header > .aside > .button-a.v2[href="/GetVipAccount"]
+myzuka.club##.v2.button-a
 nagitaru.ru###text-24
 nagitaru.ru###text-35
 naked-science.ru##.naked-banner
@@ -407,6 +422,7 @@ newsru.com###stakan
 nixp.ru###nixp > .trueoffice_cpg.trueoffice
 nnm-club.name##body > .request
 nnov.petovod.ru##.google_cont
+novayagazeta.ru##div > div:has(> div > div[id^="adfox"])
 ntv.ru###banner240x400
 ntv.ru###pa_header
 ntv.ru###themes_container > .tegwrapBl > .themesBl > .flamurBrd
@@ -449,6 +465,7 @@ physics.ru##body > noindex:nth-of-type(3) > table > tbody > tr:nth-of-type(5)
 pikabu.ru##.ad-reset
 pikabu.ru##.b-page-header-v2 > span > a > div
 pikabu.ru##.story:if(a[class="story__author"]:has-text(/^ads$/))
+pikabu.ru##.story:if-not(.story__author):if(.story__tag:has-text(реклама))
 pleer.ru##.mainBlock.pie[style="margin-bottom: 15px; "]
 pleer.ru##noindex > center > .pie.gray_border
 plusworld.ru###container > .wrapper > .left-column > .banner__forum-fixed.ban-180x200:nth-of-type(1)
@@ -600,6 +617,9 @@ trendymen.ru##.ban300x600
 trendymen.ru##.head-banner-wrapper
 tv-torrent.club###b_bn_331
 tv-torrent.club##[id^="bn_"]
+tvc.ru##.b-article__addon-title
+tvc.ru##.b-overlay__adv
+tvc.ru##.ognyvo__frame_teasers.ognyvo-show.ognyvo-mode-.placement-in-page
 tvk6.ru##.adv_partners
 tvrain.ru##.current.blocker.jquery-modal
 tyurem.net###sidebar
@@ -610,7 +630,9 @@ ufa-room.ru,neva-room.ru,ekb-room.ru,saratov-room.ru,novosib-room.ru,tlt-room.ru
 ufa-room.ru,neva-room.ru,ekb-room.ru,saratov-room.ru,novosib-room.ru,tlt-room.ru,cheb-room.ru,kaliningrad-room.ruvoronezh-room.ru,vladi-room.ru,yaroslavl-room.ru###right_side_fixed_ad
 unionpron.org##body > div:not(#body_container)
 ural.kp.ru###article-page\  > .boxPage > .boxCols
+userstyles.org##.style_card_long:has(.adContainer)
 v3.co.uk##.ad-slot-full
+vedomosti.ru##.b-banner__background
 velofun.ru###content > span
 velonews.ru###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap > .container-fluid > .row-fluid > .td-post-sidebar.column_container.span4 > .widget_text.widget
 veryicon.com###content > .right_content_728
@@ -620,6 +642,8 @@ vk.com###apps_after > .page_block:nth-of-type(1)
 vokrugsveta.ru###sape_links
 vokrugsveta.ru##.aside
 vokrugsveta.ru##.tgb-box
+vopvet.ru###fancybox-overlay
+vopvet.ru##.fancybox-outer
 vporn.com###video-banner
 vsekratko.ru###content > .add
 vsekratko.ru###pright
