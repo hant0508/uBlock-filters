@@ -29,7 +29,7 @@ I recommend using the following filter lists for the best result:
 * [Adguard Spyware Filter](https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/3.txt&title=Adguard%20Spyware%20Filter)* <br>
 *compatible only with uBlock Origin
 
-I also recommend to see **[userscripts](https://github.com/hant0508/usescripts)** and **[userstyles](https://github.com/hant0508/userstyles)** repositories. There you can find scripts and styles removing "complicated" ads.
+You can also take a look at **[userscripts](https://github.com/hant05080/usescripts)** and **[userstyles](https://github.com/hant05080/userstyles)** repositories. There you can find scripts and styles removing "complicated" ads.
 
 ### Feedback
 If you have any problems with the filters, [open an issue](https://github.com/hant05080/uBlock-fillters/issues/new). If you have any
