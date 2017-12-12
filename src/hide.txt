@@ -58,6 +58,7 @@ anekdot.ru##table > tbody > tr:nth-of-type(4) > .rightcolumn
 anti-malware.ru###popup
 anti-malware.ru###slidebox
 antimarketing.by##.ban
+antiwomen.ru##.phpbb-ads-center
 antonkozlov.ru###sidebar_friends
 articulos.softonic.com###popup-newsletter-article
 articulos.softonic.com##.ov_opened.ov_modal_bkgnd_layer
@@ -80,6 +81,9 @@ bigpicture.ru##.arcticmodal-container
 bigpicture.ru##.arcticmodal-overlay
 bigpicture.ru##.section-main-project-link200.wrapper
 bitcointalk.org###quickModForm > table > tbody > tr:if(span:has-text(/Advertised sites are not endorsed by the Bitcoin Forum./))
+bitmakler.com##body > center
+bl2.ru##.ui-draggable.ui-front.ui-widget-content.ui-widget.ui-corner-all.ui-dialog
+bl2.ru##.ui-widget-overlay
 blinovrus.ru##.setup-bottom-panel
 bookin.ucoz.ru##.contanier > span
 booksgid.com/loadgid/buttons/001/button.png
@@ -443,6 +447,7 @@ onlineguru.ru###jointNew
 openssource.biz##.banner_after_comment
 openssource.biz##.block_left
 openssource.biz##.block_right
+oplib.ru###leftside > noindex
 orthographia.ru##.footer > tbody > tr:nth-of-type(4) > td
 otr-online.ru##.bannerbottom
 otvet.mail.ru###portal-menu > .nt--position
@@ -474,6 +479,9 @@ pogoda.mail.ru##a.forecast-branding-link
 popmech.ru###_sim_popup
 popuptest.com##table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
 popuptest.com##table > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+porn.com##.f-zone
+porn.com##.s-zone
+porn.com##.t-zone
 pornhub.com###age-verification-container
 pornhub.com###age-verification-wrapper
 pornhub.com##.nonesuch
@@ -545,6 +553,7 @@ seoxa.club###rotator
 seoxa.club##.funbox.sectionMain
 seoxa.club##.theshit_top
 sg-team.net##.wrapper > .wrapmid > .container > .leftcol > .rightside > .bfilms.bminpad.block
+shop.huawei.ru##.webim_button
 sibnet.ru##.b-banner-under-search
 singularlabs.com###text-18.widget.widget_text
 sitehere.ru###ehu-bar
@@ -628,8 +637,11 @@ ufa-room.ru,neva-room.ru,ekb-room.ru,saratov--room.ru,novosib-room.ru,tlt-room.r
 ufa-room.ru,neva-room.ru,ekb-room.ru,saratov-room.ru,novosib-room.ru,tlt-room.ru,cheb-room.ru,kaliningrad-room.ruvoronezh-room.ru,vladi-room.ru,yaroslavl-room.ru###content > .full_news > .content_wrapper > .fl_r > .typical_ad
 ufa-room.ru,neva-room.ru,ekb-room.ru,saratov-room.ru,novosib-room.ru,tlt-room.ru,cheb-room.ru,kaliningrad-room.ruvoronezh-room.ru,vladi-room.ru,yaroslavl-room.ru###right_side_fixed_ad
 unionpron.org##body > div:not(#body_container)
+unixtimestamp.com###ShareModal
+unixtimestamp.com##.in.fade.modal-backdrop
 ural.kp.ru###article-page\  > .boxPage > .boxCols
 userstyles.org##.style_card_long:has(.adContainer)
+usingenglish.com###header-leaderboard
 v3.co.uk##.ad-slot-full
 vedomosti.ru##.b-banner__background
 velofun.ru###content > span
@@ -637,6 +649,8 @@ velonews.ru###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-w
 veryicon.com###content > .right_content_728
 veryicon.com###content > .right_content_728:nth-of-type(3)
 vesti.ru##.page-wrap > .main-content > .content > .adv-list_inner.adv-list
+viktoriastar.ru###lrb:has(.bannergroup)
+viktoriastar.ru/images/banners/
 vk.com###apps_after > .page_block:nth-of-type(1)
 vokrugsveta.ru###sape_links
 vokrugsveta.ru##.aside
@@ -664,6 +678,8 @@ wiki.eduvdom.com##.dokuwiki > .page > .level1 > .table.sectionedit3
 wiki.eduvdom.com##.dokuwiki > div:nth-of-type(2)
 windowsfaq.ru##.container > tbody > tr > .maincolumn > div:nth-of-type(1)
 windxp.com.ru###fixblock > .del:nth-of-type(1)
+wm-help.net###ad_big_left
+wm-help.net###book_info_small
 wolframalpha.com###codezone-footer
 wolframalpha.com###headerad-pro
 wolframalpha.com###sidebar

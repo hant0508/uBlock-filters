@@ -94,6 +94,7 @@
 ||igrigo.net/uploads/mg-2.png
 ||imagebam.com/files/_b*.php$image
 ||img1.fanfics.me/images/banner/
+||imgcache.bitmakler.com/*.gif
 ||izvygon.ru/*.swf
 ||kampc-help.ru/img/30.gif
 ||keys.edufuture.biz/images/office-reform.jpg
@@ -152,6 +153,7 @@
 ||php-zametki.ru/images/banner
 ||php-zametki.ru/images/banner*.gif
 ||pornhub.com^$third-party
+||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
 ||programmersforum.ru/anim*.gif
 ||prostolinux.ru/wp-content/bn/ihor.gif

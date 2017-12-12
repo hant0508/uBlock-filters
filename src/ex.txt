@@ -17,4 +17,6 @@ imagesbase.ru#@#.adsbygoogle
 joyreactor.cc#@#div#sidebar
 marketgid.com#@#a[href*="marketgid.com/"]
 new.gramota.ru#@##main-sec > .block-side:last-child
+new.pikabu.ru#@#.footer__cookie:not(body):not(html)
+new.pikabu.ru#@#.story:if-not(.story__author)
 toolslib.net#@#.col-md-6
