@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.8
+! Version: 3.8.9
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -830,6 +830,7 @@ nat-geo.ru###_sim_popup
 nat-geo.ru###widget-collection-overlay
 nat-geo.ru##.grid-cell--shadow.grid-cell--3banner.grid-cell--3.grid-cell.js-banner-stretch
 nat-geo.ru##[class*="js-banner-tgb-article"]
+new.pikabu.ru##.story:has(.yandex-direct)
 newinform.com##[id^="smi_teaser"]
 newkaliningrad.ru###page-buffer > .container > .row > .col-main > .pr-600
 newkaliningrad.ru###page-buffer > .container > .row > .col-side
