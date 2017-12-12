@@ -7,7 +7,7 @@ free of intersections with them. The list is made for blocking advertising and a
 by other filter lists. It is regularly updated and actively maintained for now.
 
 **Filter list installation:**
-click **[SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hant05080/uBlock-filters/master/filters.txt&title=Filters%20by%20hant0508)** or use direct link:<br>
+click **[SUBSCRIBE](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hant0508/uBlock-filters/master/filters.txt&title=Filters%20by%20hant0508)** or use direct link:<br>
 `https://raw.githubusercontent.com/hant05080/uBlock-filters/master/filters.txt`
 
 ### Recommendations
@@ -29,9 +29,9 @@ I recommend using the following filter lists for the best result:
 * [Adguard Spyware Filter](https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/3.txt&title=Adguard%20Spyware%20Filter)* <br>
 *compatible only with uBlock Origin
 
-You can also take a look at **[userscripts](https://github.com/hant05080/usescripts)** and **[userstyles](https://github.com/hant05080/userstyles)** repositories. There you can find scripts and styles removing "complicated" ads.
+You can also take a look at **[userscripts](https://github.com/hant05080/usescripts)** and **[userstyles](https://github.com/hant0508/userstyles)** repositories. There you can find scripts and styles removing "complicated" ads.
 
 ### Feedback
-If you have any problems with the filters, [open an issue](https://github.com/hant05080/uBlock-fillters/issues/new). If you have any
+If you have any problems with the filters, [open an issue](https://github.com/hant0508/uBlock-fillters/issues/new). If you have any
 difficulties in blocking ads on any site, you can also
-[write about it](https://github.com/hant05080/uBlock-fillters/issues/new). If you have no GitHub account, [email me](mailto:hant0508@gmail.com?subject=GitHub%20issue%20|%20Filters).
+[write about it](https://github.com/hant0508/uBlock-fillters/issues/new). If you have no GitHub account, [email me](mailto:hant0508@gmail.com?subject=GitHub%20issue%20|%20Filters).
