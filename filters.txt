@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.9
+! Version: 3.8.10
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -37,6 +37,7 @@ marketgid.com#@#a[href*="marketgid.com/"]
 new.gramota.ru#@##main-sec > .block-side:last-child
 new.pikabu.ru#@#.footer__cookie:not(body):not(html)
 new.pikabu.ru#@#.story:if-not(.story__author)
+pikabu.ru#@#.page-story > .story:if(.story__header-additional-wrapper > .story__tags:has-text(реклама))
 toolslib.net#@#.col-md-6
 
 ! Global rules
@@ -830,6 +831,7 @@ nat-geo.ru###_sim_popup
 nat-geo.ru###widget-collection-overlay
 nat-geo.ru##.grid-cell--shadow.grid-cell--3banner.grid-cell--3.grid-cell.js-banner-stretch
 nat-geo.ru##[class*="js-banner-tgb-article"]
+new.pikabu.ru##.story:has(.story__left_sponsor)
 new.pikabu.ru##.story:has(.yandex-direct)
 newinform.com##[id^="smi_teaser"]
 newkaliningrad.ru###page-buffer > .container > .row > .col-main > .pr-600
