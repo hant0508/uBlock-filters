@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.10
+! Version: 3.8.11
 ! Homepage: https://github.com/hant05080/uBlock-filters
 
 ! Recommended to use with:
@@ -20,10 +20,14 @@
 @@/adguard.
 @@/pr.php?
 @@||*.*$popup,domain=google.com
+@@||allsocial.ru/stat/css/*$stylesheet,first-party
+@@||allsocial.ru/stat/img/app/*$image,first-party
+@@||allsocial.ru/stat/js/*$script,first-party
 @@||cs.pikabu.ru/files/ad/*.png
 @@||google.*/adwords/*$domain=www.google.ru
 @@||mc.yandex.ru/metrika/watch.js$script,domain=nofelet.ru
 @@||mymeizu.ru/bitrix/templates/m2mini/content$image
+@@||profi.ru/backoffice/icjs/b2b/img/*$image,domain=math.semestr.ru
 @@||relap.io/api$script,domain=adme.ru
 @@||speedtest.net/javascript/speedtest-main.js?*
 @@||u.alicdn.com/??js/6v/lib/arale/widget/widget.js,js/6v/lib/arale/templatable/templatable.js,js/6v/biz/common/click-stat/click-stat.js,mobile/ae/common/hawe/1.0.4/hawe.js$script,domain=sale.aliexpress.com
@@ -74,6 +78,7 @@ yandex.ru##:xpath(/html/body//div/div[a[./text()="Яндекс.Директ"]])
 4pda.ru###wrapper > div > div > div:style(background:#e6e7e9!important;)
 en.oxforddictionaries.com###sidebar:style(margin-top:0!important;)
 ivi.ru##.content-main:style(padding-top:0px!important;)
+kanobu.ru##.container:style(padding-top:40px!important; background:#e5e5e5!important;)
 kinokot.me##body > .wrapeos > .heade:style(height:60px!important;)
 mail.yandex.ru##.ns-view-folders > a:style(cursor:pointer!important;)
 mail.yandex.ru##.ns-view-folders:style(background-image:none!important; cursor:auto!important;)
@@ -191,6 +196,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 ||1000ideas.ru/upload/rk/9c6/nash.png
 ||198.58.122.116/ads
 ||2.cdn.echo.msk.ru/files/1338208.jpg
+||2ch.hk/banners/
 ||2ip.ru/images/ad/*.png
 ||2month.hochu-zamuj.ru/aff/tovars/
 ||4ege.ru/up/a1/fox17f.png
@@ -648,6 +654,7 @@ google.ru,google.com,encrypted.google.com###subform_ctrl
 gorod48.ru###body > .main > .mar.col3 > [class^="banner"]
 gotovkgia.ru###post-2251 > .entry-wrap > .content.entry-content > p:nth-of-type(7)
 gotovkgia.ru###post-2251 > .entry-wrap > .content.entry-content > table
+grani-ru-org.appspot.com##.ad-240x400
 grani.ru###LentaInformScriptRootN14220
 grani.ru###main-inner > .clearfix.main-text > .ad-240x400
 grani.ru###other-links
@@ -813,6 +820,7 @@ mp3-zaycev.com###topArtistsBlock
 mp3.cc##div[id*="Banner"]
 mp3.shmidt.net###mainbox > .rightbox
 mrko.mos.ru###swiffycontainer
+msu.ru###cookie_warning_container
 myddns.ru###rightcolumn
 mymodo.ru###header > .region-bottom-header.region
 myshared.ru###gallery > div[class=" "]
@@ -1050,6 +1058,7 @@ tvc.ru##.b-overlay__adv
 tvc.ru##.ognyvo__frame_teasers.ognyvo-show.ognyvo-mode-.placement-in-page
 tvk6.ru##.adv_partners
 tvrain.ru##.current.blocker.jquery-modal
+twitteraudit.com##.ad.box
 tyurem.net###sidebar
 ubuntovod.ru###contentwrap > .sidecont > div:nth-of-type(4)
 ucheba-otziv.ru##object[id^="baner"]

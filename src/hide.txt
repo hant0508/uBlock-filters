@@ -230,6 +230,7 @@ google.ru,google.com,encrypted.google.com###subform_ctrl
 gorod48.ru###body > .main > .mar.col3 > [class^="banner"]
 gotovkgia.ru###post-2251 > .entry-wrap > .content.entry-content > p:nth-of-type(7)
 gotovkgia.ru###post-2251 > .entry-wrap > .content.entry-content > table
+grani-ru-org.appspot.com##.ad-240x400
 grani.ru###LentaInformScriptRootN14220
 grani.ru###main-inner > .clearfix.main-text > .ad-240x400
 grani.ru###other-links
@@ -395,6 +396,7 @@ mp3-zaycev.com###topArtistsBlock
 mp3.cc##div[id*="Banner"]
 mp3.shmidt.net###mainbox > .rightbox
 mrko.mos.ru###swiffycontainer
+msu.ru###cookie_warning_container
 myddns.ru###rightcolumn
 mymodo.ru###header > .region-bottom-header.region
 myshared.ru###gallery > div[class=" "]
@@ -632,6 +634,7 @@ tvc.ru##.b-overlay__adv
 tvc.ru##.ognyvo__frame_teasers.ognyvo-show.ognyvo-mode-.placement-in-page
 tvk6.ru##.adv_partners
 tvrain.ru##.current.blocker.jquery-modal
+twitteraudit.com##.ad.box
 tyurem.net###sidebar
 ubuntovod.ru###contentwrap > .sidecont > div:nth-of-type(4)
 ucheba-otziv.ru##object[id^="baner"]

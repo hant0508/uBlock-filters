@@ -4,6 +4,7 @@
 ||1000ideas.ru/upload/rk/9c6/nash.png
 ||198.58.122.116/ads
 ||2.cdn.echo.msk.ru/files/1338208.jpg
+||2ch.hk/banners/
 ||2ip.ru/images/ad/*.png
 ||2month.hochu-zamuj.ru/aff/tovars/
 ||4ege.ru/up/a1/fox17f.png

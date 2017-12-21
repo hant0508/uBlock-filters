@@ -2,10 +2,14 @@
 @@/adguard.
 @@/pr.php?
 @@||*.*$popup,domain=google.com
+@@||allsocial.ru/stat/css/*$stylesheet,first-party
+@@||allsocial.ru/stat/img/app/*$image,first-party
+@@||allsocial.ru/stat/js/*$script,first-party
 @@||cs.pikabu.ru/files/ad/*.png
 @@||google.*/adwords/*$domain=www.google.ru
 @@||mc.yandex.ru/metrika/watch.js$script,domain=nofelet.ru
 @@||mymeizu.ru/bitrix/templates/m2mini/content$image
+@@||profi.ru/backoffice/icjs/b2b/img/*$image,domain=math.semestr.ru
 @@||relap.io/api$script,domain=adme.ru
 @@||speedtest.net/javascript/speedtest-main.js?*
 @@||u.alicdn.com/??js/6v/lib/arale/widget/widget.js,js/6v/lib/arale/templatable/templatable.js,js/6v/biz/common/click-stat/click-stat.js,mobile/ae/common/hawe/1.0.4/hawe.js$script,domain=sale.aliexpress.com
