@@ -91,6 +91,7 @@ borda.ru##.element:if-not(a)
 boston.com##.radio-bdc
 briefly.ru###audiobook
 briefly.ru###in_article
+calciomercato.it##.card__content.widget__content:has(.banner_Sidebar)
 chelyabinsk-info.ga##body > noindex
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(1)
 chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(3)
@@ -645,6 +646,8 @@ unionpron.org##body > div:not(#body_container)
 unixtimestamp.com###ShareModal
 unixtimestamp.com##.in.fade.modal-backdrop
 ural.kp.ru###article-page\  > .boxPage > .boxCols
+usa.philips.com##.mfp-iframe-holder
+usa.philips.com##.mfp-ready
 userstyles.org##.style_card_long:has(.adContainer)
 usingenglish.com###header-leaderboard
 v3.co.uk##.ad-slot-full
@@ -653,6 +656,7 @@ velofun.ru###content > span
 velonews.ru###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap > .container-fluid > .row-fluid > .td-post-sidebar.column_container.span4 > .widget_text.widget
 veryicon.com###content > .right_content_728
 veryicon.com###content > .right_content_728:nth-of-type(3)
+vesti.ru##.content__article__adv
 vesti.ru##.page-wrap > .main-content > .content > .adv-list_inner.adv-list
 viktoriastar.ru###lrb:has(.bannergroup)
 viktoriastar.ru/images/banners/

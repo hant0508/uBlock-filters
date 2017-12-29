@@ -12,6 +12,8 @@
 @@||profi.ru/backoffice/icjs/b2b/img/*$image,domain=math.semestr.ru
 @@||relap.io/api$script,domain=adme.ru
 @@||speedtest.net/javascript/speedtest-main.js?*
+@@||telegram.vs.fsb.today/wp-content/themes/twentyseventeen/images/240x400.jpg
+@@||telegram.vs.fsb.today/wp-content/themes/twentyseventeen/images/300x250.jpg
 @@||u.alicdn.com/??js/6v/lib/arale/widget/widget.js,js/6v/lib/arale/templatable/templatable.js,js/6v/biz/common/click-stat/click-stat.js,mobile/ae/common/hawe/1.0.4/hawe.js$script,domain=sale.aliexpress.com
 @@||u.alicdn.com/js/5v/run/pool/monitor/beacon_async.js$script,domain=sale.aliexpress.com
 @@||videouroki.net/img/*/*.gif
@@ -23,5 +25,6 @@ marketgid.com#@#a[href*="marketgid.com/"]
 new.gramota.ru#@##main-sec > .block-side:last-child
 new.pikabu.ru#@#.footer__cookie:not(body):not(html)
 new.pikabu.ru#@#.story:if-not(.story__author)
+nextcloud.com#@#.bannerhead
 pikabu.ru#@#.page-story > .story:if(.story__header-additional-wrapper > .story__tags:has-text(реклама))
 toolslib.net#@#.col-md-6
