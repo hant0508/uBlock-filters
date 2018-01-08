@@ -197,8 +197,12 @@ fossmint.com##.vce-ad-container
 fossmint.com/wp-content/uploads/2017/02/RedHat-Certification-Guide.png
 fotolink.su###banner
 freedownloadtorrent.org##.bg_link
+freeimagefap.com##[id^="banner"]
 frenglish.ru##a[href="javascript:window.location.reload()"]
 fromblog.ru###page > footer > .container > .suf
+fryazino.info##.adv1x
+fryazino.info##.adv2x
+fryazino.info##.adv3x
 fun.rufex.net###toTop > noindex > .gglhp.abl.mead
 funpic.us##.banner
 furfur.me###fixed-sidebar
@@ -226,6 +230,8 @@ gigatorrent.org##img[alt^="Браузер A"]
 gismeteo.ru##.ru.side__i
 gitem.ru##.container > table > tbody > tr > td > .addon
 gitem.ru##.container > table > tbody > tr > td > .block-box > .box-cont > .cssmenu > li > .vkpr[href="http://spishy-gdz.ru/"]
+gjirafa.com##[id^=an-holder]
+gjirafa.com##iframe
 google.ru###pmocntr2
 google.ru,google.com,encrypted.google.com###subform_ctrl
 gorod48.ru###body > .main > .mar.col3 > [class^="banner"]
@@ -245,6 +251,7 @@ habrahabr.ru##.xyz_wrapper
 hackzone.ru##td[align="center"]:has(a[href="/adv/"])
 hackzone.ru/img/promo/site-test.gif
 handscrew.ru###abdanner
+hardware.info##script:inject(nano-hardware-info.js)
 hdrezka.me##[id^="bn_"]
 hdrezka.me##div[id^="skin_"][class^="skin-block_"][style^="background-image:"]
 hh.ru##.vacancy-view-banners
@@ -397,6 +404,7 @@ mp3-zaycev.com###topArtistsBlock
 mp3.cc##div[id*="Banner"]
 mp3.shmidt.net###mainbox > .rightbox
 mrko.mos.ru###swiffycontainer
+mrwolf.ru##.anekdot:has(.anekdotAds)
 msu.ru###cookie_warning_container
 myddns.ru###rightcolumn
 mymodo.ru###header > .region-bottom-header.region
@@ -525,6 +533,7 @@ remontka.pro##.rem-singlearticle.uk-article > div:not(.SPOSTARBUST-Related-Posts
 ren.tv###block-block-13
 ren.tv###block-block-22
 ren.tv###block-block-24
+ren.tv###skin_link
 reshimvse.com###add
 reshimvse.com###right_block_add
 reshinfo.com###sidebarL
@@ -645,12 +654,15 @@ ufa-room.ru,neva-room.ru,ekb-room.ru,saratov-room.ru,novosib-room.ru,tlt-room.ru
 unionpron.org##body > div:not(#body_container)
 unixtimestamp.com###ShareModal
 unixtimestamp.com##.in.fade.modal-backdrop
+upskirtporn.de##[id^="banner"]
 ural.kp.ru###article-page\  > .boxPage > .boxCols
 usa.philips.com##.mfp-iframe-holder
 usa.philips.com##.mfp-ready
 userstyles.org##.style_card_long:has(.adContainer)
 usingenglish.com###header-leaderboard
 v3.co.uk##.ad-slot-full
+v3wall.com##.web_right_ads
+v3wall.com##.web_top_ads
 vedomosti.ru##.b-banner__background
 velofun.ru###content > span
 velonews.ru###inner-wrap > .td-page-wrap.container > .row > .span12 > .td-grid-wrap > .container-fluid > .row-fluid > .td-post-sidebar.column_container.span4 > .widget_text.widget
@@ -682,6 +694,7 @@ webmath.ru##.block-container:has-text(/заказ/)
 webmath.ru##.popupCreateOrderWindow
 whatsonsukhumvit.com##.floatBottom.nc_wrapper
 whatsonsukhumvit.com##[class*="pushcrew"][class*="notification"]
+wifeporn.de##[id^="banner"]
 wiki.eduvdom.com##.dokuwiki > .page > .level1 > .table.sectionedit2
 wiki.eduvdom.com##.dokuwiki > .page > .level1 > .table.sectionedit3
 wiki.eduvdom.com##.dokuwiki > div:nth-of-type(2)

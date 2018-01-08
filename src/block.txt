@@ -1,4 +1,5 @@
 /data\d*.i.gallery.ru/albums/gallery/.*.jpg/$domain=kremllin.ru,image
+/exoads/b/
 ||003apteka.ru/uploads/banner*.gif
 ||1.denschikov.com/pozdr/
 ||1000ideas.ru/upload/rk/9c6/nash.png
@@ -82,6 +83,8 @@
 ||geobravo.isrageo.com/files/partner/promotion/
 ||gervash.ru/wp-content/themes/QuerTheme/images/*banner.jpg
 ||gidonline.club/wp-content/themes/gidonline/js/jsbox1.js
+||gjirafa.com/api/media/VideoR/$xmlhttprequest
+||gjirafa.com/api/media/VideoR/*.mp4$media,redirect=noopmp3-0.1s
 ||go4convert.com/cmi.png
 ||go4convert.com/cwf.png
 ||guruadmin.ru/hosting.gif

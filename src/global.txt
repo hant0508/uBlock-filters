@@ -1,4 +1,6 @@
 ###WIX_ADS
+##.abc_banner
+##.topi_banner
 ###bannerSmall
 ###bg-banner
 ##.Banner_Top
@@ -7,9 +9,6 @@
 ##.bunner
 ##.megaads
 ##.place_for_ad
-##.rn-global-header > .rn-top-banner
-##.rn-global-wrapper > noindex > .au-top-ads-container
 ##[class^="show_"][class$="_ads"]
 ##[id="WIX_ADS"]
-##[id^="s"][id$="Bunner"]
 /bannery/$image

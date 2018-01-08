@@ -19,6 +19,7 @@
 @@||videouroki.net/img/*/*.gif
 danieldefo.ru#@#.bannerBlock
 google.com#@#a[href]
+hardware.info#@#.cookiecontainer:not(body):not(html)
 imagesbase.ru#@#.adsbygoogle
 joyreactor.cc#@#div#sidebar
 marketgid.com#@#a[href*="marketgid.com/"]
