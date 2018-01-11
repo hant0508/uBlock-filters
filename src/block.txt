@@ -1,5 +1,4 @@
 /data\d*.i.gallery.ru/albums/gallery/.*.jpg/$domain=kremllin.ru,image
-/exoads/b/
 ||003apteka.ru/uploads/banner*.gif
 ||1.denschikov.com/pozdr/
 ||1000ideas.ru/upload/rk/9c6/nash.png
@@ -186,6 +185,7 @@
 ||socialkit.ru/sk.gif
 ||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
 ||ss.nzbstars.com.xxxnavy.com/advertisement.js
+||st.fotocdn.net/base/img/bg_black_50.png
 ||static-cdn.karaoke.ru/karaoke-site/img/button-friends.png
 ||static.fastpic.ru/js/jquery*.js
 ||static.ngs.ru/reklama/$image

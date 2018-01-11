@@ -1,16 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.8.13
-! Homepage: https://github.com/hant05080/uBlock-filters
+! Version: 3.9.0
+! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
 ! - EasyList
 ! - EasyPrivacy
 ! - Fanboy’s Enhanced Tracking List
 ! - Adblock Warning Removal List
-! - Malware domains (long-lived)
 ! - RU AdList
-! - Adguard Russian Filter (https://filters.adtidy.org/extension/ublock/filters/1.txt)
-! - Adguard English Filter (https://filters.adtidy.org/extension/ublock/filters/2.txt)
-! - Adguard Spyware Filter (https://filters.adtidy.org/extension/ublock/filters/3.txt)
+! - Adguard Russian Filter
+! - Adguard English Filter
+! - Adguard Spyware Filter
 ! - RU AdList: Counters (https://easylist-downloads.adblockplus.org/cntblock.txt)

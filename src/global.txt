@@ -1,14 +1,14 @@
 ###WIX_ADS
-##.abc_banner
-##.topi_banner
 ###bannerSmall
 ###bg-banner
 ##.Banner_Top
+##.abc_banner
 ##.adv_wrap
 ##.banner2
 ##.bunner
 ##.megaads
 ##.place_for_ad
-##[class^="show_"][class$="_ads"]
+##.topi_banner
 ##[id="WIX_ADS"]
 /bannery/$image
+/exoads/b/

@@ -1,4 +1,3 @@
-100-000-pochemu.info###sidebar-left.sidebar.grid_4.top-margin > ul
 101greatgoals.com###banner-placement-
 101greatgoals.com##.banner-placement
 10minutemail.info###leftover
@@ -27,9 +26,6 @@
 320kbit.net###sl
 320kbit.net##.bg > .tpi.ProfileCanopy--large.ProfileCanopy--withNav.ProfileCanopy
 3dyuriki.com###wsidebar-top
-4ege.ru##.size-wrap > .centrovka > tbody > tr > .yip > div > object[width]
-4ege.ru##.size-wrap > .centrovka > tbody > tr > .yip > object
-4ege.ru##.size-wrap > .minbas
 5ballov.qip.ru###content > .right_sidebar > .h_block.panel
 720pizle.com##[id^="reklam"]
 8nog.com##.results.error1 > div:nth-of-type(1)
@@ -53,8 +49,6 @@ alleng.ru##a[href="http://www.alleng.ru/ab3.php"]
 alleng.ru##a[href="http://www.alleng.ru/am1.php"]
 altyazilifilmizle.org###pageskin > .bannergroup-pageskin
 alvinalexander.com##.ads-large.ads
-ame-game.com.ua###main-carcas > .content > tbody > tr:nth-of-type(1) > .cont_left > .div_rek
-anekdot.ru##table > tbody > tr:nth-of-type(4) > .rightcolumn
 anti-malware.ru###popup
 anti-malware.ru###slidebox
 antimarketing.by##.ban
@@ -93,13 +87,11 @@ briefly.ru###audiobook
 briefly.ru###in_article
 calciomercato.it##.card__content.widget__content:has(.banner_Sidebar)
 chelyabinsk-info.ga##body > noindex
-chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(1)
-chistiulia.ru###content > .row-fluid > .span3:nth-of-type(1) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(3)
-chistiulia.ru###content > .row-fluid > .span3:nth-of-type(3) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(2)
-chistiulia.ru###content > .row-fluid > .span3:nth-of-type(3) > .clearfix.b-shadow.bt-5px.margin-25t.box.widget:nth-of-type(4)
+chistiulia.ru##.widget:has(.textwidget > .adsbygoogle)
 citilink.ru##.toggling_banners
 cleverstudents.ru##.content_bottom
 cnet.com##[class^="ad-incontent"]
+coingecko.com##.mt-3.justify-content-center.row
 colorfest.ru##.middle > .rightside
 comandir.com##.pos-1 > .gaspan
 compconsult.orgfree.com###block-block-11.block.block-block
@@ -110,7 +102,6 @@ comss.ru###container > div:nth-of-type(6) > div > a[href="http://www.comss.ru/do
 comss.ru##.addthis_sharing_toolbox
 comss.ru##.container:if(span:has-text(/Реклама/))
 comss.ru##a[href^="https://www.comss.ru/page.php?al=adguard"] > img
-contest.solutions##.table-hover.table-condensed.table > tbody > tr:nth-of-type(9):style(font-weight:bold;)
 convertio.co##.main-wrapper-for-sticky-footer > .inner-new-page.content > .content-wrapper > .blur-bg-wrap
 cqham.ru##blockquote > p:nth-of-type(62)
 cqham.ru##div > center > table > tbody > tr:nth-of-type(1)
@@ -196,6 +187,7 @@ forum.bits.media##.ipsAdvertisementHeaderLimit
 fossmint.com##.vce-ad-container
 fossmint.com/wp-content/uploads/2017/02/RedHat-Certification-Guide.png
 fotolink.su###banner
+fotostrana.ru##.iPopup
 freedownloadtorrent.org##.bg_link
 freeimagefap.com##[id^="banner"]
 frenglish.ru##a[href="javascript:window.location.reload()"]
@@ -251,7 +243,6 @@ habrahabr.ru##.xyz_wrapper
 hackzone.ru##td[align="center"]:has(a[href="/adv/"])
 hackzone.ru/img/promo/site-test.gif
 handscrew.ru###abdanner
-hardware.info##script:inject(nano-hardware-info.js)
 hdrezka.me##[id^="bn_"]
 hdrezka.me##div[id^="skin_"][class^="skin-block_"][style^="background-image:"]
 hh.ru##.vacancy-view-banners
@@ -294,7 +285,6 @@ itelevisor.ru##div > .a-overlay
 izvestia.ru##[id^=unit_]
 jenyay.net###wikitext > .ad
 journaldev.com##.kd845e-hide
-kampc-help.ru###art-main > .art-sheet.art-box > .art-sheet-body.art-box-body > .art-layout-wrapper > .art-content-layout > .art-content-layout-row > .art-sidebar2.art-layout-cell > .art-block.art-box:nth-of-type(6) > .art-block-body.art-box-body
 kampc-help.ru##.art-box-body.art-post-body > .art-post-inner > .art-postcontent > .art-article > center
 kampc-help.ru##.art-layout-cell.art-sidebar1 > .art-box.art-block
 kanobu.ru##.fluid-banner
@@ -439,7 +429,7 @@ newsru.com###stakan
 nixp.ru###nixp > .trueoffice_cpg.trueoffice
 nnm-club.name##body > .request
 nnov.petovod.ru##.google_cont
-novayagazeta.ru##div > div:has(> div > div[id^="adfox"])
+novayagazeta.ru##div:matches-css(padding-top:30px):has([id^="adfox_"])
 ntv.ru###banner240x400
 ntv.ru###pa_header
 ntv.ru###themes_container > .tegwrapBl > .themesBl > .flamurBrd
@@ -582,11 +572,13 @@ sochinenie11.ru##.wrapper > .middle > .left-sidebar > object
 socratify.net##.h-mb-15.h-mq-800-or-more
 socratify.net##[class^="b-adsense"]
 soft.mydiv.net###softtopad
-softpedia.com###wrapper > .main > .container_48 > .fr.sepbrd4.prefix_2.grid_31 > .legible.storybox1 > .fr.ad-336
+softpedia.com##.ad
+softpedia.com##.adwblue
 softrew.ru##.main-center-block > .content-block > .shad > .shad-top > .shad-bottom > .right-col > .right-block:nth-of-type(5)
 softrew.ru##.main-center-block > .content-block > .shad > .shad-top > .shad-bottom > .right-col > .right-block:nth-of-type(6)
 song-pad.ru##[id^="teaser"]
 sospc.name##.vce_adsense_widget
+sourceforge.net###banner-sterling
 sozdaiblog.ru###scrollable
 space.utema.ru###main-content > .main-content-padding > noindex:nth-of-type(1)
 speakrus.ru##body > .ssill

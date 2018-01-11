@@ -1,0 +1,4 @@
+hardware.info##script:inject(nano-hardware-info.js)
+tapochek.net##^script:has-text(MTcityAds)
+||spellcheck.net^$csp=script-src 'self' * 'unsafe-inline'
+||spellweb.com^$csp=script-src 'self' * 'unsafe-inline'
