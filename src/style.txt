@@ -1,6 +1,8 @@
 4pda.ru###wrapper > div > div > div:style(background:#e6e7e9!important;)
 en.oxforddictionaries.com###sidebar:style(margin-top:0!important;)
 ivi.ru##.content-main:style(padding-top:0px!important;)
+jerusalemonline.com##body:style(height: auto !important; overflow: auto !important)
+jerusalemonline.com##html:style(height: auto !important; overflow: auto !important)
 kanobu.ru##.container:style(padding-top:40px!important; background:#e5e5e5!important;)
 kinokot.me##body > .wrapeos > .heade:style(height:60px!important;)
 mail.yandex.ru##.ns-view-folders > a:style(cursor:pointer!important;)

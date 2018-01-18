@@ -1,6 +1,4 @@
 1tv.ru#@#.promo-place
-@@/adguard.
-@@/pr.php?
 @@||*.*$popup,domain=google.com
 @@||allsocial.ru/stat/css/*$stylesheet,first-party
 @@||allsocial.ru/stat/img/app/*$image,first-party
@@ -18,6 +16,7 @@
 @@||u.alicdn.com/js/5v/run/pool/monitor/beacon_async.js$script,domain=sale.aliexpress.com
 @@||videouroki.net/img/*/*.gif
 danieldefo.ru#@#.bannerBlock
+eurweb.com#@#div > iframe:first-child
 google.com#@#a[href]
 hardware.info#@#.cookiecontainer:not(body):not(html)
 imagesbase.ru#@#.adsbygoogle
@@ -29,3 +28,4 @@ new.pikabu.ru#@#.story:if-not(.story__author)
 nextcloud.com#@#.bannerhead
 pikabu.ru#@#.page-story > .story:if(.story__header-additional-wrapper > .story__tags:has-text(реклама))
 toolslib.net#@#.col-md-6
+www.eurweb.com#@#[style] > iframe

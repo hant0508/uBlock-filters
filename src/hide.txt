@@ -161,6 +161,7 @@ etalon-bt.ru##.container.main > .clearfix > .catalog > .catalog_block_left > .cl
 etalon-bt.ru##.container.main > .clearfix > .layout-column-single > .clearfix.bs-slider
 euroki.net##.bg_main > .main > .one_page.content > .clearfix > .send_error
 euroki.net##.bg_main > .main > div:nth-of-type(9)
+eurweb.com##[id^="div-gpt-ad-"]
 ex-fs.com##.counters
 exelab.ru###bnr0
 exelab.ru###bnr1
@@ -245,6 +246,8 @@ hackzone.ru/img/promo/site-test.gif
 handscrew.ru###abdanner
 hdrezka.me##[id^="bn_"]
 hdrezka.me##div[id^="skin_"][class^="skin-block_"][style^="background-image:"]
+helpiks.org##.baner
+helpiks.org##.yandex-adaptive
 hh.ru##.vacancy-view-banners
 hh.ru##.work-in-company-banner
 hh.ru##[class^="banner-place"]
@@ -284,6 +287,7 @@ issuu.com##[class^="Reader__readerOverlay"]
 itelevisor.ru##div > .a-overlay
 izvestia.ru##[id^=unit_]
 jenyay.net###wikitext > .ad
+jerusalemonline.com##.fancybox-overlay-fixed
 journaldev.com##.kd845e-hide
 kampc-help.ru##.art-box-body.art-post-body > .art-post-inner > .art-postcontent > .art-article > center
 kampc-help.ru##.art-layout-cell.art-sidebar1 > .art-box.art-block
@@ -318,6 +322,8 @@ learnersdictionary.com##.abl-m0-t728-d728
 leeet.net###teaser_223
 lentach.media##.banner__content
 lentachel.ru##.ads
+life.ru##.arcticmodal-container
+life.ru##.arcticmodal-overlay
 lifehacker.ru##article[id^="post"] > .clearfix.entry-content > .relap-wrapper
 lifeinbooks.net##.vce-sticky
 linuxbabe.com###media_image-3 > .widget_wrap
@@ -331,6 +337,9 @@ lostfilm.hdkino.biz##.left-col > .new-album:nth-of-type(1)
 lurkmore.net###banner-left-240x200-0
 m24.ru##.b-content > .g-clearfix.g-columns > .g-columns-right
 m24.ru##.b-home-videos > .g-clearfix.g-columns > .g-columns-right
+maariv.co.il##.HorizontalCategoryArticleAndBannerFloor
+maariv.co.il##.TwoBannersFloor
+maariv.co.il##.banner-box
 mail.yandex.ru##.ns-view-messages-item-wrap:if-not(.js-messages-item-checkbox)
 maketecheasier.com##.ctContainer
 maketecheasier.com##.site-container > .after-header > [class]
@@ -594,6 +603,9 @@ spoj.com## .c300x600
 spynet.ru##iframe[src^="http://spynet.ru/1.html"]
 sredalinux.blogspot.com###HTML9 > .widget-content
 staforceteam.ru##body > div:nth-of-type(1)
+status-quote.com###HTML3
+status-quote.com##center:has(span:has-text(Adversitements))
+status-quote.com##ul:has(span:has-text(Adversitements))
 stoplinux.org.ru##.ins > .block:if(.m1:has-text(/Ads/))
 studfiles.ru##.banner_bottom_preview
 studopedia.su##.centerfon > table > tbody > tr > td:has(.adsbygoogle)
@@ -662,6 +674,8 @@ veryicon.com###content > .right_content_728
 veryicon.com###content > .right_content_728:nth-of-type(3)
 vesti.ru##.content__article__adv
 vesti.ru##.page-wrap > .main-content > .content > .adv-list_inner.adv-list
+videotoolbox.com##.adsbygoogle
+videotoolbox.com##.adv_under_menu
 viktoriastar.ru###lrb:has(.bannergroup)
 viktoriastar.ru/images/banners/
 vk.com###apps_after > .page_block:nth-of-type(1)
@@ -700,6 +714,7 @@ wolframalpha.com###sidebar
 wolframalpha.com###spons-bound
 wolframalpha.com###sponsor-ad
 wsturbo.net##.fullstory.base > noindex > center
+x17online.com##div[id$="externalcontainer"][style]
 yandex.ru##.distro_shown_yes
 zakharenkova.ru##.adsbyfffs
 zam.com##.sticky-container.side-rail

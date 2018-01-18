@@ -12,6 +12,7 @@
 ||abcege.easytrack.pro/b$subdocument
 ||ablbook.com/images/*.gif
 ||activeinfo.ru/ai.gif
+||ad.edugram.com$image,third-party
 ||adminvps.ru/img/banners/
 ||adminvps.ru/img/buttons/AV468x60.gif
 ||alexlarin.net/970x90*.png
@@ -77,6 +78,7 @@
 ||fileskachat.com/img/bal_1.jpg
 ||football-tv.ru/images/banner
 ||foxford.ru/uploads/materials/banners/
+||fullmatchesandshows.com/wp-content/uploads/*.gif
 ||funkyimg.com/i/*.jpg
 ||futbik.net/templates/*/*/banner/
 ||geobravo.isrageo.com/files/partner/promotion/
