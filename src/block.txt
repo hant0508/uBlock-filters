@@ -84,8 +84,10 @@
 ||geobravo.isrageo.com/files/partner/promotion/
 ||gervash.ru/wp-content/themes/QuerTheme/images/*banner.jpg
 ||gidonline.club/wp-content/themes/gidonline/js/jsbox1.js
+||gig-torrent.ru/templates/GTR/images/bn*
 ||gjirafa.com/api/media/VideoR/$xmlhttprequest
 ||gjirafa.com/api/media/VideoR/*.mp4$media,redirect=noopmp3-0.1s
+||gmt-max.net/templates/gmt-max/images/dmewep.png
 ||go4convert.com/cmi.png
 ||go4convert.com/cwf.png
 ||guruadmin.ru/hosting.gif
@@ -97,6 +99,7 @@
 ||i.qtymi.com/s/*/*.html
 ||idatz.twirpx.com/swf/*
 ||igrigo.net/uploads/mg-2.png
+||igrypk.net/uploads/link1.png
 ||imagebam.com/files/_b*.php$image
 ||img1.fanfics.me/images/banner/
 ||imgcache.bitmakler.com/*.gif
@@ -153,16 +156,20 @@
 ||nsportal.com.ua/555.png
 ||ntv.ru/smi.html
 ||payad.me/images/payadme
+||paypic.kz/734236/gsdfjfb.php
 ||pbs.twimg.com/profile_banners/
 ||pcpro100.info/wp-content/themes/pcpro
 ||php-zametki.ru/images/banner
 ||php-zametki.ru/images/banner*.gif
+||playzona.org/uploads/*/*banner*
 ||pornhub.com^$third-party
 ||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
 ||programmersforum.ru/anim*.gif
 ||prostolinux.ru/wp-content/bn/ihor.gif
 ||proxy6.net/static/img/b/
+||psp-gu.ru/templates/KinoRip-utf8-102/images/ckachat_igru_vnizu.png
+||psp-gu.ru/templates/KinoRip-utf8-102/images/ckachat_new_mediaget.png
 ||real-game.net/cooper/splitter.php
 ||red.tingrinter.com/
 ||reklama*.ngs.ru/
@@ -177,6 +184,8 @@
 ||ru.solverbook.com/wp-content/themes/solverbook/img/*.gif
 ||ruseller.com/img/PHPb.jpg
 ||rustorka.com/forum/images/avatars/
+||rutorrent.co/templates/rutorent/images/4600.png
+||rutorrent.co/templates/rutorent/images/b2*
 ||s3.amazonaws.com/disconnect-images/images/search/*Premium*.png
 ||savoy.cubecdn.net/*.jpg
 ||semestr.ru/images/foxford/
@@ -202,6 +211,10 @@
 ||theindependent.co.zw/wp-content/uploads/2015/12/13121B-ZB-Home-Improvements_ZimInd-*.jpg
 ||tonymolystore.ru/2.2.3.gif
 ||torentor.co/templates/torentor/images/bublessss.png
+||torrent-world.ru/uploads/knop.png
+||torrent10.ru/uploads/fast-speed.png
+||torrent10.ru/uploads/load-med.png
+||torrents-game.net/wp-content/themes/torrent/b/
 ||transkart.ru/111/img/TIC_Excursion.gif
 ||transkart.ru/111/img/banner
 ||tv-torrent.club/123.png
@@ -222,6 +235,7 @@
 ||webmath.ru/images/ban.swf
 ||webmath.ru/images/webmath_240_400_homework.jpg
 ||whoer.net/images/*.gif
+||winstation.ru/templates/main/images/1-button.gif
 ||wsturbo.net/*.gif
 ||www.proficinema.ru/images/bg_mamy.jpg
 ||yandex.st/uefa16-frontend/1.0.30/i/extra/yabro/
