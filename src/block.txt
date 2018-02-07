@@ -76,6 +76,7 @@
 ||fightforthefuture.github.io/countdown-widget/iframe/banner.html
 ||files.mastersland.com/pic/*banner*
 ||fileskachat.com/img/bal_1.jpg
+||filmitorrentom.org/img/amg.png
 ||football-tv.ru/images/banner
 ||foxford.ru/uploads/materials/banners/
 ||fullmatchesandshows.com/wp-content/uploads/*.gif
@@ -108,6 +109,8 @@
 ||keys.edufuture.biz/images/office-reform.jpg
 ||kingisepp-today.ru/images/banner/
 ||kingisepp.ru/images/banner/
+||kinoframe.tv/img/mediaget.png
+||kinogb.club/uploads/zzz/premium_kinogb.png
 ||kinogb.me/uploads/zzz/premium_kinogb.png
 ||kontromat.ru/imag/150-100-vsesdal.gif
 ||kotovski.net/wp-content/uploads/*banner*
@@ -140,6 +143,7 @@
 ||mngz.ru/templates/Mangazeya/images/md.jpg
 ||mngz.ru/uploads/rek/
 ||moeobrazovanie.ru/*/*/*/asd*
+||moscowchanges.ru/wp-content/uploads/2017/11/Banner*
 ||mp3.cc/public/api.iframe.php
 ||mparker.ru/images/banners
 ||my-files.ru/Content/Banners/
@@ -174,6 +178,7 @@
 ||red.tingrinter.com/
 ||reklama*.ngs.ru/
 ||reshimvse.com/artadmin/$image
+||restaurants.infcdn.net/img/fdm728.gif
 ||roadtomoney.ru/wp-content/uploads/*.gif
 ||robo-host.ru/banner
 ||rsload.net/images*/downasd*.png
@@ -238,6 +243,7 @@
 ||winstation.ru/templates/main/images/1-button.gif
 ||wsturbo.net/*.gif
 ||www.proficinema.ru/images/bg_mamy.jpg
+||x-torrent.pro/img/732x92*
 ||yandex.st/uefa16-frontend/1.0.30/i/extra/yabro/
 ||yobit.net/imgban/
 ||youpk.ru/wp-content/*/banner

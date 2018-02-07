@@ -183,6 +183,7 @@ fb.ru##.rollup.fsb
 fcbarcelona.cat###site-header__ads
 festival.1september.ru###body-side-right
 file.liga.net##.site-block.news_from_partners_block
+filmitorrentom.org##.coinhive-miner
 filyanin.ru###art-main > .art-sheet > .art-sheet-body > .art-content-layout > .art-content-layout-row > .art-sidebar1.art-layout-cell > .art-block
 finmarket.ru###pl45_ban72
 finmarket.ru###pl46_ban45
@@ -212,6 +213,7 @@ funpic.us##.banner
 furfur.me###fixed-sidebar
 furfur.me##.app-content.page-content > .main-row.row > .row-cont > .app-content.content > .post > .pseudosidebar
 futbik.net##table > tbody > tr > td[onclick^="window.open('http"][style]
+galeri.uludagsozluk.com##.elidordiv
 game01.ru##.branding > .content > .inner:nth-of-type(2) > .gamePage > .gameTop > .rightBanner
 game01.ru##[class$="BannerWrap"]
 gamebomb.ru##.container-content.container-light
@@ -255,6 +257,8 @@ grani.ru###main-inner > .clearfix.main-text > .ad-240x400
 grani.ru###other-links
 graph.reshish.ru###rightSide
 gtmarket.ru###main > .main-cnt > section > .node > .t-a > tbody > tr > .t-f-a
+gubdaily.ru##.code-block
+gubdaily.ru##.leader-wrap-in
 gunsamerica.com##.logclick
 habrahabr.ru##.html_banner_wrap
 habrahabr.ru##.js-ad_sticky
@@ -319,6 +323,8 @@ kingisepp-today.ru###framemaster
 kingisepp-today.ru###top-master-wrapper
 kingisepp-today.ru##.elite_vp_videoPlayerAD
 kinobaza.tv###fast-feedback-btn
+kinoframe.tv##.coinhive-miner
+kinogb.club##.bilet-ploski
 kinogb.me##.bilet-premium
 kinogb.me##.plz-norec
 kinogb.net###fehu-content > .statics > .dwnl-osn > .dwnl-right
@@ -365,6 +371,8 @@ m24.ru##.b-home-videos > .g-clearfix.g-columns > .g-columns-right
 maariv.co.il##.HorizontalCategoryArticleAndBannerFloor
 maariv.co.il##.TwoBannersFloor
 maariv.co.il##.banner-box
+mail.yandex.ru##.mail-Layout-Content > div:has(div > a[target]:has-text(/^Реклама$/)):has(div > svg[width="8px"])
+mail.yandex.ru##.ns-view-left-box > div:has(div > a[target]:has-text(/^Реклама$/))
 mail.yandex.ru##.ns-view-messages-item-wrap:if-not(.js-messages-item-checkbox)
 maketecheasier.com##.ctContainer
 maketecheasier.com##.site-container > .after-header > [class]
@@ -418,10 +426,14 @@ mngz.ru###side > .dslinks-block
 mngz.ru###side > .yodofix
 mngz.ru###side > a[href^="http://"]
 mngz.ru###side > noindex > div > span
+mobdisc.com##.b-rec
 moeobrazovanie.ru###adapt-wrapper > .aside > .filler.puzzle
 moeobrazovanie.ru###adapt-wrapper > .bgLeftExcessBlock[href^="/go/"]
 moeobrazovanie.ru###adapt-wrapper > .headBn.puzzle
 momentmag.com###sidebar > [id^="text-"]
+moscowchanges.ru##.banner
+moscowchanges.ru##.l-site-body__ear-banners-container
+moscowchanges.ru##a[href="http://smi2.ru/"]
 moscowwriters.ru##body > table:nth-of-type(2)
 moskva.fm##.aside-ad-horizontal
 moskva.fm##.aside-ad-vertical
@@ -461,6 +473,8 @@ newinform.com##[id^="smi_teaser"]
 newkaliningrad.ru###page-buffer > .container > .row > .col-main > .pr-600
 newkaliningrad.ru###page-buffer > .container > .row > .col-side
 newkaliningrad.ru##.modal, .fade, .in
+news-front.info##.banersFooter
+news-front.info##.bannerHeader
 news-kmv.ru##img[alt="реклама"]
 news.rambler.ru##.top-main__banner
 news.sportbox.ru##[class*="advertis"]
@@ -631,6 +645,7 @@ softpedia.com##.ad
 softpedia.com##.adwblue
 softrew.ru##.main-center-block > .content-block > .shad > .shad-top > .shad-bottom > .right-col > .right-block:nth-of-type(5)
 softrew.ru##.main-center-block > .content-block > .shad > .shad-top > .shad-bottom > .right-col > .right-block:nth-of-type(6)
+solarmoviez.ru##.content-sponsor
 song-pad.ru##[id^="teaser"]
 sospc.name##.vce_adsense_widget
 sourceforge.net###banner-sterling
@@ -728,6 +743,7 @@ videotoolbox.com##.adv_under_menu
 viktoriastar.ru###lrb:has(.bannergroup)
 viktoriastar.ru/images/banners/
 vk.com###apps_after > .page_block:nth-of-type(1)
+vokrug.tv##.videobomba
 vokrugsveta.ru###sape_links
 vokrugsveta.ru##.aside
 vokrugsveta.ru##.tgb-box
@@ -766,6 +782,7 @@ wolframalpha.com###sidebar
 wolframalpha.com###spons-bound
 wolframalpha.com###sponsor-ad
 wsturbo.net##.fullstory.base > noindex > center
+x-torrent.pro##.amigo
 x17online.com##div[id$="externalcontainer"][style]
 xatab-repack.net##.block:has(.b_in > div > a[rel] > img)
 yandex.ru##.distro_shown_yes
