@@ -4,5 +4,6 @@ goodfilm.top##^script:has-text(advertserve.com)
 tapochek.net##^script:has-text(MTcityAds)
 ||eurweb.com^$csp=script-src 'self' * 'unsafe-inline'
 ||freewarefiles.com^$csp=script-src 'self' * 'unsafe-inline'
+||russkiiyazyk.ru^$csp=script-src 'self' * 'unsafe-inline'
 ||spellcheck.net^$csp=script-src 'self' * 'unsafe-inline'
 ||spellweb.com^$csp=script-src 'self' * 'unsafe-inline'

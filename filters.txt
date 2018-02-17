@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.3
+! Version: 3.9.4
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -101,6 +101,7 @@ goodfilm.top##^script:has-text(advertserve.com)
 tapochek.net##^script:has-text(MTcityAds)
 ||eurweb.com^$csp=script-src 'self' * 'unsafe-inline'
 ||freewarefiles.com^$csp=script-src 'self' * 'unsafe-inline'
+||russkiiyazyk.ru^$csp=script-src 'self' * 'unsafe-inline'
 ||spellcheck.net^$csp=script-src 'self' * 'unsafe-inline'
 ||spellweb.com^$csp=script-src 'self' * 'unsafe-inline'
 
@@ -118,6 +119,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||chersbaringli1978.tumblr.com^
 ||clickpays24.net^
 ||delta-search.com^
+||dl20.nonamefilescc19.name^
 ||dle01.freesoftt2cc.name^
 ||dle30.sofftportall9nn.info^
 ||download-amigo.com^
@@ -148,6 +150,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||highletohor1980.tumblr.com^
 ||hilllac3860.jugem.jp^
 ||hivxffti.oagroup.info^
+||ijyxicahiluwimow.xpg.uol.com.br^
 ||infinityscalper.ru.com^
 ||kandibar.ru^
 ||kareliyarsp.ru^
@@ -157,6 +160,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||lexclub.ru^
 ||litmirs.pp.ru^
 ||loadinng2cc.name^
+||loadsbest.ru^
 ||misterjoy.ru^
 ||mnn0gofilueus.dvvarf.pp.ua^
 ||mona-vi.ru^
@@ -167,6 +171,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||pdf-knigi.com^
 ||pdf.pp.ru^
 ||pdflookgdhy.files.wordpress.com^
+||pdftds.ru^
 ||peceqi.meda-21.ru^
 ||phone8.ru^
 ||pilabu.ru^
@@ -193,6 +198,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||webindicator.ru^
 ||well-men.ru^
 ||wokjh.c23f3gte.radisol.org^
+||ww7we.pro^
 ||x002xx.ru^
 ||xiby.ru^
 ||yamdex.net^
@@ -339,6 +345,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||mathwarehouse.com/images/icons/penjee/*.gif
 ||megahead.ru/images/146.png
 ||megarand.ru/images/banner.png
+||mexalib.com/ami_go_gray.png
 ||mirknig.su/module.php
 ||mirtochtonado.ru/seo.html
 ||mngz.ru/templates/Mangazeya/images/60pl-280px.gif
@@ -446,6 +453,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||wsturbo.net/*.gif
 ||www.proficinema.ru/images/bg_mamy.jpg
 ||x-torrent.pro/img/732x92*
+||y2mate.com/upload/2.gif
 ||yandex.st/uefa16-frontend/1.0.30/i/extra/yabro/
 ||yobit.net/imgban/
 ||youpk.ru/wp-content/*/banner
@@ -520,6 +528,7 @@ articulos.softonic.com###popup-newsletter-article
 articulos.softonic.com##.ov_opened.ov_modal_bkgnd_layer
 asciichars.com##.src\=.async.content-dynamic-ga-ad-responsive\>\<script
 author24.ru##.m-popup
+avto-flot.ru##.path__container
 ayu.ru##.baner-top
 babla.ru##.ad
 babla.ru##.info-wrapper
@@ -614,6 +623,7 @@ ecosystema.ru##table > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > noindex
 ecosystema.ru##table > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > noindex:nth-of-type(1)
 ecosystema.ru##table > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > table > tbody > tr > td > noindex:nth-of-type(4) > form > div > center > p:nth-of-type(3)
 ecosystema.ru##table > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > table > tbody > tr > td > noindex:nth-of-type(4) > form > div > center > p:nth-of-type(4)
+efremova.info##.contents:has(.adsbygoogle)
 ege.sdamgia.ru,rus-ege.sdamgia.ru##.content > div:has(a[href*="blockadblock"])
 ege.yandex.ru##.partner-link
 ege.yandex.ru##.result-panel__banner
@@ -682,6 +692,7 @@ gamemode.club##.b24-x300
 games.mydiv.net##div[style="width:728px; height: 90px; border:#dddddd 1px solid; margin-bottom:40px;margin-top:10px;"]
 garant.ru###page > .content > .inner > .row-grid > .popup-social
 gazeta.ru###right
+gazeta.ru##.sausage.b-white:has( > .sausage-header:has-text(/^.?Новости партнеров.?$/))
 gde-ya.ru###post-11 > .entry > a[href="http://gde-ya.ru/st.php"]
 gdz-putina.me###advideo_adv
 gdz-putina.me##.games
@@ -757,6 +768,7 @@ infourok.ru###dr-push-global-wrap2
 infourok.ru##.dr-side-banner
 infourok.ru##.kr-banner-block
 innoarchitech.com##.banner-top-wrapper
+inosmi.ru###banner_full
 instagram.com##.-cx-PRIVATE-Photo__clickShield
 instagram.com##._ovg3g
 instme.com##.adv1
@@ -774,6 +786,7 @@ izvestia.ru##[id^=unit_]
 jenyay.net###wikitext > .ad
 jerusalemonline.com##.fancybox-overlay-fixed
 journaldev.com##.kd845e-hide
+joyreactor.cc###pageinner > #content:has(> div:has-text(У вас обнаружен блокирoвщик))
 kampc-help.ru##.art-box-body.art-post-body > .art-post-inner > .art-postcontent > .art-article > center
 kampc-help.ru##.art-layout-cell.art-sidebar1 > .art-box.art-block
 kanobu.ru##.fluid-banner
@@ -938,6 +951,7 @@ news-kmv.ru##img[alt="реклама"]
 news.rambler.ru##.top-main__banner
 news.sportbox.ru##[class*="advertis"]
 news.vse42.ru##div[data-adplace-inited="true"]
+news.yandex.ru##.profit_drawn_yes
 newslab.ru##.yandex-ad-wrapper
 newsru.com###stakan
 nixp.ru###nixp > .trueoffice_cpg.trueoffice
@@ -977,6 +991,9 @@ parta.com.ua###left_menu > div:nth-of-type(7)
 pastebin.com###abrpm
 paustovskiy.niv.ru###tab_scroll_blok > .tmpl_table > tbody
 paustovskiy.niv.ru##[id*="_ban_"]
+pb.wtf###main_content > div[id]:nth-of-type(1):not([class])
+pb.wtf###topics_maine > tbody:not([id]):has-text(Рекламный пират)
+pb.wtf##thead > .hidden-sm.hidden-xs:has(> th > span:has-text(/^Реклама$/))
 pc-torrents.net##.full-bac.rkl-box
 pcpro100.info###block_r
 pdalife.ru##.horizontalBanner
@@ -1078,6 +1095,7 @@ samorob.com.ua##.mgbox
 school.xvatit.com###slider1
 school.xvatit.com##div[style="float: left;width: 340px; height:305px;/*border: 1px dashed #95d4e2;*/ background-color: #fff;"]
 search.disconnect.me###premium-protection
+sendanonymousemail.net##td:has(> script:has-text(google_ad))
 seoxa.club###rotator
 seoxa.club##.funbox.sectionMain
 seoxa.club##.theshit_top
@@ -1248,6 +1266,7 @@ yandex.ru##.distro_shown_yes
 zakharenkova.ru##.adsbyfffs
 zam.com##.sticky-container.side-rail
 zerocoolpro.biz##.funbox
+zhkh-service.ru##.ads
 znak.com##figure
 znak.com##main > .x1.column.flex:nth-of-type(1) > .st
 znanija.com##.brn-ads-box

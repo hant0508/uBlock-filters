@@ -137,6 +137,7 @@
 ||mathwarehouse.com/images/icons/penjee/*.gif
 ||megahead.ru/images/146.png
 ||megarand.ru/images/banner.png
+||mexalib.com/ami_go_gray.png
 ||mirknig.su/module.php
 ||mirtochtonado.ru/seo.html
 ||mngz.ru/templates/Mangazeya/images/60pl-280px.gif
@@ -244,6 +245,7 @@
 ||wsturbo.net/*.gif
 ||www.proficinema.ru/images/bg_mamy.jpg
 ||x-torrent.pro/img/732x92*
+||y2mate.com/upload/2.gif
 ||yandex.st/uefa16-frontend/1.0.30/i/extra/yabro/
 ||yobit.net/imgban/
 ||youpk.ru/wp-content/*/banner
