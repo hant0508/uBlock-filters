@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.4
+! Version: 3.9.5
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -116,6 +116,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||blogport.ru^
 ||bromigo.pw^
 ||browser17.trade^
+||chachatool.com^
 ||chersbaringli1978.tumblr.com^
 ||clickpays24.net^
 ||delta-search.com^
@@ -125,11 +126,13 @@ tapochek.net##^script:has-text(MTcityAds)
 ||download-amigo.com^
 ||e-pay.club^
 ||e-pay.tv^
+||eelrt.freeweb.pk^
 ||etofirma36.pp.ua^
 ||eworkshop.ru^
 ||ex1rs.com^
 ||extrabase.ru^
 ||factor-vesa.net^
+||fastfilez.ru^
 ||fed2.ru^
 ||fiilueportal.dvvarf.pp.ua^
 ||file.freeddns.org^
@@ -154,6 +157,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||infinityscalper.ru.com^
 ||kandibar.ru^
 ||kareliyarsp.ru^
+||kigak8b9c.narod.ru^
 ||kyrenie.magbraslet.top^
 ||lapala.cl^
 ||lbvxzfut.cba.pl^
@@ -171,6 +175,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||pdf-knigi.com^
 ||pdf.pp.ru^
 ||pdflookgdhy.files.wordpress.com^
+||pdfmythcl.files.wordpress.com^
 ||pdftds.ru^
 ||peceqi.meda-21.ru^
 ||phone8.ru^
@@ -186,6 +191,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||spenlobubestgas.files.wordpress.com^
 ||styleous.ru^
 ||swhpgjkl.kyty.net^
+||tannaugh.cba.pl^
 ||tyrellno.net63.net^
 ||vid.x-casino.net^
 ||viniki.ru^
@@ -198,6 +204,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||webindicator.ru^
 ||well-men.ru^
 ||wokjh.c23f3gte.radisol.org^
+||ww6dd.pro^
 ||ww7we.pro^
 ||x002xx.ru^
 ||xiby.ru^
@@ -408,6 +415,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||server-rotation.ru/media/upload/ban/*
 ||sitehere.ru/inmymoney/pdf-otchet/*.png
 ||socialkit.ru/sk.gif
+||softportal.com/img/sport.png
 ||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
 ||ss.nzbstars.com.xxxnavy.com/advertisement.js
 ||st.fotocdn.net/base/img/bg_black_50.png
@@ -445,6 +453,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||videouroki.net/*/*/*.gif
 ||videouroki.net/*banner
 ||videouroki.net/img/look/bestforteacherstop.jpg
+||visualead.com/app/webroot/pages_ads/
 ||vladmaxi.net/uploads/*/*/banner*.gif
 ||webmath.ru/images/ban.swf
 ||webmath.ru/images/webmath_240_400_homework.jpg
@@ -654,6 +663,7 @@ festival.1september.ru###body-side-right
 file.liga.net##.site-block.news_from_partners_block
 filmitorrentom.org##.coinhive-miner
 filyanin.ru###art-main > .art-sheet > .art-sheet-body > .art-content-layout > .art-content-layout-row > .art-sidebar1.art-layout-cell > .art-block
+financemagnates.com###article__banner--desktop
 finmarket.ru###pl45_ban72
 finmarket.ru###pl46_ban45
 fiz.1september.ru###menu
@@ -869,6 +879,7 @@ math.semestr.ru##.adsbygoogle
 math1.ru##.onlytext
 mathportal.net###footer-inner
 mathprofi.ru##noindex > table[cellspacing="5"]
+matrixcalc.org##.ads-container
 mebeles-lv.ucoz.lv##p > a[href^="https://vk.com/"]
 medialeaks.ru##.bottom-banner
 mediazavod.ru##[id^="tx_banner"]
@@ -937,6 +948,7 @@ nat-geo.ru##[class*="js-banner-tgb-article"]
 new.main-rutor.org###up
 new.pikabu.ru##.story:has(.story__left_sponsor)
 new.pikabu.ru##.story:has(.yandex-direct)
+new.pikabu.ru##.yandex-direct
 new.pikabu.ru##^.story:has(.story__left_sponsor)
 new.pikabu.ru##^script:has-text(counter.yadro.ru)
 new.pikabu.ru##^script:has-text(doubleclick.net)
@@ -975,6 +987,7 @@ ololo.fm##.content > .col_1 > .block2:nth-of-type(34)
 oniksfly.md8.ru##body > div:nth-of-type(1)
 onlineguru.ru###ban240x400
 onlineguru.ru###jointNew
+onlinemschool.com##[id^="oms_"]:has( > .adsbygoogle)
 openssource.biz##.banner_after_comment
 openssource.biz##.block_left
 openssource.biz##.block_right
@@ -1094,6 +1107,7 @@ russian7.ru###bannerCT-2
 samorob.com.ua##.mgbox
 school.xvatit.com###slider1
 school.xvatit.com##div[style="float: left;width: 340px; height:305px;/*border: 1px dashed #95d4e2;*/ background-color: #fff;"]
+sciencedaily.com##.unit1
 search.disconnect.me###premium-protection
 sendanonymousemail.net##td:has(> script:has-text(google_ad))
 seoxa.club###rotator
@@ -1120,6 +1134,7 @@ socratify.net##[class^="b-adsense"]
 soft.mydiv.net###softtopad
 softpedia.com##.ad
 softpedia.com##.adwblue
+softportal.com###tdDlLinksWrapper > table > tbody > tr > td[style]:has(div > div[data-gyzd-soeu])
 softrew.ru##.main-center-block > .content-block > .shad > .shad-top > .shad-bottom > .right-col > .right-block:nth-of-type(5)
 softrew.ru##.main-center-block > .content-block > .shad > .shad-top > .shad-bottom > .right-col > .right-block:nth-of-type(6)
 solarmoviez.ru##.content-sponsor
@@ -1248,6 +1263,7 @@ wifeporn.de##[id^="banner"]
 wiki.eduvdom.com##.dokuwiki > .page > .level1 > .table.sectionedit2
 wiki.eduvdom.com##.dokuwiki > .page > .level1 > .table.sectionedit3
 wiki.eduvdom.com##.dokuwiki > div:nth-of-type(2)
+windowserror.ru###sidebar-primary
 windowsfaq.ru##.container > tbody > tr > .maincolumn > div:nth-of-type(1)
 windxp.com.ru###fixblock > .del:nth-of-type(1)
 winstation.ru###amgo

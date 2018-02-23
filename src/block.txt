@@ -200,6 +200,7 @@
 ||server-rotation.ru/media/upload/ban/*
 ||sitehere.ru/inmymoney/pdf-otchet/*.png
 ||socialkit.ru/sk.gif
+||softportal.com/img/sport.png
 ||spyware-ru.com/wp-content/uploads/*/*/adg*.*$image
 ||ss.nzbstars.com.xxxnavy.com/advertisement.js
 ||st.fotocdn.net/base/img/bg_black_50.png
@@ -237,6 +238,7 @@
 ||videouroki.net/*/*/*.gif
 ||videouroki.net/*banner
 ||videouroki.net/img/look/bestforteacherstop.jpg
+||visualead.com/app/webroot/pages_ads/
 ||vladmaxi.net/uploads/*/*/banner*.gif
 ||webmath.ru/images/ban.swf
 ||webmath.ru/images/webmath_240_400_homework.jpg
