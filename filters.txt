@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.5
+! Version: 3.9.6
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -42,6 +42,7 @@ marketgid.com#@#a[href*="marketgid.com/"]
 new.gramota.ru#@##main-sec > .block-side:last-child
 new.pikabu.ru#@#.footer__cookie:not(body):not(html)
 new.pikabu.ru#@#.story:if-not(.story__author)
+new.pikabu.ru#@#.story[data-vote="1"]
 nextcloud.com#@#.bannerhead
 pikabu.ru#@#.page-story > .story:if(.story__header-additional-wrapper > .story__tags:has-text(реклама))
 toolslib.net#@#.col-md-6
@@ -126,6 +127,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||download-amigo.com^
 ||e-pay.club^
 ||e-pay.tv^
+||ee5rr.pro^
 ||eelrt.freeweb.pk^
 ||etofirma36.pp.ua^
 ||eworkshop.ru^
@@ -340,6 +342,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||magspace.ru/uploads/_maglan/
 ||magspace.ru/uploads/_olympia/
 ||matburo.ru/Data/banner
+||matematikalegko.ru/banner/
 ||matematikalegko.ru/img/260x249handrozdvd.jpg
 ||matematikalegko.ru/img/egestudia258x360.jpg
 ||matematikalegko.ru/wp-content/themes/zeesynergie/images/258x400foxvord.jpg
@@ -382,6 +385,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||php-zametki.ru/images/banner
 ||php-zametki.ru/images/banner*.gif
 ||playzona.org/uploads/*/*banner*
+||poetrylibrary.ru/img/demo.jpg
 ||pornhub.com^$third-party
 ||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
@@ -760,6 +764,7 @@ home.webalta.ru###out-content > .col-2
 howto.mydiv.net##div[style="border:1px #EAEAEA solid; widtH:728px; height:90px; margin-top:5px; margin-bottom:38px;"]
 howto.mydiv.net##div[style="margin-top:120px;width:160px; height:600px;  bordeR:1px #eeeeee solid;"]
 howto.mydiv.net##div[style="margin-top:120px;width:160px; padding:2px; height:600px;  bordeR:1px #eeeeee solid;"]
+howtoubuntu.org##.banner.ad
 i-vd.org.ru##table > tbody > tr > td > table > tbody > tr > td > .mainfooter
 ib.mazurok.com###secondary
 ibm.com###dw-regbar
@@ -769,6 +774,11 @@ igrigo.net##.branding
 igrigo.net##.rig_con
 igrypk.net##.brand
 iknigi.net##.fullnews-body > div:has-text(/Реклама:/)
+ilbe.com###ad_comment_dummy
+ilbe.com###bannerXX
+ilbe.com###layer_left > iframe[src="about:blank"]
+ilbe.com##.mainFixedBanner
+ilbe.com##[id^="openXdummy_TTop"]
 ilibrary.ru##.r
 info.sibnet.ru##.td.main-content-right > div > a[href] > img
 infocity.az###text-6-sticky-wrapper
@@ -969,6 +979,7 @@ newsru.com###stakan
 nixp.ru###nixp > .trueoffice_cpg.trueoffice
 nnm-club.name##body > .request
 nnov.petovod.ru##.google_cont
+novayagazeta.ru##div:has( > div[data-reactroot] > div[id ^= "adfox"])
 novayagazeta.ru##div:matches-css(padding-top:30px):has([id^="adfox_"])
 ntv.ru###banner240x400
 ntv.ru###pa_header
@@ -1114,6 +1125,8 @@ seoxa.club###rotator
 seoxa.club##.funbox.sectionMain
 seoxa.club##.theshit_top
 sg-team.net##.wrapper > .wrapmid > .container > .leftcol > .rightside > .bfilms.bminpad.block
+shkola-i-my.ru##.widget_text:has(>div > p > a[href*="ozon"])
+shkola-i-my.ru##[id^="yandex_"]
 shop.huawei.ru##.webim_button
 sibnet.ru##.b-banner-under-search
 singularlabs.com###text-18.widget.widget_text
@@ -1161,6 +1174,7 @@ status-quote.com##center:has(span:has-text(Adversitements))
 status-quote.com##ul:has(span:has-text(Adversitements))
 stoplinux.org.ru##.ins > .block:if(.m1:has-text(/Ads/))
 studfiles.ru##.banner_bottom_preview
+studopedia.ru##td > table:has(noindex > center > .adsbygoogle)
 studopedia.su##.centerfon > table > tbody > tr > td:has(.adsbygoogle)
 tass.ru##.dubleBannerPlace
 tass.ru##a[href="http://smi2.ru/"]
@@ -1278,6 +1292,7 @@ wsturbo.net##.fullstory.base > noindex > center
 x-torrent.pro##.amigo
 x17online.com##div[id$="externalcontainer"][style]
 xatab-repack.net##.block:has(.b_in > div > a[rel] > img)
+xn-----7kcabveaaviuytidmy7lk.xn--p1ai##.module:has(.adsbygoogle)
 yandex.ru##.distro_shown_yes
 zakharenkova.ru##.adsbyfffs
 zam.com##.sticky-container.side-rail

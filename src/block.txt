@@ -125,6 +125,7 @@
 ||magspace.ru/uploads/_maglan/
 ||magspace.ru/uploads/_olympia/
 ||matburo.ru/Data/banner
+||matematikalegko.ru/banner/
 ||matematikalegko.ru/img/260x249handrozdvd.jpg
 ||matematikalegko.ru/img/egestudia258x360.jpg
 ||matematikalegko.ru/wp-content/themes/zeesynergie/images/258x400foxvord.jpg
@@ -167,6 +168,7 @@
 ||php-zametki.ru/images/banner
 ||php-zametki.ru/images/banner*.gif
 ||playzona.org/uploads/*/*banner*
+||poetrylibrary.ru/img/demo.jpg
 ||pornhub.com^$third-party
 ||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
