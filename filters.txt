@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.7
+! Version: 3.9.8
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -75,7 +75,6 @@ pikabu.ru##:xpath(/html/body//span[@id="right_menu"]//table[.//text()="Пром�
 pornhub.com##:xpath(/html/body//div[a[contains(@class, "adlink")]])
 velocityreviews.com##:xpath(/html/body//li[@class="message" and ./div[@class="messageAdvertising"]])
 vk.com##:xpath(/html/body//div[div[@class="_post_content" and .//div[@class="wall_marked_as_ads"]]])
-yandex.ru##:xpath(/html/body//div/div[a[./text()="Яндекс.Директ"]])
 
 ! Style rules
 4pda.ru###wrapper > div > div > div:style(background:#e6e7e9!important;)
@@ -839,6 +838,8 @@ kremllin.ru##.widget_ad_with_out_border
 kritika24.ru###right-column1
 kritika24.ru###right-column1 > center > a[href^="http://play.google.com/store/apps/details"]
 kritika24.ru##.netv
+krov.expert##.flat_ads_block
+krov.expert##.pure-u-md-1-2.pure-u-sm-1-2.pure-u-1
 ksenia.8m.com###sideFrame
 kv.by###block-block-116
 laptop-info.ru###page > .container-inner > div > .banners
@@ -970,6 +971,7 @@ news.rambler.ru##.top-main__banner
 news.sportbox.ru##[class*="advertis"]
 news.vse42.ru##div[data-adplace-inited="true"]
 news.yandex.ru##.profit_drawn_yes
+news.yandex.ru##div:has( > div > div[lang]:has-text(Яндекс.Директ))
 newslab.ru##.yandex-ad-wrapper
 newsru.com###stakan
 nixp.ru###nixp > .trueoffice_cpg.trueoffice

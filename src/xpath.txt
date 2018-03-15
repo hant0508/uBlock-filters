@@ -8,4 +8,3 @@ pikabu.ru##:xpath(/html/body//span[@id="right_menu"]//table[.//text()="Пром�
 pornhub.com##:xpath(/html/body//div[a[contains(@class, "adlink")]])
 velocityreviews.com##:xpath(/html/body//li[@class="message" and ./div[@class="messageAdvertising"]])
 vk.com##:xpath(/html/body//div[div[@class="_post_content" and .//div[@class="wall_marked_as_ads"]]])
-yandex.ru##:xpath(/html/body//div/div[a[./text()="Яндекс.Директ"]])
