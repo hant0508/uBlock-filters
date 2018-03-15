@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.6
+! Version: 3.9.7
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -99,6 +99,9 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 freewarefiles.com##^script:has-text(sponsoredwellcontainertop)
 goodfilm.top##^script:has-text(AD_DOMAIN_URL_SYS)
 goodfilm.top##^script:has-text(advertserve.com)
+pikabu.ru##^script:has-text(counter.yadro.ru)
+pikabu.ru##^script:has-text(doubleclick.net)
+pikabu.ru##^script:has-text(mc.yandex.ru)
 tapochek.net##^script:has-text(MTcityAds)
 ||eurweb.com^$csp=script-src 'self' * 'unsafe-inline'
 ||freewarefiles.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -956,13 +959,10 @@ nat-geo.ru###widget-collection-overlay
 nat-geo.ru##.grid-cell--shadow.grid-cell--3banner.grid-cell--3.grid-cell.js-banner-stretch
 nat-geo.ru##[class*="js-banner-tgb-article"]
 new.main-rutor.org###up
-new.pikabu.ru##.story:has(.story__left_sponsor)
-new.pikabu.ru##.story:has(.yandex-direct)
-new.pikabu.ru##.yandex-direct
-new.pikabu.ru##^.story:has(.story__left_sponsor)
-new.pikabu.ru##^script:has-text(counter.yadro.ru)
-new.pikabu.ru##^script:has-text(doubleclick.net)
-new.pikabu.ru##^script:has-text(mc.yandex.ru)
+pikabu.ru##.story:has(.story__left_sponsor)
+pikabu.ru##.story:has(.yandex-direct)
+pikabu.ru##.yandex-direct
+pikabu.ru##^.story:has(.story__left_sponsor)
 newinform.com##[id^="smi_teaser"]
 newkaliningrad.ru###page-buffer > .container > .row > .col-main > .pr-600
 newkaliningrad.ru###page-buffer > .container > .row > .col-side
@@ -1025,9 +1025,6 @@ petrograd.biz,petroleks.ru##table > tbody > tr > td[width="15%"][valign="top"][a
 photobucket.com###adBlockMessaging
 physics.ru##body > noindex:nth-of-type(2)
 physics.ru##body > noindex:nth-of-type(3) > table > tbody > tr:nth-of-type(5)
-pikabu.ru##.ad-reset
-pikabu.ru##.b-page-header-v2 > span > a > div
-pikabu.ru##.story:if-not(.story__author)
 playback.fm##.banner
 playzona.org##body > .wrapper > .wrap:style(margin-top:0px!important;)
 pleer.ru##.mainBlock.pie[style="margin-bottom: 15px; "]
