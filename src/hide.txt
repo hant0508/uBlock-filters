@@ -476,10 +476,6 @@ nat-geo.ru###widget-collection-overlay
 nat-geo.ru##.grid-cell--shadow.grid-cell--3banner.grid-cell--3.grid-cell.js-banner-stretch
 nat-geo.ru##[class*="js-banner-tgb-article"]
 new.main-rutor.org###up
-pikabu.ru##.story:has(.story__left_sponsor)
-pikabu.ru##.story:has(.yandex-direct)
-pikabu.ru##.yandex-direct
-pikabu.ru##^.story:has(.story__left_sponsor)
 newinform.com##[id^="smi_teaser"]
 newkaliningrad.ru###page-buffer > .container > .row > .col-main > .pr-600
 newkaliningrad.ru###page-buffer > .container > .row > .col-side
@@ -510,6 +506,7 @@ ofirefox.ru###Mod41
 ofirefox.ru###Mod42
 ofirefox.ru###Mod43
 ogo1.ru###verBanC
+old.pikabu.ru##.story:if-not(.story__author)
 oldi.ru###wrap > .bigbanner
 ololo.fm##.content > .col_1 > .block2:nth-of-type(34)
 oniksfly.md8.ru##body > div:nth-of-type(1)
@@ -542,6 +539,10 @@ petrograd.biz,petroleks.ru##table > tbody > tr > td[width="15%"][valign="top"][a
 photobucket.com###adBlockMessaging
 physics.ru##body > noindex:nth-of-type(2)
 physics.ru##body > noindex:nth-of-type(3) > table > tbody > tr:nth-of-type(5)
+pikabu.ru##.story:has(.story__left_sponsor)
+pikabu.ru##.story:has(.yandex-direct)
+pikabu.ru##.yandex-direct
+pikabu.ru##^.story:has(.story__left_sponsor)
 playback.fm##.banner
 playzona.org##body > .wrapper > .wrap:style(margin-top:0px!important;)
 pleer.ru##.mainBlock.pie[style="margin-bottom: 15px; "]
