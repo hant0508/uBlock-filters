@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.8
+! Version: 3.9.9
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -75,6 +75,8 @@ pikabu.ru##:xpath(/html/body//span[@id="right_menu"]//table[.//text()="Пром�
 pornhub.com##:xpath(/html/body//div[a[contains(@class, "adlink")]])
 velocityreviews.com##:xpath(/html/body//li[@class="message" and ./div[@class="messageAdvertising"]])
 vk.com##:xpath(/html/body//div[div[@class="_post_content" and .//div[@class="wall_marked_as_ads"]]])
+zismo.biz##:xpath(/html/body//div[@id='ips_Posts']/div[contains(@class, 'post_block') and not(@id) and ./h3/a[contains(text(), 'Рекламный')]])
+zismo.biz##:xpath(/html/body//div[@id='ips_Posts']/div[contains(@class, 'post_block') and not(@id) and ./h3/a[contains(text(), 'Рекламный')]]/following-sibling::div[1])
 
 ! Style rules
 4pda.ru###wrapper > div > div > div:style(background:#e6e7e9!important;)
@@ -101,7 +103,9 @@ goodfilm.top##^script:has-text(advertserve.com)
 pikabu.ru##^script:has-text(counter.yadro.ru)
 pikabu.ru##^script:has-text(doubleclick.net)
 pikabu.ru##^script:has-text(mc.yandex.ru)
+rvb.ru##^script:has-text(abcdefghijklmnopqrstuvwxyz)
 tapochek.net##^script:has-text(MTcityAds)
+zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||eurweb.com^$csp=script-src 'self' * 'unsafe-inline'
 ||freewarefiles.com^$csp=script-src 'self' * 'unsafe-inline'
 ||russkiiyazyk.ru^$csp=script-src 'self' * 'unsafe-inline'
@@ -196,6 +200,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||styleous.ru^
 ||swhpgjkl.kyty.net^
 ||tannaugh.cba.pl^
+||trust-health-news.ru^
 ||tyrellno.net63.net^
 ||vid.x-casino.net^
 ||viniki.ru^
@@ -241,6 +246,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||allsport-news.net/leon.gif
 ||alma-ata.cf/*.html
 ||altwall.net/images/b/
+||artmarker.ru/banner*
 ||ayu.ru/bannerUploads/
 ||beebom.redkapmedia.netdna-cdn.com/wp-content/uploads/*/Hiring.png
 ||belmathematics.by/images/mesto.gif
@@ -380,6 +386,7 @@ tapochek.net##^script:has-text(MTcityAds)
 ||no-viruses.ru/frt.jpg
 ||nsportal.com.ua/555.png
 ||ntv.ru/smi.html
+||ozhegov.textologia.ru/templates/img/fon_bnr_cap.gif
 ||payad.me/images/payadme
 ||paypic.kz/734236/gsdfjfb.php
 ||pbs.twimg.com/profile_banners/
@@ -1089,6 +1096,8 @@ reshimvse.com###add
 reshimvse.com###right_block_add
 reshinfo.com###sidebarL
 resolventa.ru###parent_popup
+reviews.ru###banner990
+reviews.ru###banner_right_336_280
 rg-mechanics.org##center:has-text(/Реклама/)
 rg.ru##.banner-240x400
 rmprepusb.com##.sites-cookie-notice-fit
@@ -1124,12 +1133,14 @@ sendanonymousemail.net##td:has(> script:has-text(google_ad))
 seoxa.club###rotator
 seoxa.club##.funbox.sectionMain
 seoxa.club##.theshit_top
+setphone.ru##.vce_adsense_wrapper
 sg-team.net##.wrapper > .wrapmid > .container > .leftcol > .rightside > .bfilms.bminpad.block
 shkola-i-my.ru##.widget_text:has(>div > p > a[href*="ozon"])
 shkola-i-my.ru##[id^="yandex_"]
 shop.huawei.ru##.webim_button
 sibnet.ru##.b-banner-under-search
 singularlabs.com###text-18.widget.widget_text
+sintetiki.net##.gofollow
 sitehere.ru###ehu-bar
 sitehere.ru##.bn360anim-pagespeed
 sitehere.ru##.in > .cf.single-content.post-content.content-wrapper > .sidebar > .widget > .bn360anim-pagespeed
@@ -1208,6 +1219,7 @@ torrent3.ru##.text-holder > .loading
 torrentor.org##.dtre11
 tproger.ru###main_columns > .between_posts_ad
 tproger.ru##[id^="bl_google_ads"]
+translit-online.ru###b2
 trashbox.ru###div_page_right > aside > .table_center > div > .adnobg.center
 trendymen.ru##.ban300x600
 trendymen.ru##.head-banner-wrapper
@@ -1294,10 +1306,12 @@ x17online.com##div[id$="externalcontainer"][style]
 xatab-repack.net##.block:has(.b_in > div > a[rel] > img)
 xn-----7kcabveaaviuytidmy7lk.xn--p1ai##.module:has(.adsbygoogle)
 yandex.ru##.distro_shown_yes
+za.pinterest.com###desktopWrapper > div > div > div > div[data-test-giftwrap]
 zakharenkova.ru##.adsbyfffs
 zam.com##.sticky-container.side-rail
 zerocoolpro.biz##.funbox
 zhkh-service.ru##.ads
+zismo.biz##.bbc_img
 znak.com##figure
 znak.com##main > .x1.column.flex:nth-of-type(1) > .st
 znanija.com##.brn-ads-box

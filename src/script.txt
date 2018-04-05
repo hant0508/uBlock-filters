@@ -4,7 +4,9 @@ goodfilm.top##^script:has-text(advertserve.com)
 pikabu.ru##^script:has-text(counter.yadro.ru)
 pikabu.ru##^script:has-text(doubleclick.net)
 pikabu.ru##^script:has-text(mc.yandex.ru)
+rvb.ru##^script:has-text(abcdefghijklmnopqrstuvwxyz)
 tapochek.net##^script:has-text(MTcityAds)
+zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||eurweb.com^$csp=script-src 'self' * 'unsafe-inline'
 ||freewarefiles.com^$csp=script-src 'self' * 'unsafe-inline'
 ||russkiiyazyk.ru^$csp=script-src 'self' * 'unsafe-inline'

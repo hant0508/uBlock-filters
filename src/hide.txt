@@ -607,6 +607,8 @@ reshimvse.com###add
 reshimvse.com###right_block_add
 reshinfo.com###sidebarL
 resolventa.ru###parent_popup
+reviews.ru###banner990
+reviews.ru###banner_right_336_280
 rg-mechanics.org##center:has-text(/Реклама/)
 rg.ru##.banner-240x400
 rmprepusb.com##.sites-cookie-notice-fit
@@ -642,12 +644,14 @@ sendanonymousemail.net##td:has(> script:has-text(google_ad))
 seoxa.club###rotator
 seoxa.club##.funbox.sectionMain
 seoxa.club##.theshit_top
+setphone.ru##.vce_adsense_wrapper
 sg-team.net##.wrapper > .wrapmid > .container > .leftcol > .rightside > .bfilms.bminpad.block
 shkola-i-my.ru##.widget_text:has(>div > p > a[href*="ozon"])
 shkola-i-my.ru##[id^="yandex_"]
 shop.huawei.ru##.webim_button
 sibnet.ru##.b-banner-under-search
 singularlabs.com###text-18.widget.widget_text
+sintetiki.net##.gofollow
 sitehere.ru###ehu-bar
 sitehere.ru##.bn360anim-pagespeed
 sitehere.ru##.in > .cf.single-content.post-content.content-wrapper > .sidebar > .widget > .bn360anim-pagespeed
@@ -726,6 +730,7 @@ torrent3.ru##.text-holder > .loading
 torrentor.org##.dtre11
 tproger.ru###main_columns > .between_posts_ad
 tproger.ru##[id^="bl_google_ads"]
+translit-online.ru###b2
 trashbox.ru###div_page_right > aside > .table_center > div > .adnobg.center
 trendymen.ru##.ban300x600
 trendymen.ru##.head-banner-wrapper
@@ -812,10 +817,12 @@ x17online.com##div[id$="externalcontainer"][style]
 xatab-repack.net##.block:has(.b_in > div > a[rel] > img)
 xn-----7kcabveaaviuytidmy7lk.xn--p1ai##.module:has(.adsbygoogle)
 yandex.ru##.distro_shown_yes
+za.pinterest.com###desktopWrapper > div > div > div > div[data-test-giftwrap]
 zakharenkova.ru##.adsbyfffs
 zam.com##.sticky-container.side-rail
 zerocoolpro.biz##.funbox
 zhkh-service.ru##.ads
+zismo.biz##.bbc_img
 znak.com##figure
 znak.com##main > .x1.column.flex:nth-of-type(1) > .st
 znanija.com##.brn-ads-box
