@@ -979,6 +979,7 @@ news.sportbox.ru##[class*="advertis"]
 news.vse42.ru##div[data-adplace-inited="true"]
 news.yandex.ru##.profit_drawn_yes
 news.yandex.ru##div:has( > div > div[lang]:has-text(Яндекс.Директ))
+news.yandex.ru##div[id^="uniq"]
 newslab.ru##.yandex-ad-wrapper
 newsru.com###stakan
 nixp.ru###nixp > .trueoffice_cpg.trueoffice
