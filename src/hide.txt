@@ -813,10 +813,14 @@ wolframalpha.com###sidebar
 wolframalpha.com###spons-bound
 wolframalpha.com###sponsor-ad
 wsturbo.net##.fullstory.base > noindex > center
+www.yandex.ru##.ti__Gn > div:has(div > div:matches-css(background-image: /^url\("https://yastatic.net/www/_//))
 x-torrent.pro##.amigo
 x17online.com##div[id$="externalcontainer"][style]
 xatab-repack.net##.block:has(.b_in > div > a[rel] > img)
 xn-----7kcabveaaviuytidmy7lk.xn--p1ai##.module:has(.adsbygoogle)
+xn--i1abbnckbmcl9fb.xn--p1ai###myCarousel
+xn--i1abbnckbmcl9fb.xn--p1ai##.offOnMobile.no-print
+xn--i1abbnckbmcl9fb.xn--p1ai##[src^="/img/adv/"]
 yandex.ru##.distro_shown_yes
 za.pinterest.com###desktopWrapper > div > div > div > div[data-test-giftwrap]
 zakharenkova.ru##.adsbyfffs
