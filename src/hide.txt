@@ -27,6 +27,7 @@
 320kbit.net##.bg > .tpi.ProfileCanopy--large.ProfileCanopy--withNav.ProfileCanopy
 3dnews.ru###earAds
 3dyuriki.com###wsidebar-top
+4pda.ru##body > [id] > [class] > div > div:has(> a > img:not([class])):has(div)
 5ballov.qip.ru###content > .right_sidebar > .h_block.panel
 720pizle.com##[id^="reklam"]
 8nog.com##.results.error1 > div:nth-of-type(1)
