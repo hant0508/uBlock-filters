@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.11
+! Version: 3.9.12
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -870,6 +870,8 @@ logyka.net###popup_bg
 lostfilm.hdkino.biz###dle-content > .new-album:nth-of-type(1)
 lostfilm.hdkino.biz##.left-col > .new-album:nth-of-type(1)
 lurkmore.net###banner-left-240x200-0
+m-translate.ru###jBox-overlay
+m-translate.ru##.jBox-container
 m24.ru##.b-content > .g-clearfix.g-columns > .g-columns-right
 m24.ru##.b-home-videos > .g-clearfix.g-columns > .g-columns-right
 maariv.co.il##.HorizontalCategoryArticleAndBannerFloor
