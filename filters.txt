@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.13
+! Version: 3.9.14
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -1044,6 +1044,7 @@ physics.ru##body > noindex:nth-of-type(2)
 physics.ru##body > noindex:nth-of-type(3) > table > tbody > tr:nth-of-type(5)
 pikabu.ru##.story:has(.story__left_sponsor)
 pikabu.ru##.story:has(.yandex-direct)
+pikabu.ru##.story:has(> .story__main > script)
 pikabu.ru##.yandex-direct
 pikabu.ru##^.story:has(.story__left_sponsor)
 playback.fm##.banner
