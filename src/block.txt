@@ -27,6 +27,7 @@
 ||beebom.redkapmedia.netdna-cdn.com/wp-content/uploads/*/Hiring.png
 ||belmathematics.by/images/mesto.gif
 ||belta.by/uploads/files/evroopt*$subdocument
+||bestcube.space/wp-content/uploads/banner_bc.png
 ||beznal.cc/*bimgs/*$image
 ||biblemenus.com/adframe
 ||bicaps.net/bicaps-bg*.jpg
@@ -175,6 +176,7 @@
 ||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
 ||programmersforum.ru/anim*.gif
+||prometheus.ru/wp-content/*/banner
 ||prostolinux.ru/wp-content/bn/ihor.gif
 ||proxy6.net/static/img/b/
 ||psp-gu.ru/templates/KinoRip-utf8-102/images/ckachat_igru_vnizu.png

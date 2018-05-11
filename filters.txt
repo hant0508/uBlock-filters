@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.12
+! Version: 3.9.13
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -251,6 +251,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||beebom.redkapmedia.netdna-cdn.com/wp-content/uploads/*/Hiring.png
 ||belmathematics.by/images/mesto.gif
 ||belta.by/uploads/files/evroopt*$subdocument
+||bestcube.space/wp-content/uploads/banner_bc.png
 ||beznal.cc/*bimgs/*$image
 ||biblemenus.com/adframe
 ||bicaps.net/bicaps-bg*.jpg
@@ -399,6 +400,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
 ||programmersforum.ru/anim*.gif
+||prometheus.ru/wp-content/*/banner
 ||prostolinux.ru/wp-content/bn/ihor.gif
 ||proxy6.net/static/img/b/
 ||psp-gu.ru/templates/KinoRip-utf8-102/images/ckachat_igru_vnizu.png
@@ -564,6 +566,7 @@ baumanki.net###rbt
 baumanki.net##.adsbygoogle
 baumanki.net##.banner468x60
 belta.by##.bans_flash
+bestcube.space###spacepush-widgets
 bestru.ru##.main_box > .rightColumn
 beznal.cc##.banners
 bicaps.net##.external
@@ -572,6 +575,7 @@ big-games.info##.top-ban
 bigpicture.ru##.arcticmodal-container
 bigpicture.ru##.arcticmodal-overlay
 bigpicture.ru##.section-main-project-link200.wrapper
+bimru.ru##.td-ss-main-sidebar
 bitcointalk.org###quickModForm > table > tbody > tr:if(span:has-text(/Advertised sites are not endorsed by the Bitcoin Forum./))
 bitmakler.com##body > center
 bl2.ru##.ui-draggable.ui-front.ui-widget-content.ui-widget.ui-corner-all.ui-dialog
@@ -911,6 +915,7 @@ medow.ru###execphp-3.widget.widget_execphp
 medow.ru###execphp-9.widget.widget_execphp
 medsovet.info###leftclck4
 medsovet.info##.ms-brand
+meduza.io##.BannerMaterial
 medzubr.ru##body > div
 medzubr.ru##body>span
 meestekas.net##.textwidget > center
@@ -937,6 +942,8 @@ mobdisc.com##.b-rec
 moeobrazovanie.ru###adapt-wrapper > .aside > .filler.puzzle
 moeobrazovanie.ru###adapt-wrapper > .bgLeftExcessBlock[href^="/go/"]
 moeobrazovanie.ru###adapt-wrapper > .headBn.puzzle
+moika78.ru##.adfox-wrap
+moika78.ru##.partner
 momentmag.com###sidebar > [id^="text-"]
 moscowchanges.ru##.banner
 moscowchanges.ru##.l-site-body__ear-banners-container
@@ -1320,7 +1327,9 @@ zam.com##.sticky-container.side-rail
 zerocoolpro.biz##.funbox
 zhkh-service.ru##.ads
 zismo.biz##.bbc_img
+znak.com##.c1-ads
 znak.com##figure
+znak.com##figure:has(> iframe[src^="/ads"])
 znak.com##main > .x1.column.flex:nth-of-type(1) > .st
 znanija.com##.brn-ads-box
 znanija.com##.js-toplayer-remove-on-close
