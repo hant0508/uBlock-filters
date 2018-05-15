@@ -1,4 +1,5 @@
 1tv.ru#@#.promo-place
+4pda.ru#@#*:if(:scope > a[rel="nofollow"][href][target="_blank"] ~ * > img[src])
 @@||*.*$popup,domain=google.com
 @@||allsocial.ru/stat/css/*$stylesheet,first-party
 @@||allsocial.ru/stat/img/app/*$image,first-party

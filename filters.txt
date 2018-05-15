@@ -16,6 +16,7 @@
 
 ! Exclusions
 1tv.ru#@#.promo-place
+4pda.ru#@#*:if(:scope > a[rel="nofollow"][href][target="_blank"] ~ * > img[src])
 @@||*.*$popup,domain=google.com
 @@||allsocial.ru/stat/css/*$stylesheet,first-party
 @@||allsocial.ru/stat/img/app/*$image,first-party
@@ -1043,6 +1044,7 @@ photobucket.com###adBlockMessaging
 physics.ru##body > noindex:nth-of-type(2)
 physics.ru##body > noindex:nth-of-type(3) > table > tbody > tr:nth-of-type(5)
 pikabu.ru##.story:has(.story__left_sponsor)
+pikabu.ru##.story:has(.story__user > a[href="/@ads"])
 pikabu.ru##.story:has(.yandex-direct)
 pikabu.ru##.story:has(> .story__main > script)
 pikabu.ru##.yandex-direct
