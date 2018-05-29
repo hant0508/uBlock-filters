@@ -1,3 +1,4 @@
+#@#.scroll-up-button
 1tv.ru#@#.promo-place
 4pda.ru#@#*:if(:scope > a[rel="nofollow"][href][target="_blank"] ~ * > img[src])
 @@||*.*$popup,domain=google.com

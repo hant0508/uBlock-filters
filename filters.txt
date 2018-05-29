@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.15
+! Version: 3.9.16
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -15,6 +15,7 @@
 ! - RU AdList: Counters (https://easylist-downloads.adblockplus.org/cntblock.txt)
 
 ! Exclusions
+#@#.scroll-up-button
 1tv.ru#@#.promo-place
 4pda.ru#@#*:if(:scope > a[rel="nofollow"][href][target="_blank"] ~ * > img[src])
 @@||*.*$popup,domain=google.com
