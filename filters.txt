@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.16
+! Version: 3.9.17
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -107,6 +107,8 @@ pikabu.ru##^script:has-text(doubleclick.net)
 pikabu.ru##^script:has-text(mc.yandex.ru)
 rvb.ru##^script:has-text(abcdefghijklmnopqrstuvwxyz)
 tapochek.net##^script:has-text(MTcityAds)
+txapela.ru##script:inject(abort-current-inline-script.js, AIO)
+txapela.ru##script:inject(abort-current-inline-script.js, String, _0x)
 zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||eurweb.com^$csp=script-src 'self' * 'unsafe-inline'
 ||freewarefiles.com^$csp=script-src 'self' * 'unsafe-inline'
