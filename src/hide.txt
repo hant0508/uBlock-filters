@@ -834,6 +834,7 @@ xn--i1abbnckbmcl9fb.xn--p1ai###myCarousel
 xn--i1abbnckbmcl9fb.xn--p1ai##.offOnMobile.no-print
 xn--i1abbnckbmcl9fb.xn--p1ai##[src^="/img/adv/"]
 yandex.ru##.distro_shown_yes
+yandex.ru##.serp-adv-item
 za.pinterest.com###desktopWrapper > div > div > div > div[data-test-giftwrap]
 zakharenkova.ru##.adsbyfffs
 zam.com##.sticky-container.side-rail
