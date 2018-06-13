@@ -164,6 +164,7 @@
 ||nsportal.com.ua/555.png
 ||ntv.ru/smi.html
 ||ozhegov.textologia.ru/templates/img/fon_bnr_cap.gif
+||paperpaper.ru/wp-content/uploads/2018/04/yota.gif
 ||payad.me/images/payadme
 ||paypic.kz/734236/gsdfjfb.php
 ||pbs.twimg.com/profile_banners/
@@ -216,6 +217,7 @@
 ||static.textnow.com/web_sales/
 ||storeb2b.com/images/banners/*
 ||studme.org/images/*adv*.gif
+||t-do.ru/creative/*.jpg
 ||tampermonkey.net/bnir/*
 ||technical-server.ru/media/upload/ban/
 ||teplo.guru/wp-content/uploads/banner

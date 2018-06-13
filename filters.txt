@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.18
+! Version: 3.9.19
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -22,6 +22,7 @@
 @@||allsocial.ru/stat/css/*$stylesheet,first-party
 @@||allsocial.ru/stat/img/app/*$image,first-party
 @@||allsocial.ru/stat/js/*$script,first-party
+@@||assets.adobedtm.com^$script,domain=ru.fifa.com
 @@||cs.pikabu.ru/files/ad/*.png
 @@||google.*/adwords/*$domain=www.google.ru
 @@||mc.yandex.ru/metrika/watch.js$script,domain=nofelet.ru
@@ -46,7 +47,9 @@ new.pikabu.ru#@#.footer__cookie:not(body):not(html)
 new.pikabu.ru#@#.story:if-not(.story__author)
 new.pikabu.ru#@#.story[data-vote="1"]
 nextcloud.com#@#.bannerhead
+pikabu.ru#@#.footer__cookie
 pikabu.ru#@#.page-story > .story:if(.story__header-additional-wrapper > .story__tags:has-text(реклама))
+pikabu.ru#@#header > .header__main:style(background-color: #8ac858 !important)
 toolslib.net#@#.col-md-6
 www.eurweb.com#@#[style] > iframe
 
@@ -392,6 +395,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||nsportal.com.ua/555.png
 ||ntv.ru/smi.html
 ||ozhegov.textologia.ru/templates/img/fon_bnr_cap.gif
+||paperpaper.ru/wp-content/uploads/2018/04/yota.gif
 ||payad.me/images/payadme
 ||paypic.kz/734236/gsdfjfb.php
 ||pbs.twimg.com/profile_banners/
@@ -444,6 +448,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||static.textnow.com/web_sales/
 ||storeb2b.com/images/banners/*
 ||studme.org/images/*adv*.gif
+||t-do.ru/creative/*.jpg
 ||tampermonkey.net/bnir/*
 ||technical-server.ru/media/upload/ban/
 ||teplo.guru/wp-content/uploads/banner

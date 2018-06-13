@@ -5,6 +5,7 @@
 @@||allsocial.ru/stat/css/*$stylesheet,first-party
 @@||allsocial.ru/stat/img/app/*$image,first-party
 @@||allsocial.ru/stat/js/*$script,first-party
+@@||assets.adobedtm.com^$script,domain=ru.fifa.com
 @@||cs.pikabu.ru/files/ad/*.png
 @@||google.*/adwords/*$domain=www.google.ru
 @@||mc.yandex.ru/metrika/watch.js$script,domain=nofelet.ru
@@ -29,6 +30,8 @@ new.pikabu.ru#@#.footer__cookie:not(body):not(html)
 new.pikabu.ru#@#.story:if-not(.story__author)
 new.pikabu.ru#@#.story[data-vote="1"]
 nextcloud.com#@#.bannerhead
+pikabu.ru#@#.footer__cookie
 pikabu.ru#@#.page-story > .story:if(.story__header-additional-wrapper > .story__tags:has-text(реклама))
+pikabu.ru#@#header > .header__main:style(background-color: #8ac858 !important)
 toolslib.net#@#.col-md-6
 www.eurweb.com#@#[style] > iframe
