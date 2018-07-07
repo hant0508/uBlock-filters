@@ -11,6 +11,7 @@
 ||5ballov.qip.ru/iframe/
 ||abcege.easytrack.pro/b$subdocument
 ||ablbook.com/images/*.gif
+||ackrbx.twirpx.net/abpsucks/
 ||activeinfo.ru/ai.gif
 ||ad.edugram.com$image,third-party
 ||adminvps.ru/img/banners/
@@ -109,6 +110,7 @@
 ||izvygon.ru/*.swf
 ||kampc-help.ru/img/30.gif
 ||keys.edufuture.biz/images/office-reform.jpg
+||kichkas.biz/templates/kic/images/1.png
 ||kingisepp-today.ru/images/banner/
 ||kingisepp.ru/images/banner/
 ||kinoframe.tv/img/mediaget.png

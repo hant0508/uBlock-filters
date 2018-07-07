@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.9.20
+! Version: 3.10.0
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -91,11 +91,15 @@ jerusalemonline.com##body:style(height: auto !important; overflow: auto !importa
 jerusalemonline.com##html:style(height: auto !important; overflow: auto !important)
 kanobu.ru##.container:style(padding-top:40px!important; background:#e5e5e5!important;)
 kinokot.me##body > .wrapeos > .heade:style(height:60px!important;)
+kinopoisk.ru##html > body:style(background: #d5d5d5 !important)
 mail.yandex.ru##.ns-view-folders > a:style(cursor:pointer!important;)
 mail.yandex.ru##.ns-view-folders:style(background-image:none!important; cursor:auto!important;)
 medzubr.ru##html:style(margin-top:0px!important)
 new.pikabu.ru##.footer:style(height:210px!important;)
 new.pikabu.ru##.header__main:style(background-color:#8ac858!important;)
+ogorod.ru##.article_table_wrapper > table > tbody > tr > td > p:style(color:#000!important;)
+ogorod.ru##.global-top-menus:style(margin-top:0px!important;)
+playzona.org##body > .wrapper > .wrap:style(margin-top:0px!important;)
 proficinema.ru##html > body:style(background:none!important;margin-top:0px!important;)
 radikal.ru##body > .render_body_main:style(padding-top:0px!important;)
 redkassa.ru##html > body:style(background:none!important;)
@@ -242,6 +246,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||5ballov.qip.ru/iframe/
 ||abcege.easytrack.pro/b$subdocument
 ||ablbook.com/images/*.gif
+||ackrbx.twirpx.net/abpsucks/
 ||activeinfo.ru/ai.gif
 ||ad.edugram.com$image,third-party
 ||adminvps.ru/img/banners/
@@ -340,6 +345,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||izvygon.ru/*.swf
 ||kampc-help.ru/img/30.gif
 ||keys.edufuture.biz/images/office-reform.jpg
+||kichkas.biz/templates/kic/images/1.png
 ||kingisepp-today.ru/images/banner/
 ||kingisepp.ru/images/banner/
 ||kinoframe.tv/img/mediaget.png
@@ -703,6 +709,8 @@ forum.antichat.ru###content > .pageWidth > .noBorderRadiusBottom.pageContent > .
 forum.beznal.cc###categories > .banner_800
 forum.beznal.cc###categories > .cat_banner
 forum.bits.media##.ipsAdvertisementHeaderLimit
+forum.xda-developers.com##.postbit-wrapper:if(.postbit-content > script:has-text(/xda_ad_choice/))
+forum.xda-developers.com##.purchad
 fossmint.com##.vce-ad-container
 fossmint.com/wp-content/uploads/2017/02/RedHat-Certification-Guide.png
 fotolink.su###banner
@@ -846,7 +854,6 @@ kinogb.net###fehu-content > .statics > .dwnl-osn > .dwnl-right
 kinogb.net###mcont > a[href="/premium.html"]
 kinokot.me##.airlinke
 kinokot.me##.carousel-inner
-kinopoisk.ru##html > body:style(background: #d5d5d5 !important)
 kizi.com###ad_title
 kizi.com###game_header
 kontromat.ru##.textwidget
@@ -1018,6 +1025,8 @@ ofirefox.ru###Mod41
 ofirefox.ru###Mod42
 ofirefox.ru###Mod43
 ogo1.ru###verBanC
+ogorod.ru##.grf_wrapper
+ogorod.ru##.head-banner
 old.pikabu.ru##.story:if-not(.story__author)
 oldi.ru###wrap > .bigbanner
 ololo.fm##.content > .col_1 > .block2:nth-of-type(34)
@@ -1051,6 +1060,7 @@ petrograd.biz,petroleks.ru##table > tbody > tr > td[width="15%"][valign="top"][a
 photobucket.com###adBlockMessaging
 physics.ru##body > noindex:nth-of-type(2)
 physics.ru##body > noindex:nth-of-type(3) > table > tbody > tr:nth-of-type(5)
+pikabu.ru##.stories-feed__message:has(> .widget-container):has(> script)
 pikabu.ru##.story:has(.story__left_sponsor)
 pikabu.ru##.story:has(.story__pin):has-text(/Яндекс.Директ/)
 pikabu.ru##.story:has(.story__sponsor)
@@ -1060,7 +1070,6 @@ pikabu.ru##.story:has(> .story__main > script)
 pikabu.ru##.ya-advert-2
 pikabu.ru##.yandex-direct
 playback.fm##.banner
-playzona.org##body > .wrapper > .wrap:style(margin-top:0px!important;)
 pleer.ru##.mainBlock.pie[style="margin-bottom: 15px; "]
 pleer.ru##noindex > center > .pie.gray_border
 plusworld.ru###container > .wrapper > .left-column > .banner__forum-fixed.ban-180x200:nth-of-type(1)
@@ -1127,6 +1136,7 @@ rg.ru##.banner-240x400
 rmprepusb.com##.sites-cookie-notice-fit
 royallib.com##.container > .container-in > .nuclear.center > .left-bar > .banner-box
 royallib.com##.container > .container-in > .nuclear.center > .wrapper > .content > table:nth-of-type(2)
+rtvi.com##[id^="adfox_"]
 ru.aliexpress.com##.ui-mask
 ru.aliexpress.com##.ui-newuser-floating-layer
 ru.investing.com###PromoteSignUpPopUp
