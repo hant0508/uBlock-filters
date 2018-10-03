@@ -107,6 +107,9 @@
 ||imagebam.com/files/_b*.php$image
 ||img1.fanfics.me/images/banner/
 ||imgcache.bitmakler.com/*.gif
+||instaforum.ru/styles/luxepro.jpg
+||instaforum.ru/styles/small-s.gif
+||instaforum.ru/styles/vjprox.gif
 ||izvygon.ru/*.swf
 ||kampc-help.ru/img/30.gif
 ||keys.edufuture.biz/images/office-reform.jpg
@@ -244,6 +247,7 @@
 ||v-olymp.ru/upload/rk/$image
 ||velo-stokcenter.ru/images/vst_720x100.swf
 ||velopiter.spb.ru/activeinfo/banners/*/*.gif
+||vestifinance.ru/html/adv_mediametrics.html
 ||vi.vipr.ebaydesc.com/ws/eBayISAPI.dll
 ||videouroki.net/*/*/*.gif
 ||videouroki.net/*banner
@@ -261,6 +265,8 @@
 ||yandex.st/uefa16-frontend/1.0.30/i/extra/yabro/
 ||yobit.net/imgban/
 ||youpk.ru/wp-content/*/banner
+||zachestnyibiznes.ru/images/franchise/
+||zachestnyibiznes.ru/images/logo/banner*
 ||город-кингисепп.рф/images/*.gif
 ||егэша.рф/examen.png
 ||егэша.рф/repetit.gif

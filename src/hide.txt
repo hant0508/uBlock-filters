@@ -133,6 +133,7 @@ deita.ru###stMainCenter > .stBunner.stInNewsListBunner
 deita.ru###stMainRight > .stRightBunner_right.stBunner
 delayreferat.ru##.side-border-left
 delayreferat.ru##.side-border-right
+delo-vcusa.ru###slide-block
 demobilization.ru##a[href="https://printonator.ru/token/"]
 deskgram.org##.ads
 dfiles.ru###iframe_console
@@ -184,6 +185,7 @@ fatalgame.com##.banner-battle
 fatalgame.com##.costplay-bottom-banner
 fatalgame.com/content/images/costplay-banner-text.png
 fatalgame.com/content/images/scorpion-subzero.jpg
+favim.ru##.advert
 fb.ru##.rollup.fsb
 fcbarcelona.cat###site-header__ads
 festival.1september.ru###body-side-right
@@ -193,6 +195,7 @@ filyanin.ru###art-main > .art-sheet > .art-sheet-body > .art-content-layout > .a
 financemagnates.com###article__banner--desktop
 finmarket.ru###pl45_ban72
 finmarket.ru###pl46_ban45
+finviz.com###banner_position
 fiz.1september.ru###menu
 fizika.advandcash.biz##.textwidget
 fn-volga.ru##.banner
@@ -314,6 +317,7 @@ infourok.ru##.dr-side-banner
 infourok.ru##.kr-banner-block
 innoarchitech.com##.banner-top-wrapper
 inosmi.ru###banner_full
+instaforum.ru##.funbox
 instagram.com##.-cx-PRIVATE-Photo__clickShield
 instagram.com##._ovg3g
 instme.com##.adv1
@@ -365,6 +369,8 @@ krov.expert##.pure-u-md-1-2.pure-u-sm-1-2.pure-u-1
 ksenia.8m.com###sideFrame
 kv.by###block-block-116
 laptop-info.ru###page > .container-inner > div > .banners
+last.fm##.mpu-subscription-upsell
+last.fm##.open-ad-container
 learnersdictionary.com##.abl-m0-t160-d160
 learnersdictionary.com##.abl-m0-t300-d300
 learnersdictionary.com##.abl-m0-t728-d728
@@ -455,6 +461,7 @@ moeobrazovanie.ru###adapt-wrapper > .headBn.puzzle
 moika78.ru##.adfox-wrap
 moika78.ru##.partner
 momentmag.com###sidebar > [id^="text-"]
+morikoff.ru###spu-bg-1182
 moscowchanges.ru##.banner
 moscowchanges.ru##.l-site-body__ear-banners-container
 moscowchanges.ru##a[href="http://smi2.ru/"]
@@ -602,6 +609,7 @@ psifree.com##.uk-button[href*="ubar-pro.ru"]
 psifree.com##td > span:has-text(uBar)
 ptzgovorit.ru###banner-a1
 pythonworld.ru###ytb > .pythonworld-contributor.alert
+qaru.site##.answer-text > div > :not(p):has-text(/Мы\s*вынуждены\s*исказить\s*текст/)
 rambler.ru##div:has( > #adfox-240x400)
 rbc.ru##.js-checkad-warning
 rbc.ua##.hidemobo.rdblock
@@ -630,6 +638,7 @@ rg.ru##.banner-240x400
 rmprepusb.com##.sites-cookie-notice-fit
 royallib.com##.container > .container-in > .nuclear.center > .left-bar > .banner-box
 royallib.com##.container > .container-in > .nuclear.center > .wrapper > .content > table:nth-of-type(2)
+rsport.ria.ru##.m--banner
 rtvi.com##[id^="adfox_"]
 ru.aliexpress.com##.ui-mask
 ru.aliexpress.com##.ui-newuser-floating-layer
@@ -715,6 +724,7 @@ stoplinux.org.ru##.ins > .block:if(.m1:has-text(/Ads/))
 studfiles.ru##.banner_bottom_preview
 studopedia.ru##td > table:has(noindex > center > .adsbygoogle)
 studopedia.su##.centerfon > table > tbody > tr > td:has(.adsbygoogle)
+tass.ru##.banner
 tass.ru##.dubleBannerPlace
 tass.ru##a[href="http://smi2.ru/"]
 tatar-inform.ru##.banner
