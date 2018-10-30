@@ -21,6 +21,7 @@
 2016.footboom.com###rb-inner
 256bit.ru##body > div:nth-of-type(1)
 256bit.ru##body > table:nth-of-type(1)
+2do2go.ru##.banner
 2gis.ru##.promoEvent
 2ip.ru##.bla_bla_car
 320kbit.net###sl
@@ -472,6 +473,8 @@ mp3-zaycev.com###page-body > .sidebar_position_left.sidebar.unit-sidebar > .side
 mp3-zaycev.com###topArtistsBlock
 mp3.cc##div[id*="Banner"]
 mp3.shmidt.net###mainbox > .rightbox
+mp3cc.biz###footerBanner
+mp3cc.biz###headerBanner
 mrko.mos.ru###swiffycontainer
 mrwolf.ru##.anekdot:has(.anekdotAds)
 msu.ru###cookie_warning_container
@@ -603,13 +606,16 @@ programmersclub.ru##img[alt="330x300 banner"]
 prokazan.ru##.actionBanner
 pron.tv##.resblockx.lextra.resblock
 proshkolu.ru##a[href^="click"]
+prostocoin.com##.sidebar-bottom-link
 prostolinux.ru###colLeft > .blogItem > center > .spanlink
 prostolinux.ru##.spanlink > img[class^="aligncenter wp-image-"]
 psifree.com##.uk-button[href*="ubar-pro.ru"]
 psifree.com##td > span:has-text(uBar)
 ptzgovorit.ru###banner-a1
 pythonworld.ru###ytb > .pythonworld-contributor.alert
+qaru.site##.adsbygoogle
 qaru.site##.answer-text > div > :not(p):has-text(/Мы\s*вынуждены\s*исказить\s*текст/)
+qaru.site##[id^="aswift"]
 rambler.ru##div:has( > #adfox-240x400)
 rbc.ru##.js-checkad-warning
 rbc.ua##.hidemobo.rdblock
@@ -657,6 +663,7 @@ rusaying.ru##.art-Block:has(p > script)
 rusaying.ru##.art-BlockContent:has(.art-BlockContent-body > script)
 rusaying.ru##.art-Post:has(.adsbygoogle)
 rusfolder.com##div[id*="widget"]
+rushist.com##.well:has(> .custom > .adsbygoogle)
 russian.rt.com###content > .widget-mediametrics
 russian.rt.com###sidebar > .shown.widget-mediametrics
 russian.rt.com###smi2-aside_single
@@ -744,6 +751,7 @@ thesimsresource.com###eucookie
 thesimsresource.com##.sticky_bottom
 thg.ru##body > div:nth-of-type(4) > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
 timeout.ru###DIV_BSN_36
+timeout.ru##.banners__item
 tlgrm.ru##.b-channel-post--ads.b-channel-post
 toolslib.net##.custom
 toolslib.net##.hidden-sm.hidden-xs.text-right.rotate-90 > h3
@@ -806,6 +814,7 @@ vokrugsveta.ru##.tgb-box
 vopvet.ru###fancybox-overlay
 vopvet.ru##.fancybox-outer
 vporn.com###video-banner
+vremya-sovetov.ru##div[id^="block"]:has( a > div > div > img[src*="advruclick"])
 vsekratko.ru###content > .add
 vsekratko.ru###pright
 vseskazki.su##.deepest.mod-box.module:has(noindex)

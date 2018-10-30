@@ -29,6 +29,7 @@
 ||belmathematics.by/images/mesto.gif
 ||belta.by/uploads/files/evroopt*$subdocument
 ||bestcube.space/wp-content/uploads/banner_bc.png
+||bestexchangers.ru/ru/sellbannermaster/$subdocument
 ||beznal.cc/*bimgs/*$image
 ||biblemenus.com/adframe
 ||bicaps.net/bicaps-bg*.jpg
@@ -39,6 +40,7 @@
 ||bookin.ucoz.ru/tcs.png
 ||botan.cc/kursy.gif
 ||c.mql4.com/images/*/*.gif
+||capitalgains.ru/imgs/300%D1%85600.gif
 ||cardingboard.net/imgs/*.gif$third-party
 ||cdn*.grattis.ru/publicdata/widget/
 ||cdn-s-static.arzamas.academy/storage/banner/
@@ -48,6 +50,7 @@
 ||cdn.hashflare.eu/banners/
 ||cdn.livetvcdn.net/html/$subdocument
 ||cdn.miped.ru/uploads/csgoc/
+||cdn.spbdnevnik.ru/uploads/attachement/image/*/*ad_segment.png
 ||cdn8.grattis.ru/publicdata/widget/
 ||chudobilet.ru/content/images/дыши.gif
 ||compua.com.ua/wp-content/uploads/2010/07/Kupit-computer.gif
@@ -59,6 +62,7 @@
 ||deita.ru/*/*/*.gif
 ||delayreferat.ru/images/polosa.swf
 ||delo-press.ru/upload/rk/*/*.gif
+||delphibasics.ru/other/forumkr.gif
 ||demo.boobstagram.com/wp-content/themes/boobstagram/images/store.gif
 ||dinternal.com.ua/wp-content/themes/dinternal/images/button-elt.jpg
 ||dinternal.com.ua/wp-content/themes/dinternal/images/pearson.gif
@@ -81,6 +85,7 @@
 ||fileskachat.com/img/bal_1.jpg
 ||filmitorrentom.org/img/amg.png
 ||football-tv.ru/images/banner
+||forum.antichat.ru/dert/*.gif
 ||foxford.ru/uploads/materials/banners/
 ||fullmatchesandshows.com/wp-content/uploads/*.gif
 ||funkyimg.com/i/*.jpg
@@ -181,8 +186,10 @@
 ||pornhub.com^$third-party
 ||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
+||profinvestment.com/wp-content/uploads/2018/07/binance.gif
 ||programmersforum.ru/anim*.gif
 ||prometheus.ru/wp-content/*/banner
+||prostocoin.com/assets/images3/nordfx.gif
 ||prostolinux.ru/wp-content/bn/ihor.gif
 ||proxy6.net/static/img/b/
 ||psp-gu.ru/templates/KinoRip-utf8-102/images/ckachat_igru_vnizu.png
@@ -192,6 +199,7 @@
 ||reklama*.ngs.ru/
 ||reshimvse.com/artadmin/$image
 ||restaurants.infcdn.net/img/fdm728.gif
+||rlsnet.ru/images/banners/$subdocument
 ||roadtomoney.ru/wp-content/uploads/*.gif
 ||robo-host.ru/banner
 ||rsload.net/images*/downasd*.png
