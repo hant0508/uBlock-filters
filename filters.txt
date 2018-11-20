@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.10.2
+! Version: 3.10.3
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -134,6 +134,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||blogport.ru^
 ||bromigo.pw^
 ||browser17.trade^
+||c4c.ru^
 ||chachatool.com^
 ||chersbaringli1978.tumblr.com^
 ||clickpays24.net^
@@ -258,6 +259,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||allsport-news.net/leon.gif
 ||alma-ata.cf/*.html
 ||altwall.net/images/b/
+||arax.ucoz.site/zpointblank.jpg
 ||artmarker.ru/banner*
 ||ayu.ru/bannerUploads/
 ||beebom.redkapmedia.netdna-cdn.com/wp-content/uploads/*/Hiring.png
@@ -474,9 +476,11 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||theindependent.co.zw/wp-content/uploads/2015/12/13121B-ZB-Home-Improvements_ZimInd-*.jpg
 ||tonymolystore.ru/2.2.3.gif
 ||torentor.co/templates/torentor/images/bublessss.png
+||torrent-igruha.ru/uploads/hi.png
 ||torrent-world.ru/uploads/knop.png
 ||torrent10.ru/uploads/fast-speed.png
 ||torrent10.ru/uploads/load-med.png
+||torrentigruha.ru/uploads/load-p.png
 ||torrents-game.net/wp-content/themes/torrent/b/
 ||transkart.ru/111/img/TIC_Excursion.gif
 ||transkart.ru/111/img/banner
@@ -789,6 +793,7 @@ grani.ru###LentaInformScriptRootN14220
 grani.ru###main-inner > .clearfix.main-text > .ad-240x400
 grani.ru###other-links
 graph.reshish.ru###rightSide
+gta-gaming.ru##.adsbygoogle
 gtmarket.ru###main > .main-cnt > section > .node > .t-a > tbody > tr > .t-f-a
 gubdaily.ru##.code-block
 gubdaily.ru##.leader-wrap-in
@@ -860,6 +865,7 @@ joyreactor.cc###pageinner > #content:has(> div:has-text(У вас обнаруж
 kampc-help.ru##.art-box-body.art-post-body > .art-post-inner > .art-postcontent > .art-article > center
 kampc-help.ru##.art-layout-cell.art-sidebar1 > .art-box.art-block
 kanobu.ru##.fluid-banner
+kazpravda.kz##.advert
 kinazona.ru##.fullstory > [id^="bn_"]
 kingisepp-today.ru###framemaster
 kingisepp-today.ru###top-master-wrapper
@@ -1131,6 +1137,7 @@ prostolinux.ru###colLeft > .blogItem > center > .spanlink
 prostolinux.ru##.spanlink > img[class^="aligncenter wp-image-"]
 psifree.com##.uk-button[href*="ubar-pro.ru"]
 psifree.com##td > span:has-text(uBar)
+psytests.org###pageAdHeader
 ptzgovorit.ru###banner-a1
 pythonworld.ru###ytb > .pythonworld-contributor.alert
 qaru.site##.adsbygoogle

@@ -23,6 +23,7 @@
 ||allsport-news.net/leon.gif
 ||alma-ata.cf/*.html
 ||altwall.net/images/b/
+||arax.ucoz.site/zpointblank.jpg
 ||artmarker.ru/banner*
 ||ayu.ru/bannerUploads/
 ||beebom.redkapmedia.netdna-cdn.com/wp-content/uploads/*/Hiring.png
@@ -239,9 +240,11 @@
 ||theindependent.co.zw/wp-content/uploads/2015/12/13121B-ZB-Home-Improvements_ZimInd-*.jpg
 ||tonymolystore.ru/2.2.3.gif
 ||torentor.co/templates/torentor/images/bublessss.png
+||torrent-igruha.ru/uploads/hi.png
 ||torrent-world.ru/uploads/knop.png
 ||torrent10.ru/uploads/fast-speed.png
 ||torrent10.ru/uploads/load-med.png
+||torrentigruha.ru/uploads/load-p.png
 ||torrents-game.net/wp-content/themes/torrent/b/
 ||transkart.ru/111/img/TIC_Excursion.gif
 ||transkart.ru/111/img/banner

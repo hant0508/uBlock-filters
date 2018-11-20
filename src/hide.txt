@@ -269,6 +269,7 @@ grani.ru###LentaInformScriptRootN14220
 grani.ru###main-inner > .clearfix.main-text > .ad-240x400
 grani.ru###other-links
 graph.reshish.ru###rightSide
+gta-gaming.ru##.adsbygoogle
 gtmarket.ru###main > .main-cnt > section > .node > .t-a > tbody > tr > .t-f-a
 gubdaily.ru##.code-block
 gubdaily.ru##.leader-wrap-in
@@ -340,6 +341,7 @@ joyreactor.cc###pageinner > #content:has(> div:has-text(У вас обнаруж
 kampc-help.ru##.art-box-body.art-post-body > .art-post-inner > .art-postcontent > .art-article > center
 kampc-help.ru##.art-layout-cell.art-sidebar1 > .art-box.art-block
 kanobu.ru##.fluid-banner
+kazpravda.kz##.advert
 kinazona.ru##.fullstory > [id^="bn_"]
 kingisepp-today.ru###framemaster
 kingisepp-today.ru###top-master-wrapper
@@ -611,6 +613,7 @@ prostolinux.ru###colLeft > .blogItem > center > .spanlink
 prostolinux.ru##.spanlink > img[class^="aligncenter wp-image-"]
 psifree.com##.uk-button[href*="ubar-pro.ru"]
 psifree.com##td > span:has-text(uBar)
+psytests.org###pageAdHeader
 ptzgovorit.ru###banner-a1
 pythonworld.ru###ytb > .pythonworld-contributor.alert
 qaru.site##.adsbygoogle
