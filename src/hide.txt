@@ -822,6 +822,7 @@ vsekratko.ru###content > .add
 vsekratko.ru###pright
 vseskazki.su##.deepest.mod-box.module:has(noindex)
 vtorke.ru##.tizers
+walletinvestor.com##div[class]:has( > div[data-section="forecast_top_box_ads_desktop"])
 warriorforum.com##.AdzerkBanner
 warriorforum.com##.AdzerkSideBanner
 web2.0calc.com###rseda

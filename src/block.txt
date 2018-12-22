@@ -40,6 +40,7 @@
 ||black.beauty-mask.biz^$popup
 ||bookin.ucoz.ru/tcs.png
 ||botan.cc/kursy.gif
+||buhgalteria.ru/upload/rk/5d0/5d063b1475c6120dbc63e8c6c90d32b4.jpg
 ||c.mql4.com/images/*/*.gif
 ||capitalgains.ru/imgs/300%D1%85600.gif
 ||cardingboard.net/imgs/*.gif$third-party
@@ -188,6 +189,7 @@
 ||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
 ||profinvestment.com/wp-content/uploads/2018/07/binance.gif
+||profitgid.ru/wp-content/themes/profitgid/images/banners/
 ||programmersforum.ru/anim*.gif
 ||prometheus.ru/wp-content/*/banner
 ||prostocoin.com/assets/images3/nordfx.gif
@@ -265,6 +267,8 @@
 ||videouroki.net/img/look/bestforteacherstop.jpg
 ||visualead.com/app/webroot/pages_ads/
 ||vladmaxi.net/uploads/*/*/banner*.gif
+||walletinvestor.com/static/frontend/images/gg/970x90.gif
+||walletinvestor.com/static/frontend/images/rockz/rockz970.gif
 ||webmath.ru/images/ban.swf
 ||webmath.ru/images/webmath_240_400_homework.jpg
 ||whoer.net/images/*.gif

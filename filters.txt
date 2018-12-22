@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.10.3
+! Version: 3.10.4
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -22,6 +22,7 @@
 @@||allsocial.ru/stat/css/*$stylesheet,first-party
 @@||allsocial.ru/stat/img/app/*$image,first-party
 @@||allsocial.ru/stat/js/*$script,first-party
+@@||api.geetest.com^$script,domain=binance.com
 @@||assets.adobedtm.com^$script,domain=ru.fifa.com
 @@||cs.pikabu.ru/files/ad/*.png
 @@||google.*/adwords/*$domain=www.google.ru
@@ -30,6 +31,7 @@
 @@||profi.ru/backoffice/icjs/b2b/img/*$image,domain=math.semestr.ru
 @@||relap.io/api$script,domain=adme.ru
 @@||speedtest.net/javascript/speedtest-main.js?*
+@@||static.geetest.com/static/js/*$script,domain=binance.com
 @@||telegram.vs.fsb.today/wp-content/themes/twentyseventeen/images/240x400.jpg
 @@||telegram.vs.fsb.today/wp-content/themes/twentyseventeen/images/300x250.jpg
 @@||u.alicdn.com/??js/6v/lib/arale/widget/widget.js,js/6v/lib/arale/templatable/templatable.js,js/6v/biz/common/click-stat/click-stat.js,mobile/ae/common/hawe/1.0.4/hawe.js$script,domain=sale.aliexpress.com
@@ -276,6 +278,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||black.beauty-mask.biz^$popup
 ||bookin.ucoz.ru/tcs.png
 ||botan.cc/kursy.gif
+||buhgalteria.ru/upload/rk/5d0/5d063b1475c6120dbc63e8c6c90d32b4.jpg
 ||c.mql4.com/images/*/*.gif
 ||capitalgains.ru/imgs/300%D1%85600.gif
 ||cardingboard.net/imgs/*.gif$third-party
@@ -424,6 +427,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
 ||profinvestment.com/wp-content/uploads/2018/07/binance.gif
+||profitgid.ru/wp-content/themes/profitgid/images/banners/
 ||programmersforum.ru/anim*.gif
 ||prometheus.ru/wp-content/*/banner
 ||prostocoin.com/assets/images3/nordfx.gif
@@ -501,6 +505,8 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||videouroki.net/img/look/bestforteacherstop.jpg
 ||visualead.com/app/webroot/pages_ads/
 ||vladmaxi.net/uploads/*/*/banner*.gif
+||walletinvestor.com/static/frontend/images/gg/970x90.gif
+||walletinvestor.com/static/frontend/images/rockz/rockz970.gif
 ||webmath.ru/images/ban.swf
 ||webmath.ru/images/webmath_240_400_homework.jpg
 ||whoer.net/images/*.gif
@@ -1346,6 +1352,7 @@ vsekratko.ru###content > .add
 vsekratko.ru###pright
 vseskazki.su##.deepest.mod-box.module:has(noindex)
 vtorke.ru##.tizers
+walletinvestor.com##div[class]:has( > div[data-section="forecast_top_box_ads_desktop"])
 warriorforum.com##.AdzerkBanner
 warriorforum.com##.AdzerkSideBanner
 web2.0calc.com###rseda

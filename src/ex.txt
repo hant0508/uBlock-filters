@@ -5,6 +5,7 @@
 @@||allsocial.ru/stat/css/*$stylesheet,first-party
 @@||allsocial.ru/stat/img/app/*$image,first-party
 @@||allsocial.ru/stat/js/*$script,first-party
+@@||api.geetest.com^$script,domain=binance.com
 @@||assets.adobedtm.com^$script,domain=ru.fifa.com
 @@||cs.pikabu.ru/files/ad/*.png
 @@||google.*/adwords/*$domain=www.google.ru
@@ -13,6 +14,7 @@
 @@||profi.ru/backoffice/icjs/b2b/img/*$image,domain=math.semestr.ru
 @@||relap.io/api$script,domain=adme.ru
 @@||speedtest.net/javascript/speedtest-main.js?*
+@@||static.geetest.com/static/js/*$script,domain=binance.com
 @@||telegram.vs.fsb.today/wp-content/themes/twentyseventeen/images/240x400.jpg
 @@||telegram.vs.fsb.today/wp-content/themes/twentyseventeen/images/300x250.jpg
 @@||u.alicdn.com/??js/6v/lib/arale/widget/widget.js,js/6v/lib/arale/templatable/templatable.js,js/6v/biz/common/click-stat/click-stat.js,mobile/ae/common/hawe/1.0.4/hawe.js$script,domain=sale.aliexpress.com
