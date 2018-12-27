@@ -1392,6 +1392,10 @@ xn--i1abbnckbmcl9fb.xn--p1ai##.offOnMobile.no-print
 xn--i1abbnckbmcl9fb.xn--p1ai##[src^="/img/adv/"]
 yandex.ru##.distro_shown_yes
 yandex.ru##.serp-adv-item
+yandex.ru##.desk-notif-card_js_inited.i-bem.desk-notif-card_bg_default.desk-notif-card_animated_yes
+yandex.ru##.media-grid__media-content
+yandex.ru##.media-infinity-footer__content_visible_yes.media-infinity-footer__content
+yandex.ru##div.desk-notif-card__domik-item:nth-of-type(3)
 za.pinterest.com###desktopWrapper > div > div > div > div[data-test-giftwrap]
 zakharenkova.ru##.adsbyfffs
 zam.com##.sticky-container.side-rail
