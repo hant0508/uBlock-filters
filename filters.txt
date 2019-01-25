@@ -62,6 +62,7 @@ www.eurweb.com#@#[style] > iframe
 ##.Banner_Top
 ##.abc_banner
 ##.adv_wrap
+##.banner
 ##.banner2
 ##.bunner
 ##.megaads
@@ -551,7 +552,6 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 2016.footboom.com###rb-inner
 256bit.ru##body > div:nth-of-type(1)
 256bit.ru##body > table:nth-of-type(1)
-2do2go.ru##.banner
 2gis.ru##.promoEvent
 2ip.ru##.bla_bla_car
 320kbit.net###sl
@@ -669,7 +669,6 @@ demobilization.ru##a[href="https://printonator.ru/token/"]
 deskgram.org##.ads
 dfiles.ru###iframe_console
 dljatela.ru###tertiary
-dnpmag.com##.banner
 dns-shop.ru##.container > main > .ad-content-banner-under-window
 domashniy.ru##.advert
 download.chainfire.eu###bar-left
@@ -729,7 +728,6 @@ finmarket.ru###pl46_ban45
 finviz.com###banner_position
 fiz.1september.ru###menu
 fizika.advandcash.biz##.textwidget
-fn-volga.ru##.banner
 football-tv.ru##.wrapper > .header > .topreclama > .reclama-in-header
 football-tv.ru##.wrapper > .middle > .right-sidebar > .banner-ping-media
 forbes.com##.top-ad-container
@@ -751,7 +749,6 @@ fryazino.info##.adv1x
 fryazino.info##.adv2x
 fryazino.info##.adv3x
 fun.rufex.net###toTop > noindex > .gglhp.abl.mead
-funpic.us##.banner
 furfur.me###fixed-sidebar
 furfur.me##.app-content.page-content > .main-row.row > .row-cont > .app-content.content > .post > .pseudosidebar
 futbik.net##table > tbody > tr > td[onclick^="window.open('http"][style]
@@ -824,7 +821,6 @@ home.webalta.ru###out-content > .col-2
 howto.mydiv.net##div[style="border:1px #EAEAEA solid; widtH:728px; height:90px; margin-top:5px; margin-bottom:38px;"]
 howto.mydiv.net##div[style="margin-top:120px;width:160px; height:600px;  bordeR:1px #eeeeee solid;"]
 howto.mydiv.net##div[style="margin-top:120px;width:160px; padding:2px; height:600px;  bordeR:1px #eeeeee solid;"]
-howtoubuntu.org##.banner.ad
 i-vd.org.ru##table > tbody > tr > td > table > tbody > tr > td > .mainfooter
 ib.mazurok.com###secondary
 ibm.com###dw-regbar
@@ -995,7 +991,6 @@ moika78.ru##.adfox-wrap
 moika78.ru##.partner
 momentmag.com###sidebar > [id^="text-"]
 morikoff.ru###spu-bg-1182
-moscowchanges.ru##.banner
 moscowchanges.ru##.l-site-body__ear-banners-container
 moscowchanges.ru##a[href="http://smi2.ru/"]
 moscowwriters.ru##body > table:nth-of-type(2)
@@ -1105,7 +1100,6 @@ pikabu.ru##.story:has(.yandex-direct)
 pikabu.ru##.story:has(> .story__main > script)
 pikabu.ru##.ya-advert-2
 pikabu.ru##.yandex-direct
-playback.fm##.banner
 pleer.ru##.mainBlock.pie[style="margin-bottom: 15px; "]
 pleer.ru##noindex > center > .pie.gray_border
 plusworld.ru###container > .wrapper > .left-column > .banner__forum-fixed.ban-180x200:nth-of-type(1)
@@ -1264,10 +1258,8 @@ stoplinux.org.ru##.ins > .block:if(.m1:has-text(/Ads/))
 studfiles.ru##.banner_bottom_preview
 studopedia.ru##td > table:has(noindex > center > .adsbygoogle)
 studopedia.su##.centerfon > table > tbody > tr > td:has(.adsbygoogle)
-tass.ru##.banner
 tass.ru##.dubleBannerPlace
 tass.ru##a[href="http://smi2.ru/"]
-tatar-inform.ru##.banner
 telegraf.by##.promo-240_400.promo-box
 testi.ru###main > .menu.normb
 testi.ru##[class^="bborder"][class*="upad"]
@@ -1361,7 +1353,6 @@ webalta.ru###out-content > .col-2
 webalta.ru##.wrapper > .header2.header > .header2 > .head-row-logo2.o-h.head-row-logo > .f-l.search > .search-form2.search-form > .b-s.f-l.head2-setting
 webbazar.eu###fblikebg
 webbazar.eu###fblikepop
-webmath.ru##.banner
 webmath.ru##.block-container:has-text(/заказ/)
 webmath.ru##.popupCreateOrderWindow
 whatsonsukhumvit.com##.floatBottom.nc_wrapper
