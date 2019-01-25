@@ -57,6 +57,7 @@ www.eurweb.com#@#[style] > iframe
 
 ! Global rules
 ###WIX_ADS
+###banner
 ###bannerSmall
 ###bg-banner
 ##.Banner_Top
@@ -741,7 +742,6 @@ forum.xda-developers.com##.postbit-wrapper:if(.postbit-content > script:has-text
 forum.xda-developers.com##.purchad
 fossmint.com##.vce-ad-container
 fossmint.com/wp-content/uploads/2017/02/RedHat-Certification-Guide.png
-fotolink.su###banner
 fotostrana.ru##.iPopup
 freedownloadtorrent.org##.bg_link
 freeimagefap.com##[id^="banner"]
@@ -1273,7 +1273,6 @@ testi.ru###main > .menu.normb
 testi.ru##[class^="bborder"][class*="upad"]
 testi.ru##[id^="DIV_DA_"]
 tetkam.net###blanket
-textnow.com###banner
 the-rutor.org###up
 the-village.ru###fixed-sidebar
 the-village.ru##.app-content.page-content > .row-adblock-message.row
