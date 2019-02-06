@@ -118,6 +118,7 @@ convertio.co##.main-wrapper-for-sticky-footer > .inner-new-page.content > .conte
 cqham.ru##blockquote > p:nth-of-type(62)
 cqham.ru##div > center > table > tbody > tr:nth-of-type(1)
 crypto.hut2.ru###AW121
+cryptocompare.com#@#.ccc-widget
 cxz.to##.b-section-menu + *
 cxz.to##.b-tab-item__description + * + *
 cxz.to##.l-content > .b-scroll-top + .b-nowviewed + *

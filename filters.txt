@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.10.4
+! Version: 3.10.5
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -355,6 +355,8 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||instaforum.ru/styles/luxepro.jpg
 ||instaforum.ru/styles/small-s.gif
 ||instaforum.ru/styles/vjprox.gif
+||isopromat.ru/wp-content/uploads/RT17.png
+||isopromat.ru/wp-content/uploads/is-help.png
 ||izvygon.ru/*.swf
 ||kampc-help.ru/img/30.gif
 ||keys.edufuture.biz/images/office-reform.jpg
@@ -386,7 +388,14 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||mathprofi.ru/images/ez.png
 ||mathprofi.ru/images/matburo*.gif
 ||mathprofi.ru/images/matburo.gif
+||mathprofi.ru/images/matburo1.png
+||mathprofi.ru/images/matburo2.png
+||mathprofi.ru/images/matburo3.png
+||mathprofi.ru/images/rl1.png
+||mathprofi.ru/images/rl2.png
+||mathprofi.ru/images/studhelp.png
 ||mathprofi.ru/images/zaochnik*.gif
+||mathprofi.ru/images/zaong.png
 ||mathwarehouse.com/images/icons/penjee/*.gif
 ||megahead.ru/images/146.png
 ||megarand.ru/images/banner.png
@@ -413,6 +422,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||no-viruses.ru/frt.jpg
 ||nsportal.com.ua/555.png
 ||ntv.ru/smi.html
+||offergate.pro/content/*.gif$third-party
 ||ozhegov.textologia.ru/templates/img/fon_bnr_cap.gif
 ||paperpaper.ru/wp-content/uploads/2018/04/yota.gif
 ||payad.me/images/payadme
@@ -423,6 +433,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||php-zametki.ru/images/banner*.gif
 ||playzona.org/uploads/*/*banner*
 ||poetrylibrary.ru/img/demo.jpg
+||police-russia.com/images/misc/banner*
 ||pornhub.com^$third-party
 ||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
@@ -486,6 +497,8 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||torrent10.ru/uploads/load-med.png
 ||torrentigruha.ru/uploads/load-p.png
 ||torrents-game.net/wp-content/themes/torrent/b/
+||trackeroc.org/images/dnl.gif
+||trackerock.ru/images/icon_dn.gif
 ||transkart.ru/111/img/TIC_Excursion.gif
 ||transkart.ru/111/img/banner
 ||tv-torrent.club/123.png
@@ -648,6 +661,7 @@ convertio.co##.main-wrapper-for-sticky-footer > .inner-new-page.content > .conte
 cqham.ru##blockquote > p:nth-of-type(62)
 cqham.ru##div > center > table > tbody > tr:nth-of-type(1)
 crypto.hut2.ru###AW121
+cryptocompare.com#@#.ccc-widget
 cxz.to##.b-section-menu + *
 cxz.to##.b-tab-item__description + * + *
 cxz.to##.l-content > .b-scroll-top + .b-nowviewed + *
