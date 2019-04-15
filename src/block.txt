@@ -23,6 +23,7 @@
 ||allsport-news.net/leon.gif
 ||alma-ata.cf/*.html
 ||altwall.net/images/b/
+||antiextremizm.ru/wp-content/uploads/2018/11/halva.jpg
 ||arax.ucoz.site/zpointblank.jpg
 ||artmarker.ru/banner*
 ||ayu.ru/bannerUploads/
@@ -35,6 +36,7 @@
 ||biblemenus.com/adframe
 ||bicaps.net/bicaps-bg*.jpg
 ||biord.ru/wp-content/uploads/2016/01/iherb.swf
+||bitcointoolmining.com^
 ||bitjournal.media/ads/
 ||bits.media/images/yobit.gif
 ||black.beauty-mask.biz^$popup
@@ -112,6 +114,7 @@
 ||igrigo.net/uploads/mg-2.png
 ||igrypk.net/uploads/link1.png
 ||imagebam.com/files/_b*.php$image
+||img.staticbg.com/images/banner/
 ||img1.fanfics.me/images/banner/
 ||imgcache.bitmakler.com/*.gif
 ||instaforum.ru/styles/luxepro.jpg
@@ -199,6 +202,7 @@
 ||pornhub.com^$third-party
 ||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
+||pro-prof.com/wp-content/uploads/2019/03/host.gif
 ||profinvestment.com/wp-content/uploads/2018/07/binance.gif
 ||profitgid.ru/wp-content/themes/profitgid/images/banners/
 ||programmersforum.ru/anim*.gif
@@ -241,6 +245,8 @@
 ||static-cdn.karaoke.ru/karaoke-site/img/button-friends.png
 ||static.fastpic.ru/js/jquery*.js
 ||static.ngs.ru/reklama/$image
+||static.tele.click/ads/
+||static.teleg.run/ads/
 ||static.textnow.com/web_sales/
 ||storeb2b.com/images/banners/*
 ||studme.org/images/*adv*.gif
@@ -250,6 +256,7 @@
 ||teplo.guru/wp-content/uploads/banner
 ||tetkam.net/images/fb/close.png
 ||tetkam.net/images/fb/subscribe.png
+||tglink.ru/promo/
 ||theindependent.co.zw/wp-content/uploads/2015/12/13121B-ZB-Home-Improvements_ZimInd-*.jpg
 ||tonymolystore.ru/2.2.3.gif
 ||torentor.co/templates/torentor/images/bublessss.png
@@ -280,6 +287,10 @@
 ||videouroki.net/img/look/bestforteacherstop.jpg
 ||visualead.com/app/webroot/pages_ads/
 ||vladmaxi.net/uploads/*/*/banner*.gif
+||vladnews.ru/uploads/newsb/2019/01/29/f003958277bc7a9161ad7de963b1074b8c60e98d.gif
+||vladnews.ru/uploads/newsb/2019/02/11/2698b01d7a45479ecb9ba21eb7a20ff1e72b8adf.jpeg
+||voiceapp.ru/wp-content/themes/alexashop/img/sidebar/music_v1_320x480.jpg
+||voiceapp.ru/wp-content/uploads/2018/09/sidebar-2.png
 ||walletinvestor.com/static/frontend/images/gg/970x90.gif
 ||walletinvestor.com/static/frontend/images/rockz/rockz970.gif
 ||webmath.ru/images/ban.swf

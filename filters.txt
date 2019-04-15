@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by hant0508
-! Version: 3.10.5
+! Version: 3.10.6
 ! Homepage: https://github.com/hant0508/uBlock-filters
 
 ! Recommended to use with:
@@ -111,6 +111,7 @@ yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 freewarefiles.com##^script:has-text(sponsoredwellcontainertop)
 goodfilm.top##^script:has-text(AD_DOMAIN_URL_SYS)
 goodfilm.top##^script:has-text(advertserve.com)
+kodges.ru##^script:has-text(<noindex><center><div><br)
 pikabu.ru##^script:has-text(counter.yadro.ru)
 pikabu.ru##^script:has-text(doubleclick.net)
 pikabu.ru##^script:has-text(mc.yandex.ru)
@@ -219,6 +220,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||vid.x-casino.net^
 ||viniki.ru^
 ||vk-com-auth5.com^
+||vk.com/app2256389$document
 ||vkupon.ru^
 ||vsepro-forex.ru^
 ||vstrade.ru^
@@ -261,6 +263,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||allsport-news.net/leon.gif
 ||alma-ata.cf/*.html
 ||altwall.net/images/b/
+||antiextremizm.ru/wp-content/uploads/2018/11/halva.jpg
 ||arax.ucoz.site/zpointblank.jpg
 ||artmarker.ru/banner*
 ||ayu.ru/bannerUploads/
@@ -273,6 +276,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||biblemenus.com/adframe
 ||bicaps.net/bicaps-bg*.jpg
 ||biord.ru/wp-content/uploads/2016/01/iherb.swf
+||bitcointoolmining.com^
 ||bitjournal.media/ads/
 ||bits.media/images/yobit.gif
 ||black.beauty-mask.biz^$popup
@@ -350,6 +354,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||igrigo.net/uploads/mg-2.png
 ||igrypk.net/uploads/link1.png
 ||imagebam.com/files/_b*.php$image
+||img.staticbg.com/images/banner/
 ||img1.fanfics.me/images/banner/
 ||imgcache.bitmakler.com/*.gif
 ||instaforum.ru/styles/luxepro.jpg
@@ -437,6 +442,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||pornhub.com^$third-party
 ||postimgcache.bitmakler.com/*.gif
 ||prankota.com/images/*.gif
+||pro-prof.com/wp-content/uploads/2019/03/host.gif
 ||profinvestment.com/wp-content/uploads/2018/07/binance.gif
 ||profitgid.ru/wp-content/themes/profitgid/images/banners/
 ||programmersforum.ru/anim*.gif
@@ -479,6 +485,8 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||static-cdn.karaoke.ru/karaoke-site/img/button-friends.png
 ||static.fastpic.ru/js/jquery*.js
 ||static.ngs.ru/reklama/$image
+||static.tele.click/ads/
+||static.teleg.run/ads/
 ||static.textnow.com/web_sales/
 ||storeb2b.com/images/banners/*
 ||studme.org/images/*adv*.gif
@@ -488,6 +496,7 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||teplo.guru/wp-content/uploads/banner
 ||tetkam.net/images/fb/close.png
 ||tetkam.net/images/fb/subscribe.png
+||tglink.ru/promo/
 ||theindependent.co.zw/wp-content/uploads/2015/12/13121B-ZB-Home-Improvements_ZimInd-*.jpg
 ||tonymolystore.ru/2.2.3.gif
 ||torentor.co/templates/torentor/images/bublessss.png
@@ -518,6 +527,10 @@ zismo.biz##^script:has-text(http://zismone.ru/2549.js?v=123")
 ||videouroki.net/img/look/bestforteacherstop.jpg
 ||visualead.com/app/webroot/pages_ads/
 ||vladmaxi.net/uploads/*/*/banner*.gif
+||vladnews.ru/uploads/newsb/2019/01/29/f003958277bc7a9161ad7de963b1074b8c60e98d.gif
+||vladnews.ru/uploads/newsb/2019/02/11/2698b01d7a45479ecb9ba21eb7a20ff1e72b8adf.jpeg
+||voiceapp.ru/wp-content/themes/alexashop/img/sidebar/music_v1_320x480.jpg
+||voiceapp.ru/wp-content/uploads/2018/09/sidebar-2.png
 ||walletinvestor.com/static/frontend/images/gg/970x90.gif
 ||walletinvestor.com/static/frontend/images/rockz/rockz970.gif
 ||webmath.ru/images/ban.swf
@@ -661,6 +674,7 @@ convertio.co##.main-wrapper-for-sticky-footer > .inner-new-page.content > .conte
 cqham.ru##blockquote > p:nth-of-type(62)
 cqham.ru##div > center > table > tbody > tr:nth-of-type(1)
 crypto.hut2.ru###AW121
+cryptocompare.com##.ng-scope.sponsored-image
 cryptocompare.com#@#.ccc-widget
 cxz.to##.b-section-menu + *
 cxz.to##.b-tab-item__description + * + *
@@ -830,6 +844,8 @@ hdrezka.me##[id^="bn_"]
 hdrezka.me##div[id^="skin_"][class^="skin-block_"][style^="background-image:"]
 helpiks.org##.baner
 helpiks.org##.yandex-adaptive
+helpsetup.ru##.fixed1
+helpsetup.ru##ins.adsbygoogle
 hh.ru##.vacancy-view-banners
 hh.ru##.work-in-company-banner
 hh.ru##[class^="banner-place"]
@@ -886,6 +902,7 @@ kampc-help.ru##.art-box-body.art-post-body > .art-post-inner > .art-postcontent 
 kampc-help.ru##.art-layout-cell.art-sidebar1 > .art-box.art-block
 kanobu.ru##.fluid-banner
 kazpravda.kz##.advert
+kimovil.ru##[id^="div-gpt-ad"]
 kinazona.ru##.fullstory > [id^="bn_"]
 kingisepp-today.ru###framemaster
 kingisepp-today.ru###top-master-wrapper
@@ -1105,6 +1122,7 @@ pb.wtf###topics_maine > tbody:not([id]):has-text(Рекламный пират)
 pb.wtf##thead > .hidden-sm.hidden-xs:has(> th > span:has-text(/^Реклама$/))
 pc-torrents.net##.full-bac.rkl-box
 pcpro100.info###block_r
+pdalife.ru##.game-download
 pdalife.ru##.horizontalBanner
 petrograd.biz,petroleks.ru##table > tbody > tr > td[width="15%"][valign="top"][align="right"]
 photobucket.com###adBlockMessaging
@@ -1142,6 +1160,7 @@ ppl.nnov.ru##a[href="http://www.monolit.nnov.ru/"]
 ppt4web.ru##.kr-banner-text
 pravorub.ru###banner_side
 pravoved.ru##.prvd-af-banner
+prepostseo.com/imgs/dabay/lumba-daba*.gif
 price4all.ru##body > .topreklama
 proficinema.ru###makeAllStatic
 proficinema.ru##.lw > div[style="height: 120px;"]
@@ -1288,6 +1307,7 @@ testi.ru##[class^="bborder"][class*="upad"]
 testi.ru##[id^="DIV_DA_"]
 tetkam.net###blanket
 textnow.com###banner
+tgstat.com##.top-channels
 the-rutor.org###up
 the-village.ru###fixed-sidebar
 the-village.ru##.app-content.page-content > .row-adblock-message.row
@@ -1316,6 +1336,7 @@ translit-online.ru###b2
 trashbox.ru###div_page_right > aside > .table_center > div > .adnobg.center
 trendymen.ru##.ban300x600
 trendymen.ru##.head-banner-wrapper
+ttttt.me##.centered > div
 tv-torrent.club###b_bn_331
 tv-torrent.club##[id^="bn_"]
 tvc.ru##.b-article__addon-title
@@ -1338,6 +1359,7 @@ ural.kp.ru###article-page\  > .boxPage > .boxCols
 usa.philips.com##.mfp-iframe-holder
 usa.philips.com##.mfp-ready
 userstyles.org##.style_card_long:has(.adContainer)
+userstyles.org##div.us-stylecard--short:has(img[src="/ui/images/280x294.png"])
 usingenglish.com###header-leaderboard
 v3.co.uk##.ad-slot-full
 v3wall.com##.web_right_ads
@@ -1407,6 +1429,8 @@ xn--i1abbnckbmcl9fb.xn--p1ai##[src^="/img/adv/"]
 yandex.ru##.distro_shown_yes
 yandex.ru##.serp-adv-item
 za.pinterest.com###desktopWrapper > div > div > div > div[data-test-giftwrap]
+zabavnik.club###slidebox
+zabavnik.club##.sticky-code-block
 zakharenkova.ru##.adsbyfffs
 zam.com##.sticky-container.side-rail
 zerocoolpro.biz##.funbox

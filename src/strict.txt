@@ -91,6 +91,7 @@
 ||vid.x-casino.net^
 ||viniki.ru^
 ||vk-com-auth5.com^
+||vk.com/app2256389$document
 ||vkupon.ru^
 ||vsepro-forex.ru^
 ||vstrade.ru^

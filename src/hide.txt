@@ -118,6 +118,7 @@ convertio.co##.main-wrapper-for-sticky-footer > .inner-new-page.content > .conte
 cqham.ru##blockquote > p:nth-of-type(62)
 cqham.ru##div > center > table > tbody > tr:nth-of-type(1)
 crypto.hut2.ru###AW121
+cryptocompare.com##.ng-scope.sponsored-image
 cryptocompare.com#@#.ccc-widget
 cxz.to##.b-section-menu + *
 cxz.to##.b-tab-item__description + * + *
@@ -287,6 +288,8 @@ hdrezka.me##[id^="bn_"]
 hdrezka.me##div[id^="skin_"][class^="skin-block_"][style^="background-image:"]
 helpiks.org##.baner
 helpiks.org##.yandex-adaptive
+helpsetup.ru##.fixed1
+helpsetup.ru##ins.adsbygoogle
 hh.ru##.vacancy-view-banners
 hh.ru##.work-in-company-banner
 hh.ru##[class^="banner-place"]
@@ -343,6 +346,7 @@ kampc-help.ru##.art-box-body.art-post-body > .art-post-inner > .art-postcontent 
 kampc-help.ru##.art-layout-cell.art-sidebar1 > .art-box.art-block
 kanobu.ru##.fluid-banner
 kazpravda.kz##.advert
+kimovil.ru##[id^="div-gpt-ad"]
 kinazona.ru##.fullstory > [id^="bn_"]
 kingisepp-today.ru###framemaster
 kingisepp-today.ru###top-master-wrapper
@@ -562,6 +566,7 @@ pb.wtf###topics_maine > tbody:not([id]):has-text(Рекламный пират)
 pb.wtf##thead > .hidden-sm.hidden-xs:has(> th > span:has-text(/^Реклама$/))
 pc-torrents.net##.full-bac.rkl-box
 pcpro100.info###block_r
+pdalife.ru##.game-download
 pdalife.ru##.horizontalBanner
 petrograd.biz,petroleks.ru##table > tbody > tr > td[width="15%"][valign="top"][align="right"]
 photobucket.com###adBlockMessaging
@@ -599,6 +604,7 @@ ppl.nnov.ru##a[href="http://www.monolit.nnov.ru/"]
 ppt4web.ru##.kr-banner-text
 pravorub.ru###banner_side
 pravoved.ru##.prvd-af-banner
+prepostseo.com/imgs/dabay/lumba-daba*.gif
 price4all.ru##body > .topreklama
 proficinema.ru###makeAllStatic
 proficinema.ru##.lw > div[style="height: 120px;"]
@@ -745,6 +751,7 @@ testi.ru##[class^="bborder"][class*="upad"]
 testi.ru##[id^="DIV_DA_"]
 tetkam.net###blanket
 textnow.com###banner
+tgstat.com##.top-channels
 the-rutor.org###up
 the-village.ru###fixed-sidebar
 the-village.ru##.app-content.page-content > .row-adblock-message.row
@@ -773,6 +780,7 @@ translit-online.ru###b2
 trashbox.ru###div_page_right > aside > .table_center > div > .adnobg.center
 trendymen.ru##.ban300x600
 trendymen.ru##.head-banner-wrapper
+ttttt.me##.centered > div
 tv-torrent.club###b_bn_331
 tv-torrent.club##[id^="bn_"]
 tvc.ru##.b-article__addon-title
@@ -795,6 +803,7 @@ ural.kp.ru###article-page\  > .boxPage > .boxCols
 usa.philips.com##.mfp-iframe-holder
 usa.philips.com##.mfp-ready
 userstyles.org##.style_card_long:has(.adContainer)
+userstyles.org##div.us-stylecard--short:has(img[src="/ui/images/280x294.png"])
 usingenglish.com###header-leaderboard
 v3.co.uk##.ad-slot-full
 v3wall.com##.web_right_ads
@@ -864,6 +873,8 @@ xn--i1abbnckbmcl9fb.xn--p1ai##[src^="/img/adv/"]
 yandex.ru##.distro_shown_yes
 yandex.ru##.serp-adv-item
 za.pinterest.com###desktopWrapper > div > div > div > div[data-test-giftwrap]
+zabavnik.club###slidebox
+zabavnik.club##.sticky-code-block
 zakharenkova.ru##.adsbyfffs
 zam.com##.sticky-container.side-rail
 zerocoolpro.biz##.funbox
