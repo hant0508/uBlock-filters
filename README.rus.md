@@ -28,11 +28,17 @@ Language: **Русский|[English](/README.md)**
 * [RU AdList: Counters](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/cntblock.txt&title=RU%20AdList:%20Counters)
 * [Adguard Russian Filter](https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/1.txt&title=Adguard%20Russian%20Filter)*
 * [Adguard English Filter](https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/2.txt&title=Adguard%20English%20Filter)*
-* [Adguard Spyware Filter](https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/3.txt&title=Adguard%20Spyware%20Filter)* <br>
+* [Adguard Spyware Filter](https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/3.txt&title=Adguard%20Spyware%20Filter)*
+* [uBlock Filters +](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt&title=uBlock%20Filters%20%2B)* <br>
 *совместимы только с uBlock Origin
 
 Я также рекомендую посмотреть репозитории **[userscripts](https://github.com/hant0508/usescripts)** и **[userstyles](https://github.com/hant0508/userstyles)**. Там вы можете найти скрипты и стили,
 удаляющие "сложную" рекламу.
+
+Для корректно работы кнопку авторизации "Войти с помощью аккаунта Google" надо добавить в исключения:
+```
+||smartlock.google.com^
+```
 
 ### Обратная связь
 
