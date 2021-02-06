@@ -31,6 +31,13 @@ I recommend using the following filter lists for the best result:
 
 You can also take a look at **[userscripts](https://github.com/hant0508/usescripts)** and **[userstyles](https://github.com/hant0508/userstyles)** repositories. There you can find scripts and styles removing "complicated" ads.
 
+For correctly work and visible "Sign in with your Google account" button must be added to the exceptions:
+```
+||smartlock.google.com^
+||id.google.com^
+||accounts.google.com/gsi/$3p
+```
+
 ### Feedback
 If you have any problems with the filters, [open an issue](https://github.com/hant0508/uBlock-fillters/issues/new). If you have any
 difficulties in blocking ads on any site, you can also
